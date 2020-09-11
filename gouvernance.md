@@ -21,17 +21,11 @@ Pour chaque département, il est important de connaître :
 
 La proposition est de créer un tableau de bord par département. La liste est disponible à [la page suivante](https://trello.com/b/oSmy09cz/lapins-consortium-d%C3%A9partements) dans la première colonne.
 
-### Équipe
-
-On a une page pour les \[\[nouveaux arrivants \|nouvel arrivant\]\] ! Et une pour les \[\[départ de l'équipe\]\]
-
 ### Produit
 
 On organise notre travail sur un tableau [trello/product-lapin](https://trello.com/b/BiT8tx09/product-lapin)
 
-* \[\[Créer un compte super admin\]\]
-* \[\[Créer un compte admin\]\]
-* \[\[Changelog\]\]
+Pour l'historique des modifications de l'application, pour le moment, c'est sur le wiki du github [https://github.com/betagouv/rdv-solidarites.fr/wiki/Changelog](https://github.com/betagouv/rdv-solidarites.fr/wiki/Changelog)
 
 Nous explorons des pistes de changement UX avec des maquettes sur Figma:
 
