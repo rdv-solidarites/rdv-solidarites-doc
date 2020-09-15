@@ -6,4 +6,5 @@
 * [Notifications](notifications.md)
 * [FAQ](faq.md)
 * [Infrastructure](infrastructure.md)
+* [prises de RDV](prises-de-rdv.md)
 
