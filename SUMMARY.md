@@ -5,15 +5,18 @@
 * [Glossaire](glossaire.md)
 * [Notifications](notifications.md)
 * [FAQ](faq.md)
-* [Infrastructure](infrastructure.md)
 * [prises de RDV](prises-de-rdv.md)
 * [Découpage géographique et administratif des services](decoupage-geographique-et-administratif-des-services.md)
 * [Liens agents - usagers - organisations](liens-agents-usagers-organisations.md)
 * [Statut de rendez-vous](statut-de-rendez-vous.md)
+* [Zimbra](zimbra.md)
 
-## Interconnexions <a id="interconnexions-1"></a>
+## Aspects techniques <a id="technique"></a>
 
-* [Interconnexions](interconnexions-1/interconnexions.md)
-* [Zimbra](interconnexions-1/zimbra.md)
-* [Génération de signature](interconnexions-1/generation-de-signature.md)
+* [Interconnexions](technique/interconnexions/README.md)
+  * [FAQ](technique/interconnexions/faq.md)
+  * [Génération de signature](technique/interconnexions/generation-de-signature.md)
+  * [Outlook](technique/interconnexions/outlook.md)
+  * [Microsoft Dynamics](technique/interconnexions/microsoft-dynamics.md)
+* [Infrastructure](technique/infrastructure.md)
 

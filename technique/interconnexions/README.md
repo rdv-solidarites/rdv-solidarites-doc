@@ -1,47 +1,39 @@
 # Interconnexions
 
-RDV-Solidarités peut notifier n'importe quel système d'information accessible en ligne lors de modifications sur les **RDV** et les **plages d'ouvertures**.
+RDV-Solidarités peut notifier n'importe quel système d'information accessible en ligne lors de **modifications** \(création, modification, suppression\) sur les **RDV,** les **plages d'ouvertures** et les **absences.**
 
 Pour cela, ce système d'informations doit :
 
-* être accessible à une URL public par exemple [https://interconnexions.votre-departement.fr/rdv-solidarites](https://interconnexions.votre-departement.fr/rdv-solidarites)
-* accepter des requêtes HTTP POST à cette URL
+* être accessible à **une URL** public par exemple [https://interconnexions.votre-departement.fr/rdv-solidarites](https://interconnexions.votre-departement.fr/rdv-solidarites)
+* accepter des requêtes HTTP POST à cette URL.
 
-### Comment ajouter les plages d'ouvertures et les RDVs dans Outlook/Zimbra/etc. ?
+Aujourd'hui, a**ucune** API **entrante** n'est mise en place pour le moment.
 
-Quelque soit l'outil, des travaux seront nécessaires de votre département.
+Certains départements ont avancé sur ces sujets là, vous trouverez des informations dédiées aux pages suivantes :
 
-#### Outlook
+{% page-ref page="outlook.md" %}
 
-> Intéressés : Pas-de-Calais, Pyrénées-Atlantiques, Seine-et-Marne
+{% page-ref page="microsoft-dynamics.md" %}
 
-Le département du Pas-de-Calais a fait des développements, nous cherchons à faciliter leur réutilisation.
+De plus, des expérimentations ont été menées du [code](https://github.com/guillett/webhook) a été écrit en C\# et en NodeJS.
 
-#### Zimbra
+### Démonstration
 
-> Drôme
-
-_TODO_
-
-#### Microsoft Dynamics
-
-> Hauts-de-Seine, Yvelines
-
-Des expérimentations sont en cours, du [code](https://github.com/guillett/webhook) a été écrit en C\# et en NodeJS.
+Dans notre environnement de démonstration, nous pouvons vous envoyer des emails qui contiennent le contenu brut des notifications envoyée par requête HTTP. Cela permet de
 
 ### Aspects plus techniques
 
-> **Aucune** API **entrante** n'est mise en place pour le moment.
-
-Nous pouvons indiquer dans RDV-Solidarités des URLs à contacter en cas de modifications dans la base de données.
-
-Cela permet de contacter \(en HTTP POST\) un système d'information tiers \(SI\) à chaque modification.
+#### Vérification des signatures des requêtes
 
 Un secret partagé est associé à chacune de ces URLs pour vous permettre de vérifier que nous sommes bien à l'origine de l'envoi d'information.
 
 La requête envoyée en HTTP POST contient une entête 'X-Lapin-Signature' qui contient une signature SHA256 hexadécimale du corps de la requête.
 
-Pour la génération et la validation des signatures, vous pouvez consulter \[\[les implémentations données en exemple \| Interconnexions---Génération-de-signatures\]\] \(Ruby, JS, Python, C\#\).
+Pour la génération et la validation des signatures, vous pouvez consulter :
+
+{% page-ref page="generation-de-signature.md" %}
+
+#### Format des informations envoyées
 
 La forme du contenu des requêtes est donnée pour les RDV et les plages d'ouvertures :
 
@@ -149,13 +141,6 @@ Détails techniques :
 
 * [https://github.com/betagouv/rdv-solidarites.fr/blob/master/app/jobs/webhook\_job.rb\#L11](https://github.com/betagouv/rdv-solidarites.fr/blob/master/app/jobs/webhook_job.rb#L11)
 * [https://github.com/betagouv/rdv-solidarites.fr/tree/master/app/blueprints](https://github.com/betagouv/rdv-solidarites.fr/tree/master/app/blueprints)
-
-### Foire aux questions
-
-* Allez-vous utiliser PUT / DELETE pour la modification et la suppression d’évènements ?
-  * Non, les notifications par webhooks ne viennent pas modifier des éléments dans votre SI mais signaler des modifications dans la base de données de RDV-Solidarités qui devraient être répercutées dans votre SI.
-* Allez-vous traiter les erreurs ? Par ex, l’email / nom / prénom que vous nous fournissez n’existe pas chez nous, une erreur dans une date, l’adresse n’existe pas….
-  * Non pas pour le moment. Cela serait prématuré. Vous pouvez enregistrer un log de votre côté et nous contacter quand cela arrivera. Nous verrons à ce moment-là si des développements supplémentaires sont nécessaires.
 
 Ça vous intéresse d'expérimenter [contactez-nous](contact@rdv-solidarites.fr) !
 
