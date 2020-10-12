@@ -19,7 +19,7 @@ De plus, des expérimentations ont été menées du [code](https://github.com/gu
 
 ### Démonstration
 
-Dans notre environnement de démonstration, nous pouvons vous envoyer des emails qui contiennent le contenu brut des notifications envoyée par requête HTTP. Cela permet de
+Dans notre environnement de démonstration, nous pouvons vous envoyer des emails qui contiennent le contenu brut des notifications envoyées par les requêtes HTTP. Pour cela, [contactez-nous](contact@rdv-solidarites.fr) !
 
 ### Aspects plus techniques
 
