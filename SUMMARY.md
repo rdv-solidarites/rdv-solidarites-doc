@@ -13,6 +13,7 @@
 
 ## Aspects techniques <a id="technique"></a>
 
+* [Hébergement & sécurité](technique/hebergement-and-securite.md)
 * [Interconnexions](technique/interconnexions/README.md)
   * [FAQ](technique/interconnexions/faq.md)
   * [Génération de signature](technique/interconnexions/generation-de-signature.md)
