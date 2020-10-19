@@ -6,7 +6,7 @@ Le département du Pas de Calais a implémenté une solution pour intégrer dans
 
 #### Ressources
 
-Une partie du code source a été publié. Il est accessible sur [GitHub](https://github.com/rdv-solidarites/Rdvs).
+Une partie du code source a été publiée. Elle est accessible sur [GitHub](https://github.com/rdv-solidarites/Rdvs).
 
 ## 
 

@@ -4,10 +4,10 @@ RDV-Solidarités peut notifier n'importe quel système d'information accessible 
 
 Pour cela, ce système d'informations doit :
 
-* être accessible à **une URL** public par exemple [https://interconnexions.votre-departement.fr/rdv-solidarites](https://interconnexions.votre-departement.fr/rdv-solidarites)
-* accepter des requêtes HTTP POST à cette URL.
+* être accessible à **une URL** publique par exemple [https://interconnexions.votre-departement.fr/rdv-solidarites](https://interconnexions.votre-departement.fr/rdv-solidarites)
+* accepter des requêtes HTTP POST à cette URL
 
-Aujourd'hui, a**ucune** API **entrante** n'est mise en place pour le moment.
+Aujourd'hui, **aucune** API **entrante** n'est mise en place pour le moment.
 
 Certains départements ont avancé sur ces sujets là, vous trouverez des informations dédiées aux pages suivantes :
 
