@@ -15,7 +15,7 @@ Certains départements ont avancé sur ces sujets là, vous trouverez des inform
 
 {% page-ref page="microsoft-dynamics.md" %}
 
-De plus, des expérimentations ont été menées du [code](https://github.com/guillett/webhook) a été écrit en C\# et en NodeJS.
+De plus, des expérimentations ont été menées, du [code](https://github.com/guillett/webhook) a été écrit en C\# et en NodeJS.
 
 ### Démonstration
 
@@ -131,7 +131,7 @@ Pour une plage d'ouverture
 }
 ```
 
-Il est possible de reproduire un appel fait par RDV-Solidarités vers un SI tier \(ici `http://127.0.0.1:3000`\) en mettant le texte donné en exemple ci-dessus dans un fichier `XXXX.json` et d'utiliser la commande suivante
+Il est possible de reproduire un appel fait par RDV-Solidarités vers un SI tiers \(ici `http://127.0.0.1:3000`\) en mettant le texte donné en exemple ci-dessus dans un fichier `XXXX.json` et d'utiliser la commande suivante
 
 ```bash
 curl 'http://127.0.0.1:3000' --data @XXXX.json -H 'Content-Type: application/json; charset=utf-8'
@@ -142,7 +142,7 @@ Détails techniques :
 * [https://github.com/betagouv/rdv-solidarites.fr/blob/master/app/jobs/webhook\_job.rb\#L11](https://github.com/betagouv/rdv-solidarites.fr/blob/master/app/jobs/webhook_job.rb#L11)
 * [https://github.com/betagouv/rdv-solidarites.fr/tree/master/app/blueprints](https://github.com/betagouv/rdv-solidarites.fr/tree/master/app/blueprints)
 
-Ça vous intéresse d'expérimenter [contactez-nous](contact@rdv-solidarites.fr) !
+Ça vous intéresse d'expérimenter, [contactez-nous](contact@rdv-solidarites.fr) !
 
 Présentation faite aux DSIs : [https://docs.google.com/file/d/1leeQ1B507eNgi2pWfjaOor8TAtkhv6ao/edit?usp=docslist\_api&filetype=mspresentation](https://docs.google.com/file/d/1leeQ1B507eNgi2pWfjaOor8TAtkhv6ao/edit?usp=docslist_api&filetype=mspresentation)
 
