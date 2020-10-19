@@ -1,12 +1,12 @@
 ---
 description: >-
-  Réduire le nombre de rendez-vous annulés dans les maisons départementales de
-  solidaritéLe produit est
+  Réduire le nombre de rendez-vous annulés dans les maisons départementales des
+  solidarités
 ---
 
 # RDV Solidarités
 
-_en accélération_, il est disponible sur [https://rdv-solidarites.fr](https://rdv-solidarites.fr).
+ll est disponible sur [https://rdv-solidarites.fr](https://rdv-solidarites.fr).
 
  ![](https://d33wubrfki0l68.cloudfront.net/ee19ce5a0c382ea0733d2766546f4d46db465e41/aa0d3/img/startups/lapins.png)
 
