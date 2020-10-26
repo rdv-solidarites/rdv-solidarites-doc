@@ -19,7 +19,7 @@ De plus, des expérimentations ont été menées, du [code](https://github.com/g
 
 ### Démonstration
 
-Dans notre environnement de démonstration, nous pouvons vous envoyer des emails qui contiennent le contenu brut des notifications envoyées par les requêtes HTTP. Pour cela, [contactez-nous](contact@rdv-solidarites.fr) !
+Dans notre environnement de démonstration, nous pouvons envoyer des notifications sur une URL de test \(par exemple [https://webhook.site](https://webhook.site)\) ou envoyer des emails qui contiennent le contenu brut des notifications envoyées par les requêtes HTTP. Pour cela, [contactez-nous](contact@rdv-solidarites.fr) !
 
 ### Aspects plus techniques
 
