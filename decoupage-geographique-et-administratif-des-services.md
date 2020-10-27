@@ -1,4 +1,4 @@
-# Découpage géographique et administratif des services
+# Découpage administratif
 
 ![](.gitbook/assets/decoupage.png)
 

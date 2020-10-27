@@ -6,7 +6,7 @@
 * [Notifications](notifications.md)
 * [FAQ](faq.md)
 * [prises de RDV](prises-de-rdv.md)
-* [Découpage géographique et administratif des services](decoupage-geographique-et-administratif-des-services.md)
+* [Découpage administratif](decoupage-geographique-et-administratif-des-services.md)
 * [Liens agents - usagers - organisations](liens-agents-usagers-organisations.md)
 * [Statut de rendez-vous](statut-de-rendez-vous.md)
 * [Zimbra](zimbra.md)
