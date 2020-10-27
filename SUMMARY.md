@@ -6,6 +6,7 @@
 * [Notifications](notifications.md)
 * [FAQ](faq.md)
 * [prises de RDV](prises-de-rdv.md)
+* [Sectorisation géographique](sectorisation-geographique.md)
 * [Découpage administratif](decoupage-geographique-et-administratif-des-services.md)
 * [Liens agents - usagers - organisations](liens-agents-usagers-organisations.md)
 * [Statut de rendez-vous](statut-de-rendez-vous.md)
@@ -20,8 +21,4 @@
   * [Outlook](technique/interconnexions/outlook.md)
   * [Microsoft Dynamics](technique/interconnexions/microsoft-dynamics.md)
 * [Infrastructure](technique/infrastructure.md)
-
----
-
-* [Sectorisation géographique](sectorisation-geographique.md)
 

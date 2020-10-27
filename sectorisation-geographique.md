@@ -8,11 +8,13 @@ description: >-
 
 ## Fonctionnement
 
-La sectorisation permet d’attribuer des secteurs géographiques à des organisations. Un usager est orienté vers les organisations dont il dépend en fonction de l'adresse saisie lors de sa prise de RDV en ligne
+La sectorisation permet de définir des Secteurs géographiques et de leur attribuer des responsables. Les usagers sont orientés vers les bons responsables selon l'adresse saisie lors de leur prise de RDV en ligne.
 
 Chaque Secteur est défini comme un ensemble de communes ou de rues.
 
-Un Secteur est attribué à une ou plusieurs Organisations entières ou bien à un ou plusieurs Agents spécifiques désignés.
+Chaque Secteur est attribué à une ou plusieurs Organisations entières ou bien à un ou plusieurs Agents spécifiques désignés.
+
+### Permissions
 
 Seuls les Agents avec le rôle Administrateur peuvent configurer la sectorisation des organisations qu’ils administrent. Néanmoins, ils ont la visibilité sur l’ensemble des Secteurs du Département.
 
