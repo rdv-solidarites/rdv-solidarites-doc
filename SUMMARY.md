@@ -21,3 +21,7 @@
   * [Microsoft Dynamics](technique/interconnexions/microsoft-dynamics.md)
 * [Infrastructure](technique/infrastructure.md)
 
+---
+
+* [Sectorisation géographique](sectorisation-geographique.md)
+
