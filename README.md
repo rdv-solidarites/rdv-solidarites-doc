@@ -10,11 +10,11 @@ ll est disponible sur [https://rdv-solidarites.fr](https://rdv-solidarites.fr).
 
  ![](https://d33wubrfki0l68.cloudfront.net/ee19ce5a0c382ea0733d2766546f4d46db465e41/aa0d3/img/startups/lapins.png)
 
-*  Les statistiques d'usage _ne sont pas encore disponibles._
-*  Le code source [est libre.](https://github.com/betagouv/rdv-solidarites.fr)
-*  Le porteur administratif est Consortium de départements.
-* L'incubateur est [L'Incubateur de Services Numériques](https://beta.gouv.fr/approche/incubateurs/dinum.html).
-*  [Contacter l’équipe](mailto:contact@rdv-solidarites.fr?subject=RDV%20Solidarit%C3%A9s%20%28anciennement%20Lapins%29%20sur%20beta.gouv.fr).
+* Les statistiques d'usage [sont disponibles ici](https://www.rdv-solidarites.fr/stats/)
+* Le code source est libre et [disponible sur GitHub](https://github.com/betagouv/rdv-solidarites.fr/)
+* RDV-Solidarités est porté par un consortium de départements
+* RDV-Solidarités fait partie de [L'Incubateur de Services Numériques](https://beta.gouv.fr/approche/incubateurs/dinum.html)
+*  [Contacter l’équipe](mailto:contact@rdv-solidarites.fr?subject=RDV%20Solidarit%C3%A9s%20%28anciennement%20Lapins%29%20sur%20beta.gouv.fr)
 
 ### Des milliers de lapins dans les Maisons départementales de solidarité ! <a id="des-milliers-de-lapins-dans-les-maisons-d&#xE9;partementales-de-solidarit&#xE9;-"></a>
 
