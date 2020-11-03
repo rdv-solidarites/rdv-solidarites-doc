@@ -23,10 +23,10 @@ L'API supporte uniquement le format JSON. Toutes les réponses envoyées par l'A
 
 L'API adhère aux principes REST : 
 
-* requêtes GET : lecture sans modification
-* requêtes POST : création de nouvelle ressource
-* requêtes PUT : mise à jour d'une ressource existante
-* requêtes DELETE : suppression d'une ressource
+* requêtes `GET` : lecture sans modification
+* requêtes `POST` : création de nouvelle ressource
+* requêtes `PUT` : mise à jour d'une ressource existante
+* requêtes `DELETE` : suppression d'une ressource
 
 Les paramètres des requêtes `GET` doivent être envoyés via les query string de la requête. 
 
