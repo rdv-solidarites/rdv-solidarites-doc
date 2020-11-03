@@ -34,15 +34,16 @@ Les paramètres des requêtes `POST` doivent être transmis dans le corps de la 
 
 Les paramètres doivent respecter les formats suivants : 
 
-* `DATE` : DD/MM/YYYY, par exemple : "21/10/2021"
-* `TIME` : H:m, par exemple : "10:30"
+* `DATE` : "YYYY-MM-DD" par exemple : "2021-10-21"
+* `TIME` : H:m\[:s\], par exemple : "10:30"
 
 Les statuts HTTP des réponses renvoyées par l'API peuvent être les suivants :
 
 * `200` : succès
+* `400` : requête mal formattée. Par exemple si le JSON du body est invalide.
 * `401` : requête non authentifiée
 * `403` : requête bien authentifiée mais droits insuffisants pour réaliser l'action demandée. Par exemple si un agent non-admin essaie de créer une absence pour un agent d'un autre service.
-* `422` : paramètres reçus et bien formattés mais invalides. Par exemple si vous essayez de créer une absence avec une date de fin antérieure à sa date de début.
+* `422` : paramètres sains \(JSON valide\) mais incorrects. Par exemple si vous essayez de créer une absence avec une date de fin antérieure à sa date de début.
 * `500` : erreur interne. Nous sommes automatiquement prévus de ces erreurs et devrions nous en occuper rapidement. Vous pouvez nous contacter si cela se reproduit.
 
 ⚠️ La pagination n'est pas encore implémentée. Les tableaux de ressources renvoyés sont limités à 100 pour l'instant.
@@ -224,9 +225,9 @@ $ http --json POST http://localhost:5000/api/v1/absences \
   organisation_id=1 \
   agent_id=1 \
   title="Congé parental" \
-  first_day="20/11/2020" \
+  first_day="2020-11-20" \
   start_time="08:00" \
-  end_day="20/11/2020" \
+  end_day="2020-11-20" \
   end_time="18:00"
 
 HTTP/1.1 200 OK
@@ -265,7 +266,7 @@ $ curl --verbose --request 'POST' \
   --header 'client: fySY0UMlNzgbhE8QYhXdkw' \
   --header 'uid: martine@demo.rdv-solidarites.fr' \
   --header 'Content-Type: application/json' \
-  --data '{"agent_id":"1","end_day":"20/11/2020","end_time":"18:00","first_day":"20/11/2020","organisation_id":"1","start_time":"08:00","title":"Congé parental"}' \
+  --data '{"agent_id":"1","end_day":"2020-11-20","end_time":"18:00","first_day": "2020-11-20","organisation_id":"1","start_time":"08:00","title":"Congé parental"}' \
   'http://localhost:5000/api/v1/absences'
 
 ...
