@@ -39,10 +39,11 @@ Les paramètres doivent respecter les formats suivants :
 
 Les statuts HTTP des réponses renvoyées par l'API peuvent être les suivants :
 
-* 200 : succès
-* XXX : problème d'authentification
-* 422 : paramètres reçus et bien formattés mais invalides. Par exemple si vous essayez de créer une absence avec une date de fin antérieure à sa date de début.
-* 500 : erreur interne. Nous sommes automatiquement prévus de ces erreurs et devrions nous en occuper rapidement. Vous pouvez nous contacter si cela se reproduit.
+* `200` : succès
+* `401` : requête non authentifiée
+* `403` : requête bien authentifiée mais droits insuffisants pour réaliser l'action demandée. Par exemple si un agent non-admin essaie de créer une absence pour un agent d'un autre service.
+* `422` : paramètres reçus et bien formattés mais invalides. Par exemple si vous essayez de créer une absence avec une date de fin antérieure à sa date de début.
+* `500` : erreur interne. Nous sommes automatiquement prévus de ces erreurs et devrions nous en occuper rapidement. Vous pouvez nous contacter si cela se reproduit.
 
 ⚠️ La pagination n'est pas encore implémentée. Les tableaux de ressources renvoyés sont limités à 100 pour l'instant.
 
