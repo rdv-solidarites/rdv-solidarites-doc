@@ -208,6 +208,10 @@ Paramètres :
 * `end_day` DATE : le jour de fin de l'absence
 * `end_time` TIME : l'heure de fin de l'absence
 
+{% hint style="warning" %}
+L'endpoint de création d'absence ne permet pour l'instant pas de créer des absences récurrentes
+{% endhint %}
+
 Réponse :
 
 * `errors` ARRAY\[STRING\] : uniquement présent quand l'absence n'a pas pu être créée. Contient une liste d'erreurs groupées par champ.
