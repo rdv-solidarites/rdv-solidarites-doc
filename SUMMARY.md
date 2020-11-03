@@ -22,5 +22,6 @@
   * [Génération de signature](technique/interconnexions/generation-de-signature.md)
   * [Outlook](technique/interconnexions/outlook.md)
   * [Microsoft Dynamics](technique/interconnexions/microsoft-dynamics.md)
+* [API](technique/api.md)
 * [Infrastructure](technique/infrastructure.md)
 
