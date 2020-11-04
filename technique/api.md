@@ -46,7 +46,9 @@ Les statuts HTTP des réponses renvoyées par l'API peuvent être les suivants :
 * `422` : paramètres sains \(JSON valide\) mais incorrects. Par exemple si vous essayez de créer une absence avec une date de fin antérieure à sa date de début.
 * `500` : erreur interne. Nous sommes automatiquement prévus de ces erreurs et devrions nous en occuper rapidement. Vous pouvez nous contacter si cela se reproduit.
 
-⚠️ La pagination n'est pas encore implémentée. Les tableaux de ressources renvoyés sont limités à 100 pour l'instant.
+{% hint style="warning" %}
+La pagination n'est pas encore implémentée. Les tableaux de ressources renvoyés sont limités à 100 pour l'instant.
+{% endhint %}
 
 ## Authentification
 
@@ -57,7 +59,7 @@ Pour récupérer le token d'accès d'un agent il faut faire une première requê
 {% tabs %}
 {% tab title="httpie" %}
 ```bash
-http --json POST 'http://localhost:5000/api/v1/auth/sign_in' \
+http --json POST 'https://www.rdv-solidarites.fr/api/v1/auth/sign_in' \
   email='martine@demo.rdv-solidarites.fr' password='123456'
 ```
 {% endtab %}
