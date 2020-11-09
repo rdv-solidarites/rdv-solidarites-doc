@@ -17,11 +17,11 @@
 ## Aspects techniques <a id="technique"></a>
 
 * [Hébergement & sécurité](technique/hebergement-and-securite.md)
-* [Interconnexions](technique/interconnexions/README.md)
-  * [FAQ](technique/interconnexions/faq.md)
-  * [Génération de signature](technique/interconnexions/generation-de-signature.md)
-  * [Outlook](technique/interconnexions/outlook.md)
-  * [Microsoft Dynamics](technique/interconnexions/microsoft-dynamics.md)
-* [API](technique/api.md)
+* [API / interconnexions sortantes](technique/api-interconnexions-sortantes/README.md)
+  * [FAQ](technique/api-interconnexions-sortantes/faq.md)
+  * [Génération de signature](technique/api-interconnexions-sortantes/generation-de-signature.md)
+  * [Outlook](technique/api-interconnexions-sortantes/outlook.md)
+  * [Microsoft Dynamics](technique/api-interconnexions-sortantes/microsoft-dynamics.md)
+* [API / interconnexions entrantes](technique/api-interconnexions-entrantes.md)
 * [Infrastructure](technique/infrastructure.md)
 
