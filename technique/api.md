@@ -69,7 +69,7 @@ http --json POST 'https://www.rdv-solidarites.fr/api/v1/auth/sign_in' \
 curl --verbose --request 'POST' \
   --header 'Content-Type: application/json' \
   --data '{"email":"martine@demo.rdv-solidarites.fr", "password":"123456"}' \
-  'http://localhost:5000/api/v1/auth/sign_in'
+  'https://www.rdv-solidarites.fr/api/v1/auth/sign_in'
 ```
 {% endtab %}
 {% endtabs %}
@@ -142,7 +142,7 @@ Exemple de requête :
 {% tabs %}
 {% tab title="httpie" %}
 ```bash
-$ http 'http://localhost:5000/api/v1/absences' \
+$ http 'https://www.rdv-solidarites.fr/api/v1/absences' \
  access-token:FLXP6G2hIEYhmGe5MpHKfg \
  client:fySY0UMlNzgbhE8QYhXdkw \
  uid:'martine@demo.rdv-solidarites.fr'
@@ -187,7 +187,7 @@ $ curl --verbose \
   --header 'access-token: FLXP6G2hIEYhmGe5MpHKfg' \
   --header 'client: fySY0UMlNzgbhE8QYhXdkw' \
   --header 'uid: martine@demo.rdv-solidarites.fr' \
-  'http://localhost:5000/api/v1/absences'
+  'https://www.rdv-solidarites.fr/api/v1/absences'
 
 ...
 < HTTP/1.1 200 OK
@@ -224,7 +224,7 @@ Exemple de requête :
 {% tabs %}
 {% tab title="httpie" %}
 ```bash
-$ http --json POST http://localhost:5000/api/v1/absences \
+$ http --json POST https://www.rdv-solidarites.fr/api/v1/absences \
   access-token:FLXP6G2hIEYhmGe5MpHKfg \
   client:fySY0UMlNzgbhE8QYhXdkw \
   uid:martine@demo.rdv-solidarites.fr \
@@ -273,7 +273,7 @@ $ curl --verbose --request 'POST' \
   --header 'uid: martine@demo.rdv-solidarites.fr' \
   --header 'Content-Type: application/json' \
   --data '{"agent_id":"1","end_day":"2020-11-20","end_time":"18:00","first_day": "2020-11-20","organisation_id":"1","start_time":"08:00","title":"Congé parental"}' \
-  'http://localhost:5000/api/v1/absences'
+  'https://www.rdv-solidarites.fr/api/v1/absences'
 
 ...
 < HTTP/1.1 200 OK
