@@ -7,8 +7,8 @@ description: >-
 
 # API / interconnexions entrantes
 
-{% hint style="danger" %}
-L'API est en cours de développement, cette page anticipe les fonctionnalités à venir
+{% hint style="info" %}
+Le nombre de fonctionnalités de l'API est encore restreint. Contactez-nous si vous avez besoin de fonctionnalités qui ne sont pas encore présentes.
 {% endhint %}
 
 ## Détails techniques
