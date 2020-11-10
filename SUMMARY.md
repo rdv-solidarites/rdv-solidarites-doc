@@ -4,7 +4,6 @@
 * [Gouvernance](gouvernance.md)
 * [Glossaire](glossaire.md)
 * [Notifications](notifications.md)
-* [FAQ](faq.md)
 * [prises de RDV](prises-de-rdv.md)
 * [Sectorisation géographique](sectorisation-geographique/README.md)
   * [Sectorisation par commune et par organisation](sectorisation-geographique/sectorisation-par-commune-et-par-organisation.md)
