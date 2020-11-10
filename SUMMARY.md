@@ -25,3 +25,7 @@
 * [API / interconnexions entrantes](technique/api-interconnexions-entrantes.md)
 * [Infrastructure](technique/infrastructure.md)
 
+---
+
+* [Dernières nouveautés](dernieres-nouveautes.md)
+
