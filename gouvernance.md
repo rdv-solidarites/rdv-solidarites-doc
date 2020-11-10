@@ -49,32 +49,3 @@ De plus, pour chaque département, il est important de connaître :
 
 La proposition est de créer un tableau de bord par département. La liste est disponible à [la page suivante](https://trello.com/b/oSmy09cz/lapins-consortium-d%C3%A9partements) dans la première colonne.
 
-### Produit
-
-On organise notre travail sur un tableau [trello/product-lapin](https://trello.com/b/BiT8tx09/product-lapin)
-
-L'historique des modifications de l'application se trouve sur la page [Dernières nouveautés](dernieres-nouveautes.md)
-
-Nous explorons des pistes de changement UX avec des maquettes sur Figma:
-
-* [https://www.figma.com/file/JhZCwwrmaw2NYrITCj8QAK/RDV-Solidarit%C3%A9?node-id=5%3A95](https://www.figma.com/file/JhZCwwrmaw2NYrITCj8QAK/RDV-Solidarit%C3%A9?node-id=5%3A95)
-* [https://www.figma.com/proto/JhZCwwrmaw2NYrITCj8QAK/RDV-Solidarit%C3%A9?node-id=148%3A129&scaling=min-zoom](https://www.figma.com/proto/JhZCwwrmaw2NYrITCj8QAK/RDV-Solidarit%C3%A9?node-id=148%3A129&scaling=min-zoom)
-
-La création des libellés de Motif se fait via l'interface super-admin
-
-* \[\[Métier\]\] 
-
-### Développement
-
-* \[\[Organisation du développement\]\]
-* On note dans un [pad de l'incubateur](https://pad.incubateur.net/Z4sPsmDlRwCx-MEb5xdD7w?both#) les idées qui nous viennent, les sujets de discussion. Peut-être qu'un jour on se connaîtra assez pour en plus avoir à en parler.
-* \[\[Architecture Logicielle\]\]
-* \[\[Compte rendus des réunions tech\]\]
-* \[\[Infrastructure\]\]
-* \[\[Décisions architecturales\]\]
-
-### Autres pages
-
-* \[\[Glossaire\]\]
-* \[\[Infrastructure\]\]
-
