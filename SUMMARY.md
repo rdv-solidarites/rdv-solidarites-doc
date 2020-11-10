@@ -13,6 +13,7 @@
 * [Liens agents - usagers - organisations](liens-agents-usagers-organisations.md)
 * [Statut de rendez-vous](statut-de-rendez-vous.md)
 * [Zimbra](zimbra.md)
+* [Dernières nouveautés](dernieres-nouveautes.md)
 
 ## Aspects techniques <a id="technique"></a>
 
@@ -24,8 +25,4 @@
   * [Microsoft Dynamics](technique/api-interconnexions-sortantes/microsoft-dynamics.md)
 * [API / interconnexions entrantes](technique/api-interconnexions-entrantes.md)
 * [Infrastructure](technique/infrastructure.md)
-
----
-
-* [Dernières nouveautés](dernieres-nouveautes.md)
 
