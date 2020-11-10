@@ -53,7 +53,7 @@ La proposition est de créer un tableau de bord par département. La liste est d
 
 On organise notre travail sur un tableau [trello/product-lapin](https://trello.com/b/BiT8tx09/product-lapin)
 
-Pour l'historique des modifications de l'application, pour le moment, c'est sur le wiki du github [https://github.com/betagouv/rdv-solidarites.fr/wiki/Changelog](https://github.com/betagouv/rdv-solidarites.fr/wiki/Changelog)
+L'historique des modifications de l'application se trouve sur la page [Dernières nouveautés](dernieres-nouveautes.md)
 
 Nous explorons des pistes de changement UX avec des maquettes sur Figma:
 
