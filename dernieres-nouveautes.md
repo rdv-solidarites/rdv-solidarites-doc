@@ -6,6 +6,12 @@ description: >-
 
 # Dernières nouveautés
 
+## Mardi 10 Novembre 2020
+
+- [corriger bug double connexion agent et usager](https://trello.com/c/jrZ94IC2)
+- [fusionner les differentes vues de listes de RDVs + corriger bug liste RDVs non filtrée par orga](https://trello.com/c/BIWPOzO6)
+- [envoyer le nom du lieu (en plus de l'adresse) dans les SMS et mails envoyés aux usagers](https://trello.com/c/zEMWzaqC)
+
 ## Lundi 09 Novembre 2020
 
 * [API entrante pour les absences](https://trello.com/c/HT5A8XUE)
