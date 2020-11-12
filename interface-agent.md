@@ -10,7 +10,7 @@ description: 'Aperçu de la partie Agent. Pose de RDVs, création de plages d''o
 
 ## Rendez-vous
 
-![Un RDV t&#xE9;l&#xE9;phonique dans la vue agenda](.gitbook/assets/screenshot_2020-11-12_at_17.48.15.png)
+![Un RDV t&#xE9;l&#xE9;phonique dans la vue agenda](.gitbook/assets/screenshot_2020-11-12_at_17.48.15%20%281%29.png)
 
 Les rendez-vous peuvent réunir plusieurs usagers, souvent des responsables et leurs proches. Ils peuvent aussi être attribués à plusieurs agents.
 
