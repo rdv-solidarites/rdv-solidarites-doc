@@ -6,6 +6,15 @@ description: >-
 
 # Dernières nouveautés
 
+## Jeudi 11 novembre 2020
+
+- [réparer l'admin en vue mobile](https://trello.com/c/4AJX1ud1)
+- [Rendre plus clair les niveau de visibilité d'un motif / RDV](https://trello.com/c/HqORFgWt)
+- [Afficher le moyen de contact pour aller vers les départements](https://trello.com/c/WTr8uj0Z)
+- [Permettre aux agents de mettre à jour les statuts des RDVs depuis la vue liste](https://trello.com/c/KXjP41k9)
+- [Déplacer le contexte de l'agent à visualiser dans le menu latéral + le persister](https://trello.com/c/zE9cMLs2)
+- [réparer bug edition rdv dans vue laterale](https://trello.com/c/apuh1MqB)
+
 ## Mardi 10 Novembre 2020
 
 * [corriger bug double connexion agent et usager](https://trello.com/c/jrZ94IC2)
