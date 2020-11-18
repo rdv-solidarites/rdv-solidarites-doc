@@ -6,12 +6,16 @@ description: >-
 
 # Dernières nouveautés
 
+## Lundi 16 novembre
+
+- [trier la liste de motifs par ordre alphabétique dans la recherche usager](https://trello.com/c/taHQshk8)
+
 ## Vendredi 12 novembre 2020
 
 - [fix scroll right bar](https://trello.com/c/lUgmthf9)
-- [trier la liste de motifs par ordre alphabétique dans la recherche usager](https://trello.com/c/taHQshk8)
+- [Ramener vos statistiques dans votre espace de menu](https://trello.com/c/9VJOUdJ5)
 
-## Jeudi 11 novembre 2020
+## Jeudi 12 novembre 2020
 
 - [réparer l'admin en vue mobile](https://trello.com/c/4AJX1ud1)
 - [Rendre plus clair les niveau de visibilité d'un motif / RDV](https://trello.com/c/HqORFgWt)
