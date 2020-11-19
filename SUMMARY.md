@@ -3,6 +3,7 @@
 * [RDV Solidarités](README.md)
 * [Gouvernance](gouvernance.md)
 * [Interface Agent](interface-agent.md)
+* [Permissions des agents](permissions-agents.md)
 * [Sectorisation géographique](sectorisation-geographique/README.md)
   * [Sectorisation par commune et par organisation](sectorisation-geographique/sectorisation-par-commune-et-par-organisation.md)
   * [Sectorisation par rue et par agent](sectorisation-geographique/sectorisation-par-rue.md)
