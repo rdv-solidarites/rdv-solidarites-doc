@@ -28,3 +28,7 @@
 * [Investigation - Sectorisation](investigations-passees/decoupage-geographique-et-administratif-des-services.md)
 * [Investigation - Liens agents, usagers et organisations](investigations-passees/liens-agents-usagers-organisations.md)
 
+---
+
+* [Mentions Légales](mentions-legales.md)
+
