@@ -6,6 +6,12 @@ description: >-
 
 # Dernières nouveautés
 
+## Lundi 23 novembre 2020
+
+* [Alerter lors de la création de plages d'ouvertures en conflit avec d'autres plages d'ouvertures, potentiellement d'autres organisations](https://trello.com/c/QEzwN6e0/1087-alerter-lors-de-la-cr%C3%A9ation-de-plages-douvertures-en-conflit-avec-dautres-plages-douvertures-potentiellement-dautres-organisatio)
+* [réparer menu haut de la vue usager](https://trello.com/c/hFd6rlQO/1179-reparer-menu-haut-de-la-vue-usager)
+* [Mettre à jour les CGU et mentions légales](https://trello.com/c/PNKFpQfv/1160-mettre-%C3%A0-jour-les-cgu-et-mentions-l%C3%A9gales)
+
 ## Vendredi 20 novembre 2020
 
 * [supprimer les plages d'ouvertures des agents lorsqu'ils sont retirés d'une organisation](https://trello.com/c/c728Kj9h)
