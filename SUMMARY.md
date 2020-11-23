@@ -10,6 +10,7 @@
 * [Zimbra](zimbra.md)
 * [Dernières nouveautés](dernieres-nouveautes.md)
 * [Mentions Légales](mentions-legales.md)
+* [Conditions d’utilisation de la plateforme RDV-Solidarités](conditions-dutilisation-de-la-plateforme-rdv-solidarites.md)
 
 ## Aspects techniques <a id="technique"></a>
 
