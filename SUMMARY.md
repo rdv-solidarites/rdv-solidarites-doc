@@ -9,6 +9,7 @@
   * [Sectorisation par rue et par agent](sectorisation-geographique/sectorisation-par-rue.md)
 * [Zimbra](zimbra.md)
 * [Dernières nouveautés](dernieres-nouveautes.md)
+* [Mentions Légales](mentions-legales.md)
 
 ## Aspects techniques <a id="technique"></a>
 
@@ -27,8 +28,4 @@
 * [Investigation - processus de prise de RDV](investigations-passees/prises-de-rdv.md)
 * [Investigation - Sectorisation](investigations-passees/decoupage-geographique-et-administratif-des-services.md)
 * [Investigation - Liens agents, usagers et organisations](investigations-passees/liens-agents-usagers-organisations.md)
-
----
-
-* [Mentions Légales](mentions-legales.md)
 
