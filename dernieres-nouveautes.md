@@ -6,7 +6,12 @@ description: >-
 
 # Dernières nouveautés
 
-## Lundi 16 novembre
+## Vendredi 20 novembre 2020
+
+- [supprimer les plages d'ouvertures des agents lorsqu'ils sont retirés d'une organisation](https://trello.com/c/c728Kj9h)
+- [réparer le bug qui empêche les agents de voir les RDVs de leurs collègues du même service dans la vue Liste](https://trello.com/c/MIKARYFu)
+
+## Lundi 16 novembre 2020
 
 * [trier la liste de motifs par ordre alphabétique dans la recherche usager](https://trello.com/c/taHQshk8)
 
