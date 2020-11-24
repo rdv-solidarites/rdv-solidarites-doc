@@ -7,6 +7,7 @@
 * [Sectorisation géographique](sectorisation-geographique/README.md)
   * [Sectorisation par commune et par organisation](sectorisation-geographique/sectorisation-par-commune-et-par-organisation.md)
   * [Sectorisation par rue et par agent](sectorisation-geographique/sectorisation-par-rue.md)
+* [Tutoriel](tutoriel.md)
 * [Zimbra](zimbra.md)
 * [Dernières nouveautés](dernieres-nouveautes.md)
 * [Mentions Légales](mentions-legales.md)
