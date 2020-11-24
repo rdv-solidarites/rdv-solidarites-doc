@@ -209,19 +209,17 @@ Vous avez la possibilité de déclarer une absence afin que l’outil retire vos
 
 Votre absence s’affiche maintenant dans la liste et est visible sur votre calendrier.
 
-Comment supprimer une absence ?
+**Comment supprimer une absence ?**
 
 * Cliquez sur le nom de l’absence dans la liste
 * Cliquez sur « supprimer »
 * Confirmez la suppression
 
-_Comment modifier une absence ?_
+**Comment modifier une absence ?**
 
 * Cliquez sur le nom de l’absence dans la liste
 * Effectuez les modifications nécessaires
 * Cliquez sur « modifier »
-
-Vous avez également la possibilité d’accéder à la création d’une absence directement à partir de l’onglet « Agenda ». Sur l’onglet « agenda », en bas du calendrier cliquez sur « créer/modifier vos absences » Vous êtes alors redirigé vers l’onglet « Absences »
 
 ### Étape 3 : Créer votre base d’usagers
 
@@ -230,13 +228,17 @@ C’est ici que vous trouverez votre base d’usagers. Cette base est alimentée
 * Les fiches usagers créées par les usagers lors de la prise de rendez-vous en ligne
 * Les fiches usagers créées par les agents
 
-Il existe deux profils d’usagers : les parents et les enfants.
+Il existe deux profils d’usagers : les responsables et les proches.
+
+![](.gitbook/assets/screenshot_2020-11-24_at_16.39.39.png)
 
 #### Comment créer une fiche usager en charge ?
 
 * Cliquez sur « créer un usager » en haut à droite de la page et en bas de page.
 * Renseignez les informations sur l’usager. Les deux seules informations obligatoires sont le Nom et le Prénom de l’usager.
 * Cliquez sur « créer »
+
+![](.gitbook/assets/screenshot_2020-11-24_at_16.41.09.png)
 
 La fiche usager apparait désormais dans la liste.
 
@@ -254,7 +256,11 @@ Cela suppose la création préalable d’une fiche « usager en charge »
 * Renseignez les informations du proche. Seuls le prénom et le nom sont obligatoires.
 * Cliquez sur « créer »
 
-  Le proche apparait désormais dans la fiche de l’usager en charge. Le proche possède désormais sa propre fiche qui apparait dans la base usager.
+Le proche apparait désormais dans la fiche de l’usager en charge. Le proche possède désormais sa propre fiche qui apparait dans la base usager.
+
+![](.gitbook/assets/screenshot_2020-11-24_at_16.41.27.png)
+
+![](.gitbook/assets/screenshot_2020-11-24_at_16.42.30.png)
 
 #### Comment consulter l’historique des rendez-vous d’un usager ?
 
@@ -268,9 +274,13 @@ Chaque fiche usager contient le suivi de ses rendez-vous avec vos services.
 
 Pour consulter tout l’historique des rendez-vous cliquez sur « voir tous les rendez-vous » dans la fiche usager.
 
+![](.gitbook/assets/screenshot_2020-11-24_at_16.43.02.png)
+
 #### Comment rechercher un usager dans la base usager ?
 
 Vous pouvez effectuer une recherche rapide de l’usager en renseignant dans la barre de recherche en haut à droite une des informations suivantes : nom, prénom, email. Vous pouvez rechercher un usager parent comme un enfant.
+
+![](.gitbook/assets/screenshot_2020-11-24_at_16.39.39%20%281%29.png)
 
 ### Étape 4 : comment gérer ses rendez-vous ?
 
@@ -278,15 +288,19 @@ Rendez-vous dans l’onglet « Vos agendas ». Vous avez par défaut accès à v
 
 Vous avez la possibilité d’avoir une vue de votre calendrier par statut de RDV en cliquant sur « Tous les RDVs ». Ne s’afficheront alors que les RDV ayant le statut sélectionné.
 
+![](.gitbook/assets/screenshot_2020-11-24_at_16.44.50.png)
+
 #### Comment accéder au calendrier d’un autre agent ?
 
-* Cliquez sur le menu déroulant sur lequel figure votre nom
+* Dans la barre de gauche , cliquez sur le menu déroulant sur lequel figure votre nom
 * Chercher le nom de l’agent souhaitez et cliquez dessus
 * Son calendrier s’affiche
 
-Pour revenir à votre agenda :
+![](.gitbook/assets/screenshot_2020-11-24_at_16.47.54.png)
 
-Cliquez dans « Votre planning » sur l’onglet « Agendas » à gauche ou recherchez de nouveau votre nom dans le menu déroulant.
+**Pour revenir à votre agenda :**
+
+Recherchez de nouveau votre nom dans le menu déroulant.
 
 #### Comment poser un rendez-vous ?
 
@@ -305,7 +319,11 @@ Deux moyens permettent de poser un rendez-vous :
 * Cliquez dans la barre de recherche « agents » afin de sélectionner le ou les agents qui effectueront le rendez-vous.
 * Cliquez sur « Créer RDV »
 
-  Le rendez-vous apparait désormais dans le calendrier.
+Le rendez-vous apparait désormais dans le calendrier.
+
+![](.gitbook/assets/screenshot_2020-11-24_at_16.48.47.png)
+
+![](.gitbook/assets/screenshot_2020-11-24_at_16.49.25.png)
 
 **2. Recherche de tous les créneaux disponibles**
 
@@ -325,11 +343,17 @@ Deux moyens permettent de poser un rendez-vous :
 
 Le rendez-vous apparait désormais dans le calendrier.
 
+![](.gitbook/assets/screenshot_2020-11-24_at_16.50.05.png)
+
+![](.gitbook/assets/screenshot_2020-11-24_at_16.50.50.png)
+
 #### Comment consulter le résumé d’un rendez-vous ?
 
 * Recherchez le rendez-vous en naviguant sur le calendrier
 * Cliquez sur le créneau du rendez-vous
 * Le résumé s’affiche sur une nouvelle page
+
+![](.gitbook/assets/screenshot_2020-11-24_at_16.51.06.png)
 
 #### Comment supprimer un rendez-vous ?
 
@@ -361,12 +385,16 @@ Cette action est importante afin de tenir des statistiques de prise de rendez-vo
 
 Le changement de statut est maintenant pris en compte.
 
+![](.gitbook/assets/screenshot_2020-11-24_at_16.51.45.png)
+
 #### Comment consulter l’historique des actions du RDV
 
 Cet historique vous permet d’avoir accès à toutes les actions réalisées par les agents et/ou les usagers pour ce RDV.
 
 * Cliquez sur « Afficher l’historique des actions »
 * L’historique apparait en bas de page
+
+![](.gitbook/assets/screenshot_2020-11-24_at_16.52.31.png)
 
 ## Comment se déconnecter ?
 
