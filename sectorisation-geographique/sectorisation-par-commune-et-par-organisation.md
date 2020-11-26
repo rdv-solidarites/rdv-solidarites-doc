@@ -1,11 +1,15 @@
 ---
 description: >-
   Cette page décrit comment configurer la sectorisation de RDV-Solidarités pour
-  orienter les usagers vers les bons agents en fonction de leur commune de
-  résidence
+  orienter les usagers vers les bonnes organisations en fonction de leur commune
+  de résidence
 ---
 
 # Sectorisation par commune et par organisation
+
+{% hint style="warning" %}
+Une partie des fonctionnalités présentées sur cette page vont être déployées d'ici quelques jours
+{% endhint %}
 
 ## Exemple
 
@@ -32,17 +36,21 @@ Voici une description schématique de la configuration d'exemple dans RDV-Solida
 
 La commune Audicthun est configurée et associée au secteur violet Arques et Environs. 
 
-Les créneaux proposés à l'usager seront ceux disponibles dans l'organisation "MDS Site Arques", la seule attribuée à ce secteur.
+Les créneaux proposés à l'usager seront ceux disponibles dans l'organisation "MDS Site Arques", la seule attribuée à ce secteur, ET pour des motifs sectorisés au niveau de l'organisation.
+
+Si des motifs sectorisés au niveau du département existent dans une des trois organisations, les créneaux disponibles apparaîtront aussi pour l'usager.
 
 ### **Recherche usager 2 : dans la commune DELETTES**
 
 La commune DELETTES est configurée et associée au secteur jaune Rural.
 
-Les créneaux proposés à l'usager seront ceux disponibles dans les deux Organisations associées à ce secteur jaune : "MDS Site ERNY" et "MDS locale campagne"
+Les créneaux proposés à l'usager seront ceux disponibles dans les deux Organisations associées à ce secteur jaune : "MDS Site ERNY" et "MDS locale campagne" ET pour des motifs sectorisés au niveau de l'organisation.
+
+Si des motifs sectorisés au niveau du département existent dans une des trois organisations, les créneaux disponibles apparaîtront aussi pour l'usager.
 
 ### **Recherche usager 3 : dans la commune BOMY**
 
 La commune BOMY n'est pas configurée, elle n'est rattachée à aucun secteur.
 
-Aucun RDV ne sera donc proposé à l'usager, il lui sera indiqué que la prise de RDV en ligne n'est pas disponible à son adresse.
+Seuls les créneaux disponibles pour des motifs sectorisés au niveau du département entier apparaîtront pour l'usager.
 

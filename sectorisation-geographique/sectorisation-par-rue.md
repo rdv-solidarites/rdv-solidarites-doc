@@ -8,6 +8,10 @@ description: >-
 
 RDV-Solidarités supporte l'échelle géographique de la rue ou de la commune entière pour vous permettre d'assigner les usagers aux bons agents.
 
+{% hint style="warning" %}
+Cette page est en cours de refonte; une partie des informations n'est plus à jour
+{% endhint %}
+
 ## Exemple
 
 Cet exemple décrit la configuration à utiliser pour découper la ville de Calais en 2 : une zone Nord qui sera gérée par l'agent Thomas et une zone Sud qui sera gérée par l'agent Adrien. 
@@ -38,5 +42,7 @@ Renseigner manuellement les rues de chaque secteur peut être fastidieux. Si vou
 
 Note : votre fichier doit comporter les identifiants de rues de la [Base d'Adresses Nationale](https://adresse.data.gouv.fr/) . Nous fournirons bientôt une interface pour vous aider à récupérer ces identifiants rapidement pour une liste de rues.
 
+### Motifs
 
+Une partie des motifs créés 
 
