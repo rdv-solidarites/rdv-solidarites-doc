@@ -6,6 +6,12 @@ description: >-
 
 # Dernières nouveautés
 
+## Jeudi 26 novembre 2020
+
+* [Empêcher agents non-admins d'inviter d'autres agents](https://trello.com/c/pEEDtUAn/1172-empecher-agents-non-admins-dinviter-dautres-agents)
+* [Déplace l'édition du RDV d'une barre latérale vers une vraie page dédiée](https://trello.com/c/2P1MfdOn/1166-d%C3%A9place-l%C3%A9dition-du-rdv-dune-barre-lat%C3%A9rale-vers-une-vraie-page-d%C3%A9di%C3%A9e)
+* [Ajouter le nom du lieu pour l'interconnexion](https://trello.com/c/yEE6L8rj/1180-ajouter-le-nom-du-lieu-pour-linterconnexion)
+
 ## Lundi 23 novembre 2020
 
 * [Alerter lors de la création de plages d'ouvertures en conflit avec d'autres plages d'ouvertures, potentiellement d'autres organisations](https://trello.com/c/QEzwN6e0/1087-alerter-lors-de-la-cr%C3%A9ation-de-plages-douvertures-en-conflit-avec-dautres-plages-douvertures-potentiellement-dautres-organisatio)
