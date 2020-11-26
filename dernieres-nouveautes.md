@@ -11,6 +11,7 @@ description: >-
 * [Empêcher agents non-admins d'inviter d'autres agents](https://trello.com/c/pEEDtUAn/1172-empecher-agents-non-admins-dinviter-dautres-agents)
 * [Déplace l'édition du RDV d'une barre latérale vers une vraie page dédiée](https://trello.com/c/2P1MfdOn/1166-d%C3%A9place-l%C3%A9dition-du-rdv-dune-barre-lat%C3%A9rale-vers-une-vraie-page-d%C3%A9di%C3%A9e)
 * [Ajouter le nom du lieu pour l'interconnexion](https://trello.com/c/yEE6L8rj/1180-ajouter-le-nom-du-lieu-pour-linterconnexion)
+* [investigate potential security issue with omniauth CVE 2015 9284](https://trello.com/c/m4c7w3mC/1151-investigate-potential-security-issue-with-omniauth-cve-2015-9284)
 
 ## Lundi 23 novembre 2020
 
