@@ -46,7 +46,7 @@ Dans les recherches usagers, des créneaux apparaissent donc quand :
 
 ### Possibilités
 
-Ce système assez complexe de secteurs et de motifs permet de répondre à des cas d'usages variés :
+Ce système de secteurs et de motifs permet de répondre à des cas d'usages variés :
 
 * Définir des groupes de communes dans un département et attribuer chaque groupe à une organisation différente 
 * Définir certains motifs exceptionnels qui contournent cette sectorisation et peuvent être réservés depuis tout le département
