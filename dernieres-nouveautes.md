@@ -6,6 +6,10 @@ description: >-
 
 # Dernières nouveautés
 
+## Vendredi 27 novembre 2020 
+
+- [préserver le contexte de l'agent lors de l'édition d'un RDV en provenant du calendrier d'un collègue](https://trello.com/c/95YCduVA)
+
 ## Jeudi 26 novembre 2020
 
 * [Empêcher agents non-admins d'inviter d'autres agents](https://trello.com/c/pEEDtUAn/1172-empecher-agents-non-admins-dinviter-dautres-agents)
