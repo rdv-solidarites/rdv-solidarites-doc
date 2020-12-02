@@ -6,6 +6,11 @@ description: >-
 
 # Dernières nouveautés
 
+# Lundi 30 novembre 2020
+
+- [Ajouter un lien vers la politique de confidentialité](https://trello.com/c/ztA8YAyx)
+- [[Secto] désectoriser certains motifs](https://trello.com/c/VQTgdF7y)
+
 ## Vendredi 27 novembre 2020 
 
 - [préserver le contexte de l'agent lors de l'édition d'un RDV en provenant du calendrier d'un collègue](https://trello.com/c/95YCduVA)
