@@ -6,6 +6,10 @@ description: >-
 
 # Dernières nouveautés
 
+# Mercredi 2 décembre
+
+- [expliciter que les usagers peuvent annuler les RDVs dans les mails de confirmation et de rappel](https://trello.com/c/Efnl6Bpu)
+
 # Lundi 30 novembre 2020
 
 - [Ajouter un lien vers la politique de confidentialité](https://trello.com/c/ztA8YAyx)
