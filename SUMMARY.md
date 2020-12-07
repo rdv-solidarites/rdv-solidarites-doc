@@ -1,7 +1,6 @@
 # Table of contents
 
 * [RDV Solidarités](README.md)
-* [Liste des champs stockés dans la base de données](liste-des-champs-stockes-dans-la-base-de-donnees.md)
 * [Gouvernance](gouvernance.md)
 * [Interface Agent](interface-agent.md)
 * [Permissions des agents](permissions-agents.md)
@@ -26,6 +25,7 @@
 * [API / interconnexions entrantes](technique/api-interconnexions-entrantes.md)
 * [Infrastructure](technique/infrastructure.md)
 * [Statut de rendez-vous](technique/statut-de-rendez-vous.md)
+* [Liste des champs stockés dans la base de données](technique/liste-des-champs-stockes-dans-la-base-de-donnees.md)
 
 ## Investigations Passées
 
