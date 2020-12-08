@@ -6,6 +6,10 @@ description: >-
 
 # Dernières nouveautés
 
+## Lundi 7 décembre
+
+- [Permettre de filtrer la liste des RDVs par lieu](https://trello.com/c/JLi9wazO)
+
 ## Jeudi 3 décembre
 
 * [Mieux qualifier les mails depuis la page contact](https://trello.com/c/L4cNwlGr/1187-mieux-qualifier-les-mails-depuis-la-page-contact)
