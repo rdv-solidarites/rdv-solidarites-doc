@@ -6,16 +6,16 @@ description: >-
 
 # Dernières nouveautés
 
-## Lundi 7 décembre
+## Lundi 7 décembre 2020
 
 - [Permettre de filtrer la liste des RDVs par lieu](https://trello.com/c/JLi9wazO)
 
-## Jeudi 3 décembre
+## Jeudi 3 décembre 2020
 
 * [Mieux qualifier les mails depuis la page contact](https://trello.com/c/L4cNwlGr/1187-mieux-qualifier-les-mails-depuis-la-page-contact)
 * [Utilise partout la même façon d'annuler un RDV](https://trello.com/c/YunxOY7K/1185-utilise-partout-la-m%C3%AAme-fa%C3%A7on-dannuler-un-rdv)
 
-## Mercredi 2 décembre
+## Mercredi 2 décembre 2020
 
 * [expliciter que les usagers peuvent annuler les RDVs dans les mails de confirmation et de rappel](https://trello.com/c/Efnl6Bpu)
 
