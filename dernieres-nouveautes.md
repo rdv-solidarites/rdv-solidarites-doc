@@ -8,7 +8,7 @@ description: >-
 
 ## Lundi 7 décembre 2020
 
-- [Permettre de filtrer la liste des RDVs par lieu](https://trello.com/c/JLi9wazO)
+* [Permettre de filtrer la liste des RDVs par lieu](https://trello.com/c/JLi9wazO)
 
 ## Jeudi 3 décembre 2020
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [RDV Solidarités](README.md)
+* [RDV-Solidarités](README.md)
 * [Gouvernance](gouvernance.md)
 * [Interface Agent](interface-agent.md)
 * [Permissions des agents](permissions-agents.md)

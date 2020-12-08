@@ -1,22 +1,30 @@
 ---
 description: >-
-  Réduire le nombre de rendez-vous annulés dans les maisons départementales des
-  solidarités
+  Service numérique public de prise de RDV et de gestion de calendrier pour les
+  services des Solidarités en départements. Déjà plus de 50.000 RDVs pris dans
+  plus de 10 départements
 ---
 
-# RDV Solidarités
+# RDV-Solidarités
 
-ll est disponible sur [https://rdv-solidarites.fr](https://rdv-solidarites.fr).
+![Prise de RDV autonome d&apos;un usager sur RDV-Solidarit&#xE9;s](.gitbook/assets/screenshot_2020-12-08_at_18.11.54.png)
 
- ![](https://d33wubrfki0l68.cloudfront.net/ee19ce5a0c382ea0733d2766546f4d46db465e41/aa0d3/img/startups/lapins.png)
-
-* Les statistiques d'usage [sont disponibles ici](https://www.rdv-solidarites.fr/stats/)
+* Service opérationnel et accessible à toutes et tous sur [rdv-solidarites.fr](https://www.rdv-solidarites.fr)
+* Des statistiques d'usages publiques anonymes [sont disponibles ici](https://www.rdv-solidarites.fr/stats/)
 * Le code source est libre et [disponible sur GitHub](https://github.com/betagouv/rdv-solidarites.fr/)
-* RDV-Solidarités est porté par un consortium de départements
-* RDV-Solidarités fait partie de [L'Incubateur de Services Numériques](https://beta.gouv.fr/approche/incubateurs/dinum.html)
+* Le projet est porté par un consortium de départements et fait partie de [l'incubateur de l'Agence Nationale de la Cohésion Territoriale](https://incubateur.anct.gouv.fr/) ainsi que de la communauté [beta.gouv.fr](https://beta.gouv.fr) 
 *  [Contacter l’équipe](mailto:contact@rdv-solidarites.fr?subject=RDV%20Solidarit%C3%A9s%20%28anciennement%20Lapins%29%20sur%20beta.gouv.fr)
 
-### Des milliers de lapins dans les Maisons départementales de solidarité ! <a id="des-milliers-de-lapins-dans-les-maisons-d&#xE9;partementales-de-solidarit&#xE9;-"></a>
+### Fonctionnalités principales <a id="des-milliers-de-lapins-dans-les-maisons-d&#xE9;partementales-de-solidarit&#xE9;-"></a>
+
+* Saisie unique des informations des usagers 
+* Rappels automatiques par email et SMS
+* Prise de RDVs en ligne autonome par les usagers
+* Annulation des RDVs en ligne par les usagers
+* Files d'attentes pour prévenir de créneaux se libérant
+* Sectorisation géographique pour orienter les usagers vers les bons services
+
+### Historique et origine <a id="des-milliers-de-lapins-dans-les-maisons-d&#xE9;partementales-de-solidarit&#xE9;-"></a>
 
 Chaque année, des dizaines de milliers de rendez-vous pris dans les maisons départementales de solidarité \(MDS\). Selon nos estimations réalisées dans plusieurs départements, près de 20 % en moyenne ne sont ni honorés, ni excusés : ce sont des lapins. A ces lapins s’ajoutent des rendez-vous annulés et non remplacés, portant la moyenne des rendez-vous vacants à près de 25%.
 
@@ -30,26 +38,12 @@ Les solutions trouvées pour le Pas-de-Calais ont vocation à être étendues, e
 
 En avril 2019, 12 collectivités départementales se sont associées pour former un consortium soutenu par la DINUM, créer une plateforme commune et partager les bonnes pratiques.
 
-### Une solution numérique pour faciliter la prise, l’annulation et le remplacement de rendez-vous <a id="une-solution-num&#xE9;rique-pour-faciliter-la-prise-lannulation-et-le-remplacement-de-rendez-vous"></a>
-
-Une application permettra de fluidifier la prise de rendez-vous. Elle devra permettre la simplification du travail d’organisation et de suivi par les agents. Cinq moyens de base sont identifiés : la saisie unique des informations de l’usager, l’usage d’agendas partagés, des rappels automatiques par email et SMS. Dans certains cas, les usagers pourront prendre rendez-vous en ligne et modifier ou annuler leur rendez-vous en autonomie. Des files d’attente pour prévenir automatiquement les usagers de créneaux rendus disponibles seront alors mis en place.
-
-### Une démarche progressive de co-construction avec les utilisateurs <a id="une-d&#xE9;marche-progressive-de-co-construction-avec-les-utilisateurs"></a>
-
-Une organisation projet est mise en place à plusieurs niveaux : une équipe de développement, des référents dans chaque départements, des correspondants dans chaque MDS et des utilisateurs volontaires pour la phase de construction du produit.
-
-Chaque département partenaire identifie une ou plusieurs maisons pilotes. Nos relais sont en priorité les travailleurs des MDS : assistants sociaux, infirmières puéricultrices, médecins de PMI et fonctions support \(secrétariat, accueil téléphonique\). Nous les interrogeons directement, pour construire avec eux une solution adaptée à leurs usages. Ils testent en continu la solution proposée.
-
-La démarche est conçue comme progressive. Nous adresserons les enjeux de chaque service, en commençant par la PMI et l’accueil social. Le déploiement de la solution suivra ensuite deux axes : l’extension aux autres services de chaque maison \(aide sociale à l’enfance, RSA, etc.\) et l’élargissement géographique aux autres maisons du département.
-
 ### L'équipe actuelle
 
-* [Adrien Di Pasquale Développeur Fullstack](https://adrien.dipasquale.fr)
-* Aude Millamon Intrapreneuse
-* Camille Garrigue  Chargée de développement
-* Elodie Vaneecke Intrapreneuse
-* [Thomas Guillet Développeur](https://palya.fr/) Tout faire pour les usagers
-* [Yannick François Développeur](https://elsif.fr) Coéquipier à tout faire
+* Radia Difallah - Déploiement, Animation de la communauté et Produit
+* [Thomas Guillet ](https://palya.fr/)Développement
+* [Yannick François ](https://elsif.fr)Développement et Produit
+* [Adrien Di Pasquale ](https://adrien.dipasquale.fr)Développement
 
 
 
