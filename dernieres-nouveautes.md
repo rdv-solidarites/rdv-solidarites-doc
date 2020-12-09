@@ -6,6 +6,11 @@ description: >-
 
 # Dernières nouveautés
 
+## Mardi 8 décembre 2020
+
+- [empêcher le changement de service d'un agent pour éviter les incohérences](https://trello.com/c/c3ycMAQT)
+- [Masquer le niveau de sectorisation dans la liste pour les motifs non réservables en ligne](https://trello.com/c/xxNscEiG)
+
 ## Lundi 7 décembre 2020
 
 * [Permettre de filtrer la liste des RDVs par lieu](https://trello.com/c/JLi9wazO)
