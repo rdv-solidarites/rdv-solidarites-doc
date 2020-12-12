@@ -13,9 +13,9 @@ description: >-
 * Des statistiques d'usages publiques anonymes [sont disponibles ici](https://www.rdv-solidarites.fr/stats/)
 * Le code source est libre et [disponible sur GitHub](https://github.com/betagouv/rdv-solidarites.fr/)
 * Le projet est porté par un consortium de départements et fait partie de [l'incubateur de l'Agence Nationale de la Cohésion Territoriale](https://incubateur.anct.gouv.fr/) ainsi que de la communauté [beta.gouv.fr](https://beta.gouv.fr) 
-*  [Contacter l’équipe](mailto:contact@rdv-solidarites.fr?subject=RDV%20Solidarit%C3%A9s%20%28anciennement%20Lapins%29%20sur%20beta.gouv.fr)
+* [Contacter l’équipe](mailto:contact@rdv-solidarites.fr?subject=RDV%20Solidarit%C3%A9s%20%28anciennement%20Lapins%29%20sur%20beta.gouv.fr)
 
-### Fonctionnalités principales <a id="des-milliers-de-lapins-dans-les-maisons-d&#xE9;partementales-de-solidarit&#xE9;-"></a>
+## Fonctionnalités principales <a id="des-milliers-de-lapins-dans-les-maisons-d&#xE9;partementales-de-solidarit&#xE9;-"></a>
 
 * Saisie unique des informations des usagers 
 * Rappels automatiques par email et SMS
@@ -24,7 +24,7 @@ description: >-
 * Files d'attentes pour prévenir de créneaux se libérant
 * Sectorisation géographique pour orienter les usagers vers les bons services
 
-### Historique et origine <a id="des-milliers-de-lapins-dans-les-maisons-d&#xE9;partementales-de-solidarit&#xE9;-"></a>
+## Historique et origine <a id="des-milliers-de-lapins-dans-les-maisons-d&#xE9;partementales-de-solidarit&#xE9;-"></a>
 
 Chaque année, des dizaines de milliers de rendez-vous pris dans les maisons départementales de solidarité \(MDS\). Selon nos estimations réalisées dans plusieurs départements, près de 20 % en moyenne ne sont ni honorés, ni excusés : ce sont des lapins. A ces lapins s’ajoutent des rendez-vous annulés et non remplacés, portant la moyenne des rendez-vous vacants à près de 25%.
 
@@ -38,16 +38,10 @@ Les solutions trouvées pour le Pas-de-Calais ont vocation à être étendues, e
 
 En avril 2019, 12 collectivités départementales se sont associées pour former un consortium soutenu par la DINUM, créer une plateforme commune et partager les bonnes pratiques.
 
-### L'équipe actuelle
+## L'équipe actuelle
 
 * Radia Difallah - Déploiement, Animation de la communauté et Produit
 * [Thomas Guillet ](https://palya.fr/)Développement
 * [Yannick François ](https://elsif.fr)Développement et Produit
 * [Adrien Di Pasquale ](https://adrien.dipasquale.fr)Développement
-
-
-
-
-
-
 

@@ -6,10 +6,22 @@ description: >-
 
 # Dernières nouveautés
 
+## Vendredi 11 décembre 2020
+
+* [Désactiver les notifications pour un usager](https://trello.com/c/onN13lua/1175-d%C3%A9sactiver-les-notifications-pour-un-usager)
+
+## Jeudi 10 décembre 2020
+
+* [Info Motif en ligne ou hors ligne au moment de créer une plage d'ouverture](https://trello.com/c/U37LFm0b/1189-info-motif-en-ligne-ou-hors-ligne-au-moment-de-cr%C3%A9er-une-plage-douverture)
+
+## Mercredi 9 décembre 2020
+
+* [Alerter lors de la création de RDVs en conflit avec des plages d'ouvertures](https://trello.com/c/6HOfDMIF/1170-alerter-lors-de-la-cr%C3%A9ation-de-rdvs-en-conflit-avec-des-plages-douvertures)
+
 ## Mardi 8 décembre 2020
 
-- [empêcher le changement de service d'un agent pour éviter les incohérences](https://trello.com/c/c3ycMAQT)
-- [Masquer le niveau de sectorisation dans la liste pour les motifs non réservables en ligne](https://trello.com/c/xxNscEiG)
+* [empêcher le changement de service d'un agent pour éviter les incohérences](https://trello.com/c/c3ycMAQT)
+* [Masquer le niveau de sectorisation dans la liste pour les motifs non réservables en ligne](https://trello.com/c/xxNscEiG)
 
 ## Lundi 7 décembre 2020
 
