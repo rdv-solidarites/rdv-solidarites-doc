@@ -6,6 +6,12 @@ description: >-
 
 # Dernières nouveautés
 
+## 
+
+## Mardi 15 décembre 2020
+
+* [Faciliter le retour de la fiche usager vers la fiche RDV lorsqu'on vient de la fiche RDV](https://trello.com/c/Un6EqHDx/1115-faciliter-le-retour-de-la-fiche-usager-vers-la-fiche-rdv-lorsquon-vient-de-la-fiche-rdv)
+
 ## Vendredi 11 décembre 2020
 
 * [Désactiver les notifications pour un usager](https://trello.com/c/onN13lua/1175-d%C3%A9sactiver-les-notifications-pour-un-usager)
