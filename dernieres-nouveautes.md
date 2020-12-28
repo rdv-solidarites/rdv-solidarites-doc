@@ -6,6 +6,10 @@ description: >-
 
 # Dernières nouveautés
 
+## Mardi 22 décembre 2020
+
+* [fix JS bug when selecting agent in left menu dropdown from admin rdvs list](https://github.com/betagouv/rdv-solidarites.fr/issues/1035)
+
 ## Lundi 21 décembre 2020
 
 * [label explicite pour l'inscription agent](https://trello.com/c/58xrngIl/1194-label-explicite-pour-linscription-agent)
