@@ -6,7 +6,11 @@ description: >-
 
 # Dernières nouveautés
 
-## 
+## Lundi 21 décembre 2020
+
+* [label explicite pour l'inscription agent](https://trello.com/c/58xrngIl/1194-label-explicite-pour-linscription-agent)
+* [afficher un bloc rdvs courant sur la vue usager](https://trello.com/c/pYTq6GJX/1195-afficher-un-bloc-rdvs-courant-sur-la-vue-usager)
+* [\[RGPD\] Filtrer les champs demandés pour la prise d'un RDV en fonction du service](https://trello.com/c/P1A5StGb/1026-rgpd-filtrer-les-champs-demand%C3%A9s-pour-la-prise-dun-rdv-en-fonction-du-service)
 
 ## Mardi 15 décembre 2020
 
