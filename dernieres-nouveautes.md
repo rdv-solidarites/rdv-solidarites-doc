@@ -6,6 +6,10 @@ description: >-
 
 # Dernières nouveautés
 
+## Lundi 28 décembre 2020
+
+*  ****[Préciser si l'usager est majeur ou mineur dans l'extract des admins](https://github.com/betagouv/rdv-solidarites.fr/issues/1009)
+
 ## Mardi 22 décembre 2020
 
 * [fix JS bug when selecting agent in left menu dropdown from admin rdvs list](https://github.com/betagouv/rdv-solidarites.fr/issues/1035)
