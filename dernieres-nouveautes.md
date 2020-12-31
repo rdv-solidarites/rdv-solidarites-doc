@@ -6,6 +6,12 @@ description: >-
 
 # Dernières nouveautés
 
+## Mercredi 30 décembre 2020
+
+* [Problème de contrastes sur l'agenda \(et les couleurs de motifs\)](https://trello.com/c/F0LCArHS/1116-probl%C3%A8me-de-contrastes-sur-lagenda-et-les-couleurs-de-motifs)
+* [réparer 4 motifs invalides en prod](https://trello.com/c/SZWQQEXd/1181-r%C3%A9parer-4-motifs-invalides-en-prod)
+* [Afficher le formulaire d'inscription usager par défaut \(plutot que celui de connexion\)](https://trello.com/c/23F6PWYU/1129-afficher-le-formulaire-dinscription-usager-par-d%C3%A9faut-plutot-que-celui-de-connexion)
+
 ## Lundi 28 décembre 2020
 
 *  ****[Préciser si l'usager est majeur ou mineur dans l'extract des admins](https://github.com/betagouv/rdv-solidarites.fr/issues/1009)
