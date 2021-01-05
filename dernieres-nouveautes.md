@@ -18,7 +18,8 @@ description: >-
 
 ## Mardi 22 décembre 2020
 
-* [fix JS bug when selecting agent in left menu dropdown from admin rdvs list](https://github.com/betagouv/rdv-solidarites.fr/issues/1035)
+- [Ajuster l'heure de début du RDV avec la fin du précédent](https://trello.com/c/fbebJ0G5)
+- [fix JS bug when selecting agent in left menu dropdown from admin rdvs list](https://github.com/betagouv/rdv-solidarites.fr/issues/1035)
 
 ## Lundi 21 décembre 2020
 
