@@ -6,10 +6,6 @@ description: >-
 
 # Sectorisation géographique
 
-{% hint style="warning" %}
-Une partie des fonctionnalités présentées sur cette page vont être déployées d'ici quelques jours
-{% endhint %}
-
 ## Fonctionnement
 
 La sectorisation permet de définir des secteurs géographiques et de leur attribuer des responsables. Les usagers sont orientés vers les bons responsables selon l'adresse saisie lors de leur prise de RDV en ligne.
@@ -34,16 +30,6 @@ Chaque motif a un niveau de sectorisation propre parmi les trois possibles :
 
 ![Exemple de motifs sectoris&#xE9;s &#xE0; des niveaux diff&#xE9;rents](../.gitbook/assets/screenshot_2020-11-26_at_11.01.36.png)
 
-### Combinaison pour qu'un motif apparaisse dans une recherche usager
-
-Dans les recherches usagers, des créneaux apparaissent donc quand : 
-
-* le motif est sectorisé au niveau du département OU 
-* le motif est sectorisé au niveau de l'organisation ET un secteur géographique correspond à l'adresse recherchée par l'usager ET ce secteur est attribué à l'organisation entière OU
-* le motif est sectorisé au niveau de l'agent ET un secteur géographique correspond à l'adresse recherchée par l'usager ET ce secteur est attribué à un agent 
-
-\(il faut aussi que les conditions hors-sectorisation soient remplies : que le motif soit marqué "réservable en ligne", et que l'agent ait une plage d'ouverture à venir pour ce motif\)
-
 ### Possibilités
 
 Ce système de secteurs et de motifs permet de répondre à des cas d'usages variés :
@@ -62,7 +48,9 @@ Les agents n'ayant pas le rôle Administrateur ne peuvent configurer ni les moti
 
 Les agents avec le rôle Administrateur peuvent configurer les secteurs de leurs organisations uniquement. Ces agents voient les secteurs des autres organisations du département; mais ne peuvent pas les éditer
 
-## Exemples
+## Plus en détail
+
+{% page-ref page="logique-detaillee-de-la-sectorisation.md" %}
 
 {% page-ref page="sectorisation-par-commune-et-par-organisation.md" %}
 

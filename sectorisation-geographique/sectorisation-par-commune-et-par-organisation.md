@@ -5,11 +5,7 @@ description: >-
   de résidence
 ---
 
-# Sectorisation par commune et par organisation
-
-{% hint style="warning" %}
-Une partie des fonctionnalités présentées sur cette page vont être déployées d'ici quelques jours
-{% endhint %}
+# Exemple 1 : Par commune et par organisation
 
 ## Exemple
 

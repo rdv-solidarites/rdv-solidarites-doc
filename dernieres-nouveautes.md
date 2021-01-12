@@ -8,21 +8,21 @@ description: >-
 
 ## Vendredi 8 janvier 2021
 
-- [problème de scope sur les blocs de RDVs dans admin/rdvs#show et admin/users#show](https://github.com/betagouv/rdv-solidarites.fr/issues/1030)
-- [rendre plus visible le lien pour modifier une invitation d'agent ](https://github.com/betagouv/rdv-solidarites.fr/issues/1068)
+* [problème de scope sur les blocs de RDVs dans admin/rdvs\#show et admin/users\#show](https://github.com/betagouv/rdv-solidarites.fr/issues/1030)
+* [rendre plus visible le lien pour modifier une invitation d'agent ](https://github.com/betagouv/rdv-solidarites.fr/issues/1068)
 
 ## Jeudi 7 janvier 2021
 
-- [donner un moyen aux agents admin de réaffecter un agent à un autre service](https://github.com/betagouv/rdv-solidarites.fr/issues/1088)
-- [réparer le filtre des motifs par service sur la recherche usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1103)
+* [donner un moyen aux agents admin de réaffecter un agent à un autre service](https://github.com/betagouv/rdv-solidarites.fr/issues/1088)
+* [réparer le filtre des motifs par service sur la recherche usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1103)
 
 ## Mercredi 6 janvier 2021
 
-- [Valide le format #RRGGBB de la couleur du motif](https://github.com/betagouv/rdv-solidarites.fr/issues/1082)
+* [Valide le format \#RRGGBB de la couleur du motif](https://github.com/betagouv/rdv-solidarites.fr/issues/1082)
 
 ## Mardi 5 janvier 2021
 
-- [Gérer un contenu N/A dans la vue organisation coté agent](https://github.com/betagouv/rdv-solidarites.fr/issues/1003)
+* [Gérer un contenu N/A dans la vue organisation coté agent](https://github.com/betagouv/rdv-solidarites.fr/issues/1003)
 
 ## Mercredi 30 décembre 2020
 
@@ -32,12 +32,12 @@ description: >-
 
 ## Lundi 28 décembre 2020
 
-*  ****[Préciser si l'usager est majeur ou mineur dans l'extract des admins](https://github.com/betagouv/rdv-solidarites.fr/issues/1009)
+* _\*\*_[Préciser si l'usager est majeur ou mineur dans l'extract des admins](https://github.com/betagouv/rdv-solidarites.fr/issues/1009)
 
 ## Mardi 22 décembre 2020
 
-- [Ajuster l'heure de début du RDV avec la fin du précédent](https://trello.com/c/fbebJ0G5)
-- [fix JS bug when selecting agent in left menu dropdown from admin rdvs list](https://github.com/betagouv/rdv-solidarites.fr/issues/1035)
+* [Ajuster l'heure de début du RDV avec la fin du précédent](https://trello.com/c/fbebJ0G5)
+* [fix JS bug when selecting agent in left menu dropdown from admin rdvs list](https://github.com/betagouv/rdv-solidarites.fr/issues/1035)
 
 ## Lundi 21 décembre 2020
 
