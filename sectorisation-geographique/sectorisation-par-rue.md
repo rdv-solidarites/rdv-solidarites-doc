@@ -31,5 +31,5 @@ L'idée est de créer 3 secteurs :
 
 Renseigner manuellement les rues de chaque secteur peut être fastidieux. Si vous disposez déjà d'un fichier de rues pour chaque secteur, vous pouvez utiliser l'interface d'import de fichier. 
 
-Note : votre fichier doit comporter les identifiants de rues de la [Base d'Adresses Nationale](https://adresse.data.gouv.fr/) . Vous pouvez utiliser [cet outil externe](https://codepen.io/adipasquale/full/GRjXvQK) pour vous aider à trouver ces identifiants.
+Note : votre fichier doit comporter les identifiants de rues de la [Base d'Adresses Nationale](https://adresse.data.gouv.fr/) . Vous pouvez utiliser [cet outil externe](https://adresse.data.gouv.fr/csv) pour vous aider à trouver ces identifiants.
 
