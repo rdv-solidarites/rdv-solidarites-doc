@@ -12,6 +12,12 @@ La sectorisation permet de définir des secteurs géographiques et de leur attri
 
 ![Exemple de carte de sectorisation dans le Pas de Calais](../.gitbook/assets/screenshot_2020-11-26_at_10.58.08.png)
 
+### Webinaire
+
+{% embed url="https://peertube.ethibox.fr/videos/watch/7e1926cd-0b0f-4b0a-a109-e5327a8c629c" caption="Webinaire Sectorisation - 01/14/2020" %}
+
+Ce webinaire se compose d'une introduction théorique reprenant les concepts introduits dans la documentation ci-dessous, et réalise un exemple de configuration sur un environnement de démonstration.
+
 ### Secteurs
 
 Chaque secteur est défini comme un ensemble de communes ou de rues.
