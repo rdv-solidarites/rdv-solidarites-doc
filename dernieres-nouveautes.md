@@ -8,13 +8,13 @@ description: >-
 
 ## Mardi 12 janvier 2021
 
-- [secto: rediriger vers la page du secteur qui vient d'être créé plutôt que la liste](https://github.com/betagouv/rdv-solidarites.fr/issues/1081)
-- [changer l'icone des lieux dans le left menu agent](https://github.com/betagouv/rdv-solidarites.fr/issues/1106)
-- [secto : interface pour aider à créer des listes d'identifiants BAN de rues + importer fichier pour Calais](https://github.com/betagouv/rdv-solidarites.fr/issues/1070)
+* [secto: rediriger vers la page du secteur qui vient d'être créé plutôt que la liste](https://github.com/betagouv/rdv-solidarites.fr/issues/1081)
+* [changer l'icone des lieux dans le left menu agent](https://github.com/betagouv/rdv-solidarites.fr/issues/1106)
+* [secto : interface pour aider à créer des listes d'identifiants BAN de rues + importer fichier pour Calais](https://github.com/betagouv/rdv-solidarites.fr/issues/1070)
 
 ## Lundi 11 janvier 2021
 
-- [secto : interface de debug agent](https://github.com/betagouv/rdv-solidarites.fr/issues/1072)
+* [secto : interface de debug agent](https://github.com/betagouv/rdv-solidarites.fr/issues/1072)
 
 ## Vendredi 8 janvier 2021
 
