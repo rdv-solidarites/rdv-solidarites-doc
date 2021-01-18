@@ -6,6 +6,10 @@ description: >-
 
 # Dernières nouveautés
 
+## Jeudi 14 janvier 2021
+
+- [Exporter les informations des RDVs affichées à l'écran](https://github.com/betagouv/rdv-solidarites.fr/pull/1064)
+
 ## Mardi 12 janvier 2021
 
 * [secto: rediriger vers la page du secteur qui vient d'être créé plutôt que la liste](https://github.com/betagouv/rdv-solidarites.fr/issues/1081)
