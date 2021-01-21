@@ -15,6 +15,7 @@
 * [Mentions Légales](mentions-legales.md)
 * [Conditions d’utilisation de la plateforme RDV-Solidarités](conditions-dutilisation-de-la-plateforme-rdv-solidarites.md)
 * [Politique de confidentialité](politique-de-confidentialite.md)
+* [FAQ](faq.md)
 
 ## Aspects techniques <a id="technique"></a>
 
