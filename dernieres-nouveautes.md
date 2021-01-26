@@ -8,18 +8,18 @@ description: >-
 
 ## Lundi 25 janvier 2021
 
-- [rajouter un champ "ville" dans le formulaire de contact pour les usagers](https://github.com/betagouv/rdv-solidarites.fr/issues/1092)
+* [rajouter un champ "ville" dans le formulaire de contact pour les usagers](https://github.com/betagouv/rdv-solidarites.fr/issues/1092)
 
 ## Jeudi 21 janvier 2021
 
-- [réparer bug agents non connectés redirigés vers connexion usagers](https://github.com/betagouv/rdv-solidarites.fr/issues/1135)
-- [Rendre visible la liste des motifs pour les agents non-admin](https://github.com/betagouv/rdv-solidarites.fr/issues/1132)
+* [réparer bug agents non connectés redirigés vers connexion usagers](https://github.com/betagouv/rdv-solidarites.fr/issues/1135)
+* [Rendre visible la liste des motifs pour les agents non-admin](https://github.com/betagouv/rdv-solidarites.fr/issues/1132)
 
 ## Mercredi 20 janvier 2021
 
-- [envoyer les invitations d'agent avec un reply-to vers l'inviteur](https://github.com/betagouv/rdv-solidarites.fr/issues/1087)
-- [Permettre l'envoi de SMS depuis NetSize](https://github.com/betagouv/rdv-solidarites.fr/issues/1012)
-- [Cacher les textes intermediaires sur la home](https://github.com/betagouv/rdv-solidarites.fr/issues/1105)
+* [envoyer les invitations d'agent avec un reply-to vers l'inviteur](https://github.com/betagouv/rdv-solidarites.fr/issues/1087)
+* [Permettre l'envoi de SMS depuis NetSize](https://github.com/betagouv/rdv-solidarites.fr/issues/1012)
+* [Cacher les textes intermediaires sur la home](https://github.com/betagouv/rdv-solidarites.fr/issues/1105)
 
 ## Jeudi 14 janvier 2021
 

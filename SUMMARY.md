@@ -20,6 +20,7 @@
 ## Aspects techniques <a id="technique"></a>
 
 * [Hébergement & sécurité](technique/hebergement-and-securite.md)
+* [Interconnexions aperçu](technique/interconnexions-apercu.md)
 * [API / interconnexions sortantes](technique/api-interconnexions-sortantes/README.md)
   * [FAQ](technique/api-interconnexions-sortantes/faq.md)
   * [Génération de signature](technique/api-interconnexions-sortantes/generation-de-signature.md)
