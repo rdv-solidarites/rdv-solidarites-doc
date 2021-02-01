@@ -13,6 +13,7 @@ description: >-
 
 ## Mardi 26 janvier 2021
 
+* [alerter en cas de chevauchement avec un autre RDV dans le tunnel RDV agent](https://github.com/betagouv/rdv-solidarites.fr/issues/1120)
 * [order admin/organisations\#index by alphabetical name](https://github.com/betagouv/rdv-solidarites.fr/issues/1141)
 
 ## Lundi 25 janvier 2021
