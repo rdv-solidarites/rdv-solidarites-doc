@@ -6,6 +6,15 @@ description: >-
 
 # Dernières nouveautés
 
+## Jeudi 28 janvier 2021
+
+* [fix erroneous overlapping rdv warning when exact end time of previous one](https://github.com/betagouv/rdv-solidarites.fr/issues/1154)
+* [fix bug turbolinks with select2 in home search form](https://github.com/betagouv/rdv-solidarites.fr/issues/1139)
+
+## Mardi 26 janvier 2021
+
+* [order admin/organisations\#index by alphabetical name](https://github.com/betagouv/rdv-solidarites.fr/issues/1141)
+
 ## Lundi 25 janvier 2021
 
 * [rajouter un champ "ville" dans le formulaire de contact pour les usagers](https://github.com/betagouv/rdv-solidarites.fr/issues/1092)
