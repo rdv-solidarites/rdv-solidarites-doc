@@ -6,6 +6,11 @@ description: >-
 
 # Dernières nouveautés
 
+## Lundi 1er février 2021
+
+* [alerter en cas de chevauchement avec un autre RDV dans le tunnel RDV agent](https://github.com/betagouv/rdv-solidarites.fr/issues/1120)
+* [Corriger le lien vers la feuille de route](https://github.com/betagouv/rdv-solidarites.fr/issues/1152)
+
 ## Jeudi 28 janvier 2021
 
 * [fix erroneous overlapping rdv warning when exact end time of previous one](https://github.com/betagouv/rdv-solidarites.fr/issues/1154)
