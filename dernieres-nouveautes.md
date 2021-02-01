@@ -10,6 +10,7 @@ description: >-
 
 * [alerter en cas de chevauchement avec un autre RDV dans le tunnel RDV agent](https://github.com/betagouv/rdv-solidarites.fr/issues/1120)
 * [Corriger le lien vers la feuille de route](https://github.com/betagouv/rdv-solidarites.fr/issues/1152)
+* [Dans la page de paramètre « Vos motifs » Filtrer les motifs par service et par type](https://github.com/betagouv/rdv-solidarites.fr/issues/1054)
 
 ## Jeudi 28 janvier 2021
 
