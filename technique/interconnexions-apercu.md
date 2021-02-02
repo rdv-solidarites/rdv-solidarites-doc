@@ -6,7 +6,7 @@ description: >-
 
 # Interconnexions aperçu
 
-![Vue d&apos;ensemble des interconnexions possibles](../.gitbook/assets/untitled-2021-01-26-1413.png)
+![](../.gitbook/assets/untitled-2021-01-26-1413-1-.png)
 
 ## Interconnexion sortante via email
 
