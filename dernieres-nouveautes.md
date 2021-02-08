@@ -6,6 +6,11 @@ description: >-
 
 # Dernières nouveautés
 
+## Lundi 8 février 2021
+
+- [rajouter liens mailto sur les emails d'usagers](https://github.com/betagouv/rdv-solidarites.fr/issues/1159)
+- [Rendre le rôle agent/admin indépendant par organisation](https://github.com/betagouv/rdv-solidarites.fr/issues/1045)
+
 ## Lundi 1er février 2021
 
 * [alerter en cas de chevauchement avec un autre RDV dans le tunnel RDV agent](https://github.com/betagouv/rdv-solidarites.fr/issues/1120)
