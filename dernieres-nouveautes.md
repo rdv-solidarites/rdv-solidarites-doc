@@ -6,10 +6,19 @@ description: >-
 
 # Dernières nouveautés
 
+## Mercredi 10 février 2021
+
+* [Investiguer écarts nombre rdvs organisation](https://github.com/betagouv/rdv-solidarites.fr/issues/1163)
+
+## Mardi 9 février 2021
+
+* [ne pas afficher les RDVs en cours dans le bloc "prochains rdvs" sur la vue usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1033)
+*  ****[Garder une trace de la date et heure de dernière connexion d'un usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1156)
+
 ## Lundi 8 février 2021
 
-- [rajouter liens mailto sur les emails d'usagers](https://github.com/betagouv/rdv-solidarites.fr/issues/1159)
-- [Rendre le rôle agent/admin indépendant par organisation](https://github.com/betagouv/rdv-solidarites.fr/issues/1045)
+* [rajouter liens mailto sur les emails d'usagers](https://github.com/betagouv/rdv-solidarites.fr/issues/1159)
+* [Rendre le rôle agent/admin indépendant par organisation](https://github.com/betagouv/rdv-solidarites.fr/issues/1045)
 
 ## Lundi 1er février 2021
 
