@@ -6,6 +6,10 @@ description: >-
 
 # Dernières nouveautés
 
+## Vendredi 12 février 2021
+
+- [enlever les titres presque invisible sur la partie usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1181)
+
 ## Jeudi 11 février 2021
 
 - [supprimer colonne agents.role](https://github.com/betagouv/rdv-solidarites.fr/issues/1173)
