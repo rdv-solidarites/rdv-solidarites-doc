@@ -6,6 +6,10 @@ description: >-
 
 # Dernières nouveautés
 
+## Jeudi 11 février 2021
+
+- [supprimer colonne agents.role](https://github.com/betagouv/rdv-solidarites.fr/issues/1173)
+
 ## Mercredi 10 février 2021
 
 * [Investiguer écarts nombre rdvs organisation](https://github.com/betagouv/rdv-solidarites.fr/issues/1163)
