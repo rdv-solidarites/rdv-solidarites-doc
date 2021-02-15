@@ -6,6 +6,12 @@ description: >-
 
 # Dernières nouveautés
 
+## Lundi 15 février 2021
+
+- [fix api password appearing in sentry](https://github.com/betagouv/rdv-solidarites.fr/issues/1195)
+- [Réparer la suppression d'agents](https://github.com/betagouv/rdv-solidarites.fr/issues/1189)
+- [enlever les titres presque invisible sur la partie usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1181)
+
 ## Vendredi 12 février 2021
 
 - [enlever les titres presque invisible sur la partie usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1181)
