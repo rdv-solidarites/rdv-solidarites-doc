@@ -6,19 +6,34 @@ description: >-
 
 # Dernières nouveautés
 
+## Jeudi 18 févier 2021
+
+* [réparer alerte chevauchement pour RDV avec exactement les meme horaires](https://github.com/betagouv/rdv-solidarites.fr/issues/1201)
+* [remplacer œ par oe dans les SMS pour réparer l'envoi à certains numéros](https://github.com/betagouv/rdv-solidarites.fr/issues/1199)
+
+## Mercredi 17 février 2021
+
+* [Rendre numéro téléphone obligatoire pour les RDV téléphoniques](https://github.com/betagouv/rdv-solidarites.fr/issues/1113)
+* [fix notifiable conditions for file attente notifications](https://github.com/betagouv/rdv-solidarites.fr/issues/1197)
+* [France Connect](https://github.com/betagouv/rdv-solidarites.fr/issues/1024)
+
+## Mardi 16 février 2021
+
+* [arrêter d'essayer d'envoyer des SMS à des numéros fixes](https://github.com/betagouv/rdv-solidarites.fr/issues/1176)
+
 ## Lundi 15 février 2021
 
-- [fix api password appearing in sentry](https://github.com/betagouv/rdv-solidarites.fr/issues/1195)
-- [Réparer la suppression d'agents](https://github.com/betagouv/rdv-solidarites.fr/issues/1189)
-- [enlever les titres presque invisible sur la partie usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1181)
+* [fix api password appearing in sentry](https://github.com/betagouv/rdv-solidarites.fr/issues/1195)
+* [Réparer la suppression d'agents](https://github.com/betagouv/rdv-solidarites.fr/issues/1189)
+* [enlever les titres presque invisible sur la partie usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1181)
 
 ## Vendredi 12 février 2021
 
-- [enlever les titres presque invisible sur la partie usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1181)
+* [enlever les titres presque invisible sur la partie usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1181)
 
 ## Jeudi 11 février 2021
 
-- [supprimer colonne agents.role](https://github.com/betagouv/rdv-solidarites.fr/issues/1173)
+* [supprimer colonne agents.role](https://github.com/betagouv/rdv-solidarites.fr/issues/1173)
 
 ## Mercredi 10 février 2021
 
@@ -27,7 +42,7 @@ description: >-
 ## Mardi 9 février 2021
 
 * [ne pas afficher les RDVs en cours dans le bloc "prochains rdvs" sur la vue usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1033)
-*  ****[Garder une trace de la date et heure de dernière connexion d'un usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1156)
+* _\*\*_[Garder une trace de la date et heure de dernière connexion d'un usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1156)
 
 ## Lundi 8 février 2021
 
