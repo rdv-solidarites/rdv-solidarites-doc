@@ -6,50 +6,19 @@ description: >-
 
 # Tutoriel
 
-## Comment se connecter ?
-
-### J’ai déjà un compte
-
-Rendez-vous sur cette page : [https://www.rdv-solidarites.fr](https://www.rdv-solidarites.fr)
-
-* Cliquez sur « Espace agent » en haut de page à droite
-* Cliquez sur « Se connecter en tant qu’agent » en haut de page à droite
-* Authentifiez-vous avec votre email et mot de passe
-
-![](.gitbook/assets/screenshot_2020-11-24_at_16.09.23.png)
-
-![](.gitbook/assets/screenshot_2020-11-24_at_16.11.45%20%281%29.png)
-
-### J’ai oublié mon mot de passe
-
-![](.gitbook/assets/screenshot_2020-11-24_at_16.11.45.png)
-
-* Cliquez sur « Mot de passe oublié »
-* Renseignez votre adresse email
-* Un email vous a été envoyé, ouvrez-le et cliquez sur le lien
-* Créez un nouveau mot de passe
-
-### Mon adresse email n’est pas reconnue
-
-Plusieurs possibilités : Vous n’avez pas activé votre compte dans les temps ou vous n’avez pas encore été invité.
-
-* Cliquez sur le bouton « Renvoyer » puis ouvrez l’email d’invitation
-* cliquez sur le lien présenté dans l’email 
-* créez votre mot de passe
-
 ## Comment démarrer sur RDV-solidarités ?
 
 ### Étape 1 : Effectuer le paramétrage
 
 Les paramètres sont toutes les informations qui structurent votre service dans la prise de RDV. Ils peuvent être modifiés à tout moment d’utilisation de l’outil. Seuls les agents possédant le profil « administrateur » ont l’accès aux paramètres.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.15.06.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.15.06.png)
 
 #### Votre organisation
 
 Ajoutez les horaires d’ouverture et le numéro de téléphone de votre organisation. Ces informations apparaissent à l’usager lorsque celui-ci cherche à prendre RDV dans votre département et qu’aucune consultation n’est proposée à la prise de RDV en ligne. Ainsi l’usager à toujours le moyen de contacter le service.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.15.26.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.15.26.png)
 
 #### Vos lieux
 
@@ -57,7 +26,7 @@ Il s’agit ici de lister tous les lieux sur lesquels les agents effectuent des 
 
 Le lieu s’inscrit alors dans la liste des lieux.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.15.51.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.15.51.png)
 
 #### Vos agents
 
@@ -74,7 +43,7 @@ Comment inviter un professionnel à rejoindre l’outil ?
 
 A savoir : tous les agents du service secrétariat ont aussi accès à l’ensemble des agendas et lecture et modification.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.16.15.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.16.15.png)
 
 #### Comment modifier le rôle d’un professionnel ?
 
@@ -87,7 +56,7 @@ A savoir : tous les agents du service secrétariat ont aussi accès à l’ensem
 * Cliquez sur le nom de l’agent
 * Cliquez sur « supprimer » dans le bandeau s’affichant à droite
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.16.32.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.16.32.png)
 
 #### Vos motifs
 
@@ -97,7 +66,7 @@ Il s’agit ici de lister tous les motifs de rendez-vous effectués par la PMI, 
 
 * Cliquez sur « créer un motif »
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.17.47%20%281%29.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.17.47%20%281%29.png)
 
 #### Configuration générale :
 
@@ -123,7 +92,7 @@ Cochez cette case si vous souhaitez que le motif soit réservé aux usagers bén
 
   N.B : Si c’est un RDV de type « A domicile » alors il est impossible de cocher cette case, l’option apparaitra grisée.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.18.08.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.18.08.png)
 
 #### Prise de RDV en ligne par les usagers
 
@@ -135,7 +104,7 @@ Cochez cette case si vous souhaitez que le motif soit réservé aux usagers bén
 
 * Notification des usagers par email et par SMS : cochez si vous souhaitez désactiver toutes les notifications aux usagers pour les RDV de ce motif.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.30.33.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.30.33.png)
 
 #### Instructions
 
@@ -143,7 +112,7 @@ Cochez cette case si vous souhaitez que le motif soit réservé aux usagers bén
   * « Instructions à accepter avant la prise du rendez-vous » : elles apparaissent avant la confirmation du RDV par l’usager.
   * « Indications affichées après la confirmation du rendez-vous» : elles apparaissent sur la page de confirmation et sur l’email de confirmation envoyé à l’usager.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.31.15.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.31.15.png)
 
 Une fois toutes ces informations renseignées cliquez sur « créer ».
 
@@ -159,11 +128,11 @@ Cette page vous permet de suivre l’activité de votre organisation et l’usag
 * Excusés : RDVs annulé par l’usager ou l’agent
 * Non-excusés : lapins posés par les usagers
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.31.37.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.31.37.png)
 
 Vous disposez aussi de l’évolution du nombre de RDVs créés \(par les usagers ou les agents\), de RDV créés par type de RDV et par service et du nombre d’usagers créés.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.32.02.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.32.02.png)
 
 ### Étape 2 : Définir votre planning
 
@@ -185,11 +154,11 @@ Un onglet dédié vous permet de déclarer des moments où vous êtes disponible
 * « Commence à », « termine à » : précisez les horaires de cette plage d’ouverture.
 * Motifs : cochez tous les motifs de consultations traités sur cette plage d’ouverture. Vous pouvez en sélectionner autant que vous le souhaitez.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.33.11.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.33.11.png)
 
 * « Répéter la plage d’ouverture… » : en cochant cette case vous avez la possibilité plage d’ouverture Cliquez sur « créer » afin d’enregistrer la plage d’ouverture.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.34.16.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.34.16.png)
 
 Elle s’affiche désormais dans la liste.
 
@@ -205,7 +174,7 @@ Vous avez la possibilité de déclarer une absence afin que l’outil retire vos
 * « Répéter… » : cette case vous donne la possibilité d d’ajouter une récurrence à cette absence par semaine et jours de la semaine et de définir une date de fin de cette récurrence.
 * Cliquez sur « créer »
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.35.24.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.35.24.png)
 
 Votre absence s’affiche maintenant dans la liste et est visible sur votre calendrier.
 
@@ -230,7 +199,7 @@ C’est ici que vous trouverez votre base d’usagers. Cette base est alimentée
 
 Il existe deux profils d’usagers : les responsables et les proches.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.39.39.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.39.39.png)
 
 #### Comment créer une fiche usager en charge ?
 
@@ -238,7 +207,7 @@ Il existe deux profils d’usagers : les responsables et les proches.
 * Renseignez les informations sur l’usager. Les deux seules informations obligatoires sont le Nom et le Prénom de l’usager.
 * Cliquez sur « créer »
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.41.09.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.41.09.png)
 
 La fiche usager apparait désormais dans la liste.
 
@@ -258,9 +227,9 @@ Cela suppose la création préalable d’une fiche « usager en charge »
 
 Le proche apparait désormais dans la fiche de l’usager en charge. Le proche possède désormais sa propre fiche qui apparait dans la base usager.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.41.27.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.41.27.png)
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.42.30.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.42.30.png)
 
 #### Comment consulter l’historique des rendez-vous d’un usager ?
 
@@ -274,13 +243,13 @@ Chaque fiche usager contient le suivi de ses rendez-vous avec vos services.
 
 Pour consulter tout l’historique des rendez-vous cliquez sur « voir tous les rendez-vous » dans la fiche usager.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.43.02.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.43.02.png)
 
 #### Comment rechercher un usager dans la base usager ?
 
 Vous pouvez effectuer une recherche rapide de l’usager en renseignant dans la barre de recherche en haut à droite une des informations suivantes : nom, prénom, email. Vous pouvez rechercher un usager parent comme un enfant.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.39.39%20%281%29.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.39.39%20%281%29.png)
 
 ### Étape 4 : comment gérer ses rendez-vous ?
 
@@ -288,7 +257,7 @@ Rendez-vous dans l’onglet « Vos agendas ». Vous avez par défaut accès à v
 
 Vous avez la possibilité d’avoir une vue de votre calendrier par statut de RDV en cliquant sur « Tous les RDVs ». Ne s’afficheront alors que les RDV ayant le statut sélectionné.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.44.50.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.44.50.png)
 
 #### Comment accéder au calendrier d’un autre agent ?
 
@@ -296,7 +265,7 @@ Vous avez la possibilité d’avoir une vue de votre calendrier par statut de RD
 * Chercher le nom de l’agent souhaitez et cliquez dessus
 * Son calendrier s’affiche
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.47.54.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.47.54.png)
 
 **Pour revenir à votre agenda :**
 
@@ -321,9 +290,9 @@ Deux moyens permettent de poser un rendez-vous :
 
 Le rendez-vous apparait désormais dans le calendrier.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.48.47.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.48.47.png)
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.49.25.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.49.25.png)
 
 **2. Recherche de tous les créneaux disponibles**
 
@@ -343,9 +312,9 @@ Le rendez-vous apparait désormais dans le calendrier.
 
 Le rendez-vous apparait désormais dans le calendrier.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.50.05.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.50.05.png)
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.50.50.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.50.50.png)
 
 #### Comment consulter le résumé d’un rendez-vous ?
 
@@ -353,7 +322,7 @@ Le rendez-vous apparait désormais dans le calendrier.
 * Cliquez sur le créneau du rendez-vous
 * Le résumé s’affiche sur une nouvelle page
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.51.06.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.51.06.png)
 
 #### Comment supprimer un rendez-vous ?
 
@@ -385,7 +354,7 @@ Cette action est importante afin de tenir des statistiques de prise de rendez-vo
 
 Le changement de statut est maintenant pris en compte.
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.51.45.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.51.45.png)
 
 #### Comment consulter l’historique des actions du RDV
 
@@ -394,7 +363,7 @@ Cet historique vous permet d’avoir accès à toutes les actions réalisées pa
 * Cliquez sur « Afficher l’historique des actions »
 * L’historique apparait en bas de page
 
-![](.gitbook/assets/screenshot_2020-11-24_at_16.52.31.png)
+![](../.gitbook/assets/screenshot_2020-11-24_at_16.52.31.png)
 
 ## Comment se déconnecter ?
 

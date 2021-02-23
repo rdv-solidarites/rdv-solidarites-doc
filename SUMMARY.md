@@ -9,7 +9,6 @@
   * [Logique détaillée de la sectorisation](sectorisation-geographique/logique-detaillee-de-la-sectorisation.md)
   * [Exemple 1 : Par commune et par organisation](sectorisation-geographique/sectorisation-par-commune-et-par-organisation.md)
   * [Exemple 2 : Sectorisation par rue et par agent](sectorisation-geographique/sectorisation-par-rue.md)
-* [Tutoriel](tutoriel.md)
 * [Zimbra](zimbra.md)
 * [Dernières nouveautés](dernieres-nouveautes.md)
 * [Mentions Légales](mentions-legales.md)
@@ -39,5 +38,7 @@
 
 ## Tutoriels
 
+* [Tutoriel](tutoriels/tutoriel.md)
+* [Comment se connecter ?](tutoriels/comment-se-connecter.md)
 * [Créer une organisation](tutoriels/creer-une-organisation.md)
 
