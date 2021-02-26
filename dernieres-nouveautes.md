@@ -6,6 +6,10 @@ description: >-
 
 # Dernières nouveautés
 
+## Vendredi 26 février 2021
+
+*  ****[rajouter page support dans l'admin agent](https://github.com/betagouv/rdv-solidarites.fr/issues/1186)
+
 ## Jeudi 18 févier 2021
 
 * [réparer alerte chevauchement pour RDV avec exactement les meme horaires](https://github.com/betagouv/rdv-solidarites.fr/issues/1201)
