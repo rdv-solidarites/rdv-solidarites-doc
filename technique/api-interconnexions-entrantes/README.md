@@ -44,6 +44,11 @@ Les statuts HTTP des réponses renvoyées par l'API peuvent être les suivants :
 La pagination n'est pas encore implémentée. Les tableaux de ressources renvoyés sont limités à 100 pour l'instant.
 {% endhint %}
 
+En cas d'erreur reconnue par le système \(par exemple erreur 422\), les champs suivants seront présents dans la réponse pour vous informer sur les problèmes :
+
+* `errors` : \[ERREUR\] : liste d'erreurs groupées par attribut problèmatique au format machine
+* `error_messages` : \[ERREUR\] : idem mais dans un format plus facilement lisible
+
 ## Authentification
 
 Tous les agents peuvent utiliser l'API. Les requêtes faites sur l'API sont authentifiées grace à des tokens d'accès associés à chaque agent. Chaque action faite via l'API est donc attribuable à un agent.
@@ -116,168 +121,6 @@ Les rôles et permissions des agents sont les mêmes via l'API que depuis l'inte
 C'est à dire que les agents classiques ont accès à leur service uniquement, les agents du service secrétariat peuvent accéder aux agendas des agents des autres services, les agents admin ont accès à toute l'organisation, etc...
 
 Par défaut, les requêtes en lecture n'appliquent aucun filtre et retourneront toutes les ressources auxquelles a accès l'agent connecté. Par exemple si un agent admin fait une requête pour accéder à la liste des absences sans filtre, l'API retournera toutes les absences de tous les agents appartenant aux organisations dont fait partie cet agent admin, ce qui peut faire beaucoup.
-
-## Ressources
-
-### Absences
-
-#### GET /api/v1/absences
-
-Paramètres : 
-
-* `organisation_id`  INTEGER - _optionnel_ : filtre les absences retournées pour une seule organisation
-
-Réponse : 
-
-* `absences` : ARRAY\[ABSENCE\]
-
-Exemple de requête :
-
-{% tabs %}
-{% tab title="httpie" %}
-```bash
-$ http 'https://www.rdv-solidarites.fr/api/v1/absences' \
- access-token:FLXP6G2hIEYhmGe5MpHKfg \
- client:fySY0UMlNzgbhE8QYhXdkw \
- uid:'martine@demo.rdv-solidarites.fr'
-
-HTTP/1.1 200 OK
-...
-
-{
-    "absences": [
-        {
-            "agent": {
-                "email": "martine@demo.rdv-solidarites.fr",
-                "first_name": "Martine",
-                "id": 1,
-                "last_name": "VALIDAY"
-            },
-            "end_day": "2021-01-05",
-            "end_time": "08:00:00",
-            "first_day": "2020-12-23",
-            "ical_uid": "absence_14@RDV Solidarités",
-            "id": 14,
-            "organisation": {
-                "departement": "75",
-                "id": 1,
-                "name": "MDS Paris Nord"
-            },
-            "start_time": "08:00:00",
-            "title": "Vacances de Noël"
-        },
-        {
-            ...
-        }
-    ]
-}
-
-```
-{% endtab %}
-
-{% tab title="curl" %}
-```bash
-$ curl --verbose \
-  --header 'access-token: FLXP6G2hIEYhmGe5MpHKfg' \
-  --header 'client: fySY0UMlNzgbhE8QYhXdkw' \
-  --header 'uid: martine@demo.rdv-solidarites.fr' \
-  'https://www.rdv-solidarites.fr/api/v1/absences'
-
-...
-< HTTP/1.1 200 OK
-...
-
-{"absences":[{"id":14,"agent":{"id":1,"email":"martine@demo.rdv-solidarites.fr","first_name":"Martine","last_name":"VALIDAY"},"end_day":"2021-01-05","end_time":"08:00:00","first_day":"2020-12-23","ical_uid":"absence_14@RDV Solidarités","organisation":{"id":1,"departement":"75","name":"MDS Paris Nord"},"start_time":"08:00:00","title":"Vacances de Noël"},{"id":13,"agent":{"id":1,"email":"martine@demo.rdv-solidarites.fr","first_name":"Martine","last_name":"VALIDAY"},"end_day":"2020-11-20","end_time":"18:00:00","first_day":"2020-11-20","ical_uid":"absence_13@RDV Solidarités","organisation":{"id":1,"departement":"75","name":"MDS Paris Nord"},"start_time":"08:00:00","title":"Congé parental"}]}
-
-```
-{% endtab %}
-{% endtabs %}
-
-#### POST /api/v1/absences
-
-Paramètres :
-
-* `organisation_id` INTEGER : l'identifiant de l'organisation dans laquelle créer une absence
-* `agent_id` INTEGER : l'identifiant de l'agent absent
-* `first_day` DATE : le jour de début de l'absence
-* `start_time` TIME : l'heure de début de l'absence
-* `end_day` DATE : le jour de fin de l'absence
-* `end_time` TIME : l'heure de fin de l'absence
-
-{% hint style="warning" %}
-L'endpoint de création d'absence ne permet pour l'instant pas de créer des absences récurrentes
-{% endhint %}
-
-Réponse :
-
-* `errors` ARRAY\[STRING\] : uniquement présent quand l'absence n'a pas pu être créée. Contient une liste d'erreurs groupées par champ.
-* `absence` : ABSENCE : uniquement présent quand l'absence a été créée avec succès. Contient l'absence qui vient d'être créée.
-
-Exemple de requête : 
-
-{% tabs %}
-{% tab title="httpie" %}
-```bash
-$ http --json POST https://www.rdv-solidarites.fr/api/v1/absences \
-  access-token:FLXP6G2hIEYhmGe5MpHKfg \
-  client:fySY0UMlNzgbhE8QYhXdkw \
-  uid:martine@demo.rdv-solidarites.fr \
-  organisation_id=1 \
-  agent_id=1 \
-  title="Congé parental" \
-  first_day="2020-11-20" \
-  start_time="08:00" \
-  end_day="2020-11-20" \
-  end_time="18:00"
-
-HTTP/1.1 200 OK
-...
-
-{
-    "absence": {
-        "agent": {
-            "email": "martine@demo.rdv-solidarites.fr",
-            "first_name": "Martine",
-            "id": 1,
-            "last_name": "VALIDAY"
-        },
-        "end_day": "2020-11-20",
-        "end_time": "18:00:00",
-        "first_day": "2020-11-20",
-        "ical_uid": "absence_10@RDV Solidarités",
-        "id": 10,
-        "organisation": {
-            "departement": "75",
-            "id": 1,
-            "name": "MDS Paris Nord"
-        },
-        "start_time": "08:00:00",
-        "title": "Congé parental"
-    }
-}
-
-```
-{% endtab %}
-
-{% tab title="curl" %}
-```
-$ curl --verbose --request 'POST' \
-  --header 'access-token: FLXP6G2hIEYhmGe5MpHKfg' \
-  --header 'client: fySY0UMlNzgbhE8QYhXdkw' \
-  --header 'uid: martine@demo.rdv-solidarites.fr' \
-  --header 'Content-Type: application/json' \
-  --data '{"agent_id":"1","end_day":"2020-11-20","end_time":"18:00","first_day": "2020-11-20","organisation_id":"1","start_time":"08:00","title":"Congé parental"}' \
-  'https://www.rdv-solidarites.fr/api/v1/absences'
-
-...
-< HTTP/1.1 200 OK
-...
-
-{"absence":{"id":12,"agent":{"id":1,"email":"martine@demo.rdv-solidarites.fr","first_name":"Martine","last_name":"VALIDAY"},"end_day":"2020-11-20","end_time":"18:00:00","first_day":"2020-11-20","ical_uid":"absence_12@RDV Solidarités","organisation":{"id":1,"departement":"75","name":"MDS Paris Nord"},"start_time":"08:00:00","title":"Congé parental"}}
-
-```
-{% endtab %}
-{% endtabs %}
 
 
 

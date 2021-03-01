@@ -24,7 +24,7 @@ Désactivée par défaut. Nécessite l'intervention de la DSI de votre départem
 
 Elle permet des intégrations plus fines, et de créer et modifier des RDVs, absences, plages d'ouvertures etc... automatiquement depuis des systèmes externes
 
-{% page-ref page="api-interconnexions-entrantes.md" %}
+{% page-ref page="api-interconnexions-entrantes/" %}
 
 
 
