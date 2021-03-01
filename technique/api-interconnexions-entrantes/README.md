@@ -122,5 +122,13 @@ C'est à dire que les agents classiques ont accès à leur service uniquement, l
 
 Par défaut, les requêtes en lecture n'appliquent aucun filtre et retourneront toutes les ressources auxquelles a accès l'agent connecté. Par exemple si un agent admin fait une requête pour accéder à la liste des absences sans filtre, l'API retournera toutes les absences de tous les agents appartenant aux organisations dont fait partie cet agent admin, ce qui peut faire beaucoup.
 
+## Ressources
+
+{% page-ref page="api-absences.md" %}
+
+{% page-ref page="api-usagers.md" %}
+
+
+
 
 
