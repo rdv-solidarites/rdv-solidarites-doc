@@ -6,6 +6,11 @@ description: >-
 
 # Dernières nouveautés
 
+## Lundi 1er Mars 2021
+
+- [API création usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1047)
+- [afficher notifs qui vont être envoyées dans le tunnel RDV agent](https://github.com/betagouv/rdv-solidarites.fr/issues/1042)
+
 ## Vendredi 26 février 2021
 
 *  ****[rajouter page support dans l'admin agent](https://github.com/betagouv/rdv-solidarites.fr/issues/1186)
