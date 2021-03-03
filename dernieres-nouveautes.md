@@ -6,6 +6,10 @@ description: >-
 
 # Dernières nouveautés
 
+## Mercredi 3 mars 2021
+
+* [Changer le défaut du formulaire de création d'usager (responsable -> proche) dans le tunnel de RDV agent pour le service PMI](https://github.com/betagouv/rdv-solidarites.fr/issues/1184)
+
 ## Mardi 2 mars 2021
 
 * [améliorer l'affichage des blocs de RDVs précédents sur `admin/rdvs#show`](https://github.com/betagouv/rdv-solidarites.fr/issues/1031)
