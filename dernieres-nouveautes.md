@@ -8,13 +8,12 @@ description: >-
 
 ## Jeudi 4 mars 2021
 
-- [Notifications mails avec ICS lors des modifs et suppressions de Plages d'Ouvertures](https://github.com/betagouv/rdv-solidarites.fr/issues/1166)
-- [Limiter la création d'une organisation par un agent non authentifié](https://github.com/betagouv/rdv-solidarites.fr/issues/1192)
-
+* [Notifications mails avec ICS lors des modifs et suppressions de Plages d'Ouvertures](https://github.com/betagouv/rdv-solidarites.fr/issues/1166)
+* [Limiter la création d'une organisation par un agent non authentifié](https://github.com/betagouv/rdv-solidarites.fr/issues/1192)
 
 ## Mercredi 3 mars 2021
 
-* [Changer le défaut du formulaire de création d'usager (responsable -> proche) dans le tunnel de RDV agent pour le service PMI](https://github.com/betagouv/rdv-solidarites.fr/issues/1184)
+* [Changer le défaut du formulaire de création d'usager \(responsable -&gt; proche\) dans le tunnel de RDV agent pour le service PMI](https://github.com/betagouv/rdv-solidarites.fr/issues/1184)
 
 ## Mardi 2 mars 2021
 

@@ -179,7 +179,7 @@ curl --verbose --request 'POST' \
 ### Paramètres
 
 * `organisation_id` : INT - requis: Identifiant de l'organisation
-* `agent_id` : INT - requis: Identifiant de l'agent
+* `user_id` : INT - requis: Identifiant de l'usager
 * `logement`: STRING - optionnel : situation de logement, valeurs possibles : `sdf`, `heberge`, `en_accession_propriete`, `proprietaire` ou `autre`
 * `notes` : STRING - optionnel : Notes libres à propos l'usager - ne pas y inclure de donneées sensibles ou confidentielles
 
