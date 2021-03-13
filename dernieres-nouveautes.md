@@ -6,6 +6,14 @@ description: >-
 
 # Dernières nouveautés
 
+## Jeudi 11 mars 2021
+
+- [fix flaky spec on zone uniqueness](https://github.com/betagouv/rdv-solidarites.fr/issues/1102)
+
+## Mardi 9 mars 2021
+
+- [Pouvoir filtrer la base usager par agent référent](https://github.com/betagouv/rdv-solidarites.fr/issues/1010)
+
 ## Jeudi 4 mars 2021
 
 * [Notifications mails avec ICS lors des modifs et suppressions de Plages d'Ouvertures](https://github.com/betagouv/rdv-solidarites.fr/issues/1166)
