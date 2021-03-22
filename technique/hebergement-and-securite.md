@@ -14,8 +14,6 @@ Scalingo est en train de passer la certification \(prévu pour avant la fin de l
 
 Notre équipe fera les démarche une fois Scalingo certifié.
 
-
-
 ### Déploiement
 
 Les environnements de production et de pré-production \(démo\) sont hébergés sur [Scalingo](https://scalingo.com/)
@@ -27,8 +25,6 @@ La CI est configurée pour déployer automatiquement la branche `master` vers un
 > Il faut éviter de merger sur master des PRs trop rapprochées \(quelques minutes\) pour éviter que ça ne s'emmêle et déploie la mauvaise
 >
 > ou alors, il faut merger la première PR -&gt; annuler le build CircleCI tout de suite -&gt; puis merger la deuxième PR
-
-#### 
 
 #### Déploiement manuel \(vers la demo ou la production\)
 

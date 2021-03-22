@@ -10,7 +10,7 @@ description: >-
 
 ## Rôles
 
-Chaque agent a un rôle qui peut être Utilisateur ou Administrateur. Ces rôles ont des permissions différentes : 
+Chaque agent a un rôle qui peut être **Utilisateur** ou **Administrateur**. Ces rôles ont des permissions différentes :
 
 ### Rôle Utilisateur
 
@@ -40,7 +40,7 @@ Ils ne peuvent cependant pas créer et modifier des lieux, ni des motifs, ni inv
 
 ## Invitations
 
-Seul les agents Administrateurs peuvent inviter d'autres agents. 
+Seul les agents Administrateurs peuvent inviter d'autres agents.
 
 Lors de l'invitation, seul un e-mail et un rôle vous sont demandés. L'invité recevra alors un mail avec un lien qui lui permettra de définir son nom et prénom ainsi que son mot de passe.
 

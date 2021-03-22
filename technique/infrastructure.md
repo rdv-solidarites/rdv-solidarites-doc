@@ -11,5 +11,5 @@
 
 ### Outils
 
-Un fichier Keepass est sur le drive, il contient certains mots de passe aux services utilisés par la Tech. Le mot de passe principal de ce Keepass est à demander à un membre existant.
+Les mots de passes des services partagés sont sur nextcloud de l’équipe, dans l’app Passwords. \(Ils doivent être partagés un par un, l’app Passwords ne permettant pas le partage de dossier.\)
 

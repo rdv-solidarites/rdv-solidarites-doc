@@ -14,7 +14,7 @@ Pour qu'une notification soit envoyé à l'usager, il faut que le motif soit con
 
 ![Cas de motif configur&#xE9; pour ne pas notifier l&apos;usager](.gitbook/assets/capture-decran-de-2020-12-23-20-57-53.png)
 
-Si l'usager n'a pas autorisé ou renseigner d’e-mail et/ou de numéro de téléphone, aucune notification ne pourra être effectué.
+Si l'usager n'a pas autorisé ou renseigné d’e-mail eou de numéro de téléphone, aucune notification ne pourra être effectué.
 
 ![](.gitbook/assets/capture-decran-de-2020-12-28-10-27-17.png)
 

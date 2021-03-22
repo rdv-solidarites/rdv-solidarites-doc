@@ -8,19 +8,19 @@ description: >-
 
 ## Jeudi 18 mars 2021
 
-- [Correction bug Ajouter un proche après avoir créée le compte parent](https://github.com/betagouv/rdv-solidarites.fr/issues/1247)
+* [Correction bug Ajouter un proche après avoir créée le compte parent](https://github.com/betagouv/rdv-solidarites.fr/issues/1247)
 
 ## Lundi 15 mars 2021
 
-- [Créer un modèle pour les entités juridiques / départements](https://github.com/betagouv/rdv-solidarites.fr/issues/1124)
+* [Créer un modèle pour les entités juridiques / départements](https://github.com/betagouv/rdv-solidarites.fr/issues/1124)
 
 ## Jeudi 11 mars 2021
 
-- [fix flaky spec on zone uniqueness](https://github.com/betagouv/rdv-solidarites.fr/issues/1102)
+* [fix flaky spec on zone uniqueness](https://github.com/betagouv/rdv-solidarites.fr/issues/1102)
 
 ## Mardi 9 mars 2021
 
-- [Pouvoir filtrer la base usager par agent référent](https://github.com/betagouv/rdv-solidarites.fr/issues/1010)
+* [Pouvoir filtrer la base usager par agent référent](https://github.com/betagouv/rdv-solidarites.fr/issues/1010)
 
 ## Jeudi 4 mars 2021
 
@@ -46,25 +46,35 @@ description: >-
 
 ## Jeudi 18 févier 2021Jeudi 11 mars 2021
 
-    ​fix flaky spec on zone uniqueness​
+```text
+​fix flaky spec on zone uniqueness​
+```
 
 Mardi 9 mars 2021
 
-    ​Pouvoir filtrer la base usager par agent référent​
+```text
+​Pouvoir filtrer la base usager par agent référent​
+```
 
 Jeudi 4 mars 2021
 
-    ​Notifications mails avec ICS lors des modifs et suppressions de Plages d'Ouvertures​
+```text
+​Notifications mails avec ICS lors des modifs et suppressions de Plages d'Ouvertures​
 
-    ​Limiter la création d'une organisation par un agent non authentifié​
+​Limiter la création d'une organisation par un agent non authentifié​
+```
 
 Mercredi 3 mars 2021
 
-    ​Changer le défaut du formulaire de création d'usager (responsable -> proche) dans le tunnel de RDV agent pour le service PMI​
+```text
+​Changer le défaut du formulaire de création d'usager (responsable -> proche) dans le tunnel de RDV agent pour le service PMI​
+```
 
 Mardi 2 mars 2021
 
-    ​améliorer l'affichage des 
+```text
+​améliorer l'affichage des 
+```
 
 * [réparer alerte chevauchement pour RDV avec exactement les meme horaires](https://github.com/betagouv/rdv-solidarites.fr/issues/1201)
 * [remplacer œ par oe dans les SMS pour réparer l'envoi à certains numéros](https://github.com/betagouv/rdv-solidarites.fr/issues/1199)
