@@ -6,6 +6,20 @@ description: >-
 
 # Dernières nouveautés
 
+## Mercredi 24 mars 2021 
+
+- [debug plage ouverture ICS avec outlook 15 windows 10 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1219)
+
+## Mardi 23 mars 2021
+
+- [Améliorer l'affichage de la date (jour et mois) d'un RDV dans la notif SMS](https://github.com/betagouv/rdv-solidarites.fr/issues/1209)
+- [integrer le fichier de sectorisation a la rue de Calais du 62](https://github.com/betagouv/rdv-solidarites.fr/issues/1266)
+
+## Lundi 22 mars 2021
+
+- [Listes des agents référents sans doublons ou vide](https://github.com/betagouv/rdv-solidarites.fr/issues/1244)
+- [Changer les descriptions des "types de RDV" lors de la création d'un motif](https://github.com/betagouv/rdv-solidarites.fr/issues/1243)
+
 ## Jeudi 18 mars 2021
 
 * [Correction bug Ajouter un proche après avoir créée le compte parent](https://github.com/betagouv/rdv-solidarites.fr/issues/1247)
