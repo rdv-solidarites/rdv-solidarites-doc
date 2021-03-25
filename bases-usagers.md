@@ -40,7 +40,7 @@ L'email est unique, deux usagers ne peuvent pas utiliser le même email. Si un a
 
 Plusieurs usagers peuvent avoir le même numéro de téléphone, il n'y a pas de contrainte d'unicité sur ce champ. C'est une demande assumée pour gérer les cas de familles partageant un téléphone mobile. Cependant, pour prévenir de fiches d'usagers doublons, nous affichons des avertissements non-bloquants lorsqu'un agent essaie de créer un compte usager avec un numéro de téléphone déjà utilisé.
 
-### tat civil
+### État civil
 
 Comme pour le numéro de téléphone, nous n'imposons pas de contrainte stricte sur l'unicité des fiches usagers selon les infos d'état civil. Deux usagers peuvent donc avoir le même nom, prénom et date de naissance. Cependant, nous affichons des avertissements non-bloquants, pour éviter la multiplication des fiches doublons.
 
