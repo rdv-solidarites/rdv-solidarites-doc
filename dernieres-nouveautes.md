@@ -6,9 +6,14 @@ description: >-
 
 # Dernières nouveautés
 
+## Jeudi 25 mars 2021
+
+* [corriger ICS plage ouvertures recurrentes](https://github.com/betagouv/rdv-solidarites.fr/issues/1273)
+
 ## Mercredi 24 mars 2021
 
 * [debug plage ouverture ICS avec outlook 15 windows 10 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1219)
+* [permettre l'export CSV des zones depuis l'interface](https://github.com/betagouv/rdv-solidarites.fr/issues/1260)
 
 ## Mardi 23 mars 2021
 
