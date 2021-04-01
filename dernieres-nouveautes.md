@@ -6,6 +6,11 @@ description: >-
 
 # Dernières nouveautés
 
+## Jeudi 1er avril 2021
+
+- [dans le admin rdv wizard step 3, la step3 apparait en doublon dans le footer du bloc de wizard](https://github.com/betagouv/rdv-solidarites.fr/issues/1289)
+- [Amélioration du tableau des motifs](https://github.com/betagouv/rdv-solidarites.fr/issues/1174)
+
 ## Jeudi 25 mars 2021
 
 * [corriger ICS plage ouvertures recurrentes](https://github.com/betagouv/rdv-solidarites.fr/issues/1273)
