@@ -6,6 +6,10 @@ description: >-
 
 # Dernières nouveautés
 
+## Vendredi 2 avril 2021
+
+- [Ajouter un numéro de téléphone pour les lieux](https://github.com/betagouv/rdv-solidarites.fr/issues/1146)
+
 ## Jeudi 1er avril 2021
 
 - [dans le admin rdv wizard step 3, la step3 apparait en doublon dans le footer du bloc de wizard](https://github.com/betagouv/rdv-solidarites.fr/issues/1289)
