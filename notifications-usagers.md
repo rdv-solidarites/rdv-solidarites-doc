@@ -24,5 +24,13 @@ Des rappels de RDVs sont envoyés aux usagers **l'avant-veille à 9h**. Par exem
 
 Ces rappels sont aussi envoyés par email et par SMS, et leurs contenus sont très proches de ceux des notifications initiales.
 
+## Annulations de RDVs
+
+En cas d'annulation d'un RDV par l'agent, une notification mail et SMS sera envoyée à l'usager. Voir la page dédiée pour plus d'infos :
+
+{% page-ref page="annulation-de-rendez-vous.md" %}
+
+
+
 
 
