@@ -47,5 +47,5 @@ En avril 2019, 12 collectivités départementales se sont associées pour former
 * Radia Difallah - Déploiement, Animation de la communauté et Produit
 * [Thomas Guillet ](https://palya.fr/)Développement
 * [Yannick François ](https://elsif.fr)Développement et Produit
-* [Adrien Di Pasquale ](https://adrien.dipasquale.fr)Développement
+* Nicolas Bouilleaud Développement
 
