@@ -6,6 +6,7 @@
 * [Permissions des agents](permissions-agents.md)
 * [Fiches usagers](bases-usagers.md)
 * [Notifications usagers](notifications-usagers.md)
+* [Notifications agents](notifications-agents.md)
 * [Annulation de Rendez-vous](annulation-de-rendez-vous.md)
 * [Sectorisation géographique](sectorisation-geographique/README.md)
   * [Logique détaillée de la sectorisation](sectorisation-geographique/logique-detaillee-de-la-sectorisation.md)
