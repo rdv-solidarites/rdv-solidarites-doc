@@ -6,6 +6,16 @@ description: >-
 
 # Dernières nouveautés
 
+## Vendredi 8 avril 2021
+
+- [Ajouter des validations de presence sur le nom et prenom des agents](https://github.com/betagouv/rdv-solidarites.fr/issues/1268)
+- [harmoniser les icones d'actions du tableau admin/agents#index](https://github.com/betagouv/rdv-solidarites.fr/issues/1267)
+
+## Mardi 6 avril 2021
+
+- [Mentionne le niveau d'accessibilité dans le footer](https://github.com/betagouv/rdv-solidarites.fr/issues/1265)
+- [Rendre le statut « vu » accessible une heure avant le RDV](https://github.com/betagouv/rdv-solidarites.fr/issues/1263)
+
 ## Vendredi 2 avril 2021
 
 * [Ajouter un numéro de téléphone pour les lieux](https://github.com/betagouv/rdv-solidarites.fr/issues/1146)
