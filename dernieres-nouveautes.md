@@ -6,10 +6,12 @@ description: >-
 
 # Dernières nouveautés
 
-## Vendredi 8 avril 2021
+
+## Jeudi 8 avril 2021
 
 - [Ajouter des validations de presence sur le nom et prenom des agents](https://github.com/betagouv/rdv-solidarites.fr/issues/1268)
 - [harmoniser les icones d'actions du tableau admin/agents#index](https://github.com/betagouv/rdv-solidarites.fr/issues/1267)
+- [fix bug when rendering rdv_upcoming_reminder mail](https://github.com/betagouv/rdv-solidarites.fr/issues/1318)
 
 ## Mardi 6 avril 2021
 
