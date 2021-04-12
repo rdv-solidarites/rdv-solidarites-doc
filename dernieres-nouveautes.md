@@ -6,6 +6,9 @@ description: >-
 
 # Dernières nouveautés
 
+## Lundi 12 avril 2021
+
+- [Empêcher d’inviter des agents aux autres organisations](https://github.com/betagouv/rdv-solidarites.fr/issues/1308)
 
 ## Jeudi 8 avril 2021
 
