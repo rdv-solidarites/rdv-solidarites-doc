@@ -83,6 +83,48 @@ curl --verbose \
 }
 ```
 
+## GET /api/v1/users/:id/invite
+
+### Paramètres de l'URL
+
+* `:id` INT : identifiant unique de l'usager
+
+### Réponse
+
+* `invitation_url` : lien d'invitation à destination de l'usager pour créer son profil
+
+### Exemple de requête
+
+{% tabs %}
+{% tab title="httpie" %}
+```bash
+http GET https://www.rdv-solidarites.fr/api/v1/users/102/invite \
+  access-token:FLXP6G2hIEYhmGe5MpHKfg \
+  client:fySY0UMlNzgbhE8QYhXdkw \
+  uid:martine@demo.rdv-solidarites.fr
+
+```
+{% endtab %}
+
+{% tab title="bash" %}
+```bash
+curl --verbose \
+  --header 'access-token: b-zBRj7TFto9dIJlXg5eyw' \
+  --header 'client: jcfNV37BmHusa6S0FFC9FQ' \
+  --header 'uid: martine@demo.rdv-solidarites.fr' \
+  'https://www.rdv-solidarites.fr/api/v1/users/102/invite'
+```
+{% endtab %}
+{% endtabs %}
+
+### Exemple de réponse
+
+```javascript
+{
+    "invitation_url": "https://demo.rdv-solidarites.fr/users/invitation/accept?invitation_token=5Dgaa9PXLEzyF9--jVEx"
+}
+```
+
 ## POST /api/v1/users
 
 ### Paramètres

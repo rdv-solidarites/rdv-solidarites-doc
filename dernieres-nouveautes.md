@@ -8,18 +8,18 @@ description: >-
 
 ## Lundi 12 avril 2021
 
-- [Empêcher d’inviter des agents aux autres organisations](https://github.com/betagouv/rdv-solidarites.fr/issues/1308)
+* [Empêcher d’inviter des agents aux autres organisations](https://github.com/betagouv/rdv-solidarites.fr/issues/1308)
 
 ## Jeudi 8 avril 2021
 
-- [Ajouter des validations de presence sur le nom et prenom des agents](https://github.com/betagouv/rdv-solidarites.fr/issues/1268)
-- [harmoniser les icones d'actions du tableau admin/agents#index](https://github.com/betagouv/rdv-solidarites.fr/issues/1267)
-- [fix bug when rendering rdv_upcoming_reminder mail](https://github.com/betagouv/rdv-solidarites.fr/issues/1318)
+* [Ajouter des validations de presence sur le nom et prenom des agents](https://github.com/betagouv/rdv-solidarites.fr/issues/1268)
+* [harmoniser les icones d'actions du tableau admin/agents\#index](https://github.com/betagouv/rdv-solidarites.fr/issues/1267)
+* [fix bug when rendering rdv\_upcoming\_reminder mail](https://github.com/betagouv/rdv-solidarites.fr/issues/1318)
 
 ## Mardi 6 avril 2021
 
-- [Mentionne le niveau d'accessibilité dans le footer](https://github.com/betagouv/rdv-solidarites.fr/issues/1265)
-- [Rendre le statut « vu » accessible une heure avant le RDV](https://github.com/betagouv/rdv-solidarites.fr/issues/1263)
+* [Mentionne le niveau d'accessibilité dans le footer](https://github.com/betagouv/rdv-solidarites.fr/issues/1265)
+* [Rendre le statut « vu » accessible une heure avant le RDV](https://github.com/betagouv/rdv-solidarites.fr/issues/1263)
 
 ## Vendredi 2 avril 2021
 
