@@ -13,10 +13,13 @@
   * [Exemple 1 : Par commune et par organisation](sectorisation-geographique/sectorisation-par-commune-et-par-organisation.md)
   * [Exemple 2 : Sectorisation par rue et par agent](sectorisation-geographique/sectorisation-par-rue.md)
 * [Dernières nouveautés](dernieres-nouveautes.md)
-* [Mentions Légales](mentions-legales.md)
-* [Conditions d’utilisation de la plateforme RDV-Solidarités](conditions-dutilisation-de-la-plateforme-rdv-solidarites.md)
-* [Politique de confidentialité](politique-de-confidentialite.md)
 * [FAQ](faq.md)
+
+## Tutoriels
+
+* [Tutoriel](tutoriels/tutoriel.md)
+* [Comment se connecter ?](tutoriels/comment-se-connecter.md)
+* [Créer une organisation](tutoriels/creer-une-organisation.md)
 
 ## Aspects techniques <a id="technique"></a>
 
@@ -29,6 +32,8 @@
   * [Microsoft Dynamics](technique/api-interconnexions-sortantes/microsoft-dynamics.md)
   * [Zimbra - via Emails](technique/api-interconnexions-sortantes/zimbra.md)
 * [API / interconnexions entrantes](technique/api-interconnexions-entrantes/README.md)
+  * [Détails techniques](technique/api-interconnexions-entrantes/details-techniques.md)
+  * [Authentification & permissions](technique/api-interconnexions-entrantes/authentification-and-permissions.md)
   * [API - Absences](technique/api-interconnexions-entrantes/api-absences.md)
   * [API - Usagers](technique/api-interconnexions-entrantes/api-usagers.md)
 * [Infrastructure](technique/infrastructure.md)
@@ -41,9 +46,9 @@
 * [Investigation - Sectorisation](investigations-passees/decoupage-geographique-et-administratif-des-services.md)
 * [Investigation - Liens agents, usagers et organisations](investigations-passees/liens-agents-usagers-organisations.md)
 
-## Tutoriels
+## Informations légales
 
-* [Tutoriel](tutoriels/tutoriel.md)
-* [Comment se connecter ?](tutoriels/comment-se-connecter.md)
-* [Créer une organisation](tutoriels/creer-une-organisation.md)
+* [Conditions d’utilisation de la plateforme RDV-Solidarités](informations-legales/conditions-dutilisation-de-la-plateforme-rdv-solidarites.md)
+* [Mentions Légales](informations-legales/mentions-legales.md)
+* [Politique de confidentialité](informations-legales/politique-de-confidentialite.md)
 

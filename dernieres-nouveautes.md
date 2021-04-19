@@ -8,16 +8,16 @@ description: >-
 
 ## Jeudi 15 avril 2021
 
-- [reparer reconciliation sur email pour FranceConnect](https://github.com/betagouv/rdv-solidarites.fr/issues/1237)
-- [Vérifier le téléphone de l'usager responsable pour les rendez-vous téléphonique d'un proche](https://github.com/betagouv/rdv-solidarites.fr/issues/1334)
-- [Dupliquer un absence de la même manière qu'une plage d'ouverture](https://github.com/betagouv/rdv-solidarites.fr/issues/1331)
+* [reparer reconciliation sur email pour FranceConnect](https://github.com/betagouv/rdv-solidarites.fr/issues/1237)
+* [Vérifier le téléphone de l'usager responsable pour les rendez-vous téléphonique d'un proche](https://github.com/betagouv/rdv-solidarites.fr/issues/1334)
+* [Dupliquer un absence de la même manière qu'une plage d'ouverture](https://github.com/betagouv/rdv-solidarites.fr/issues/1331)
 
 ## Mardi 13 avril 2021
 
-- [Filtre les absences passées](https://github.com/betagouv/rdv-solidarites.fr/issues/1306)
-- [API invitation usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1046)
-- [Améliorer l'affichage des messages d'info et d'alerte dans l'interface usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1305)
-- [Empêcher d’inviter des agents aux autres organisations](https://github.com/betagouv/rdv-solidarites.fr/issues/1308)
+* [Filtre les absences passées](https://github.com/betagouv/rdv-solidarites.fr/issues/1306)
+* [API invitation usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1046)
+* [Améliorer l'affichage des messages d'info et d'alerte dans l'interface usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1305)
+* [Empêcher d’inviter des agents aux autres organisations](https://github.com/betagouv/rdv-solidarites.fr/issues/1308)
 
 ## Lundi 12 avril 2021
 

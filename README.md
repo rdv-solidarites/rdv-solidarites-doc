@@ -15,10 +15,6 @@ description: >-
 * Le projet est porté par un consortium de départements et fait partie de [l'incubateur de l'Agence Nationale de la Cohésion Territoriale](https://incubateur.anct.gouv.fr/) ainsi que de la communauté [beta.gouv.fr](https://beta.gouv.fr) 
 * [Contacter l’équipe](mailto:contact@rdv-solidarites.fr?subject=RDV%20Solidarit%C3%A9s%20%28anciennement%20Lapins%29%20sur%20beta.gouv.fr)
 
-{% hint style="info" %}
-L'équipe technique de RDV-Solidarités tient un Bureau Ouvert tous les jeudis de 14h30 à 15h30. Nous sommes à votre disposition pour répondre à vos questions et vous dépanner en cas de problème. Ça se passe [en visio ici](https://visio.incubateur.net/b/adr-gcy-x7h) !  
-{% endhint %}
-
 ## Fonctionnalités principales <a id="des-milliers-de-lapins-dans-les-maisons-d&#xE9;partementales-de-solidarit&#xE9;-"></a>
 
 * Saisie unique des informations des usagers 
