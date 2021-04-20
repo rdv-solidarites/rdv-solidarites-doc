@@ -10,7 +10,7 @@ Outscale est qualifié SecNumCloud par l'ANSSI \([https://www.ssi.gouv.fr/upload
 
 Outscale est par ailleurs certifié HDS \(Hébergeur de données de santé\) [https://fr.outscale.com/certificates/hds-hebergeur-de-donnees-de-sante/](https://fr.outscale.com/certificates/hds-hebergeur-de-donnees-de-sante/)
 
-Scalingo est en train de passer la certification \(prévu pour avant la fin de l'année\).
+Scalingo est en train de passer la certification.
 
 Notre équipe fera les démarche une fois Scalingo certifié.
 
