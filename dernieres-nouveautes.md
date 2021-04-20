@@ -6,6 +6,8 @@ description: >-
 
 # Dernières nouveautés
 
+## Mardi 20 avril 2021
+
 * [vérouille le formulaire en attendant le choix sur le message d'alerte](https://github.com/betagouv/rdv-solidarites.fr/issues/1293)
 * [Mise à jour du numéro de téléphone à l’inscription](https://github.com/betagouv/rdv-solidarites.fr/issues/1328)
 
