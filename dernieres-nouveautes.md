@@ -6,6 +6,9 @@ description: >-
 
 # Dernières nouveautés
 
+* [vérouille le formulaire en attendant le choix sur le message d'alerte](https://github.com/betagouv/rdv-solidarites.fr/issues/1293)
+* [Mise à jour du numéro de téléphone à l’inscription](https://github.com/betagouv/rdv-solidarites.fr/issues/1328)
+
 ## Jeudi 15 avril 2021
 
 * [reparer reconciliation sur email pour FranceConnect](https://github.com/betagouv/rdv-solidarites.fr/issues/1237)
