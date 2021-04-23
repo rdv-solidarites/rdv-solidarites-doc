@@ -12,14 +12,14 @@ description: >-
 
 ## Mardi 20 avril 2021
 
-* [vérouille le formulaire en attendant le choix sur le message d'alerte](https://github.com/betagouv/rdv-solidarites.fr/issues/1293)
+* [verrouille le formulaire en attendant le choix sur le message d'alerte](https://github.com/betagouv/rdv-solidarites.fr/issues/1293)
 * [Mise à jour du numéro de téléphone à l’inscription](https://github.com/betagouv/rdv-solidarites.fr/issues/1328)
 
 ## Jeudi 15 avril 2021
 
-* [reparer reconciliation sur email pour FranceConnect](https://github.com/betagouv/rdv-solidarites.fr/issues/1237)
+* [réparer réconciliation sur email pour FranceConnect](https://github.com/betagouv/rdv-solidarites.fr/issues/1237)
 * [Vérifier le téléphone de l'usager responsable pour les rendez-vous téléphonique d'un proche](https://github.com/betagouv/rdv-solidarites.fr/issues/1334)
-* [Dupliquer un absence de la même manière qu'une plage d'ouverture](https://github.com/betagouv/rdv-solidarites.fr/issues/1331)
+* [Dupliquer une absence de la même manière qu'une plage d'ouverture](https://github.com/betagouv/rdv-solidarites.fr/issues/1331)
 
 ## Mardi 13 avril 2021
 
