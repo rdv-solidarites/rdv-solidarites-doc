@@ -22,7 +22,6 @@ description: >-
 * [Filtre les absences passées](https://github.com/betagouv/rdv-solidarites.fr/issues/1306)
 * [API invitation usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1046)
 * [Améliorer l'affichage des messages d'info et d'alerte dans l'interface usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1305)
-* [Empêcher d’inviter des agents aux autres organisations](https://github.com/betagouv/rdv-solidarites.fr/issues/1308)
 
 ## Lundi 12 avril 2021
 
