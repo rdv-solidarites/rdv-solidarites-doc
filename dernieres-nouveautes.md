@@ -6,6 +6,10 @@ description: >-
 
 # Dernières nouveautés
 
+## Vendredi 23 avril 2021
+
+* [Inviter un agent d'un autre service ne fonctionne pas, silencieusement](https://github.com/betagouv/rdv-solidarites.fr/issues/1281)
+
 ## Mardi 20 avril 2021
 
 * [vérouille le formulaire en attendant le choix sur le message d'alerte](https://github.com/betagouv/rdv-solidarites.fr/issues/1293)
