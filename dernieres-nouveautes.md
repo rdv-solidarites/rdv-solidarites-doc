@@ -6,6 +6,14 @@ description: >-
 
 # Dernières nouveautés
 
+## Jeudi 29 avril 2021
+
+- [Proposer les bons créneaux disponibles](https://github.com/betagouv/rdv-solidarites.fr/issues/1382)
+
+## Mercredi 28 avril 2021
+
+- [Corriger la recherche sectorisée quand un numéro est indiqué](https://github.com/betagouv/rdv-solidarites.fr/issues/1363)
+
 ## Vendredi 23 avril 2021
 
 * [Inviter un agent d'un autre service ne fonctionne pas, silencieusement](https://github.com/betagouv/rdv-solidarites.fr/issues/1281)
