@@ -8,6 +8,7 @@ description: >-
 
 ## Du mardi 27 avril au lundi 3 mai
 
+- [Affiner l'accès aux rendez-vous de suivi](https://github.com/betagouv/rdv-solidarites.fr/issues/1326)
 - [Proposer les bons créneaux disponibles](https://github.com/betagouv/rdv-solidarites.fr/issues/1382)
 - [Corriger la recherche sectorisée quand un numéro est indiqué](https://github.com/betagouv/rdv-solidarites.fr/issues/1363)
 - [Clarifier les textes à propos de l'acceptation des notifications de la fiche usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1377)
