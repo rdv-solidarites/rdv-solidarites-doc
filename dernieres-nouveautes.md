@@ -6,13 +6,16 @@ description: >-
 
 # Dernières nouveautés
 
-## Jeudi 29 avril 2021
+## Du mardi 27 avril au lundi 3 mai
 
 - [Proposer les bons créneaux disponibles](https://github.com/betagouv/rdv-solidarites.fr/issues/1382)
-
-## Mercredi 28 avril 2021
-
 - [Corriger la recherche sectorisée quand un numéro est indiqué](https://github.com/betagouv/rdv-solidarites.fr/issues/1363)
+- [Clarifier les textes à propos de l'acceptation des notifications de la fiche usager](https://github.com/betagouv/rdv-solidarites.fr/issues/1377)
+- [Pouvoir se connecter avec un compte existant avec numéro de téléphone sans email](https://github.com/betagouv/rdv-solidarites.fr/issues/1327)
+- [Désactiver un lieu pour ne plus le voir dans la liste des lieux possible](https://github.com/betagouv/rdv-solidarites.fr/issues/1341)
+- [Envoyer des notifications mails avec fichier ICS aux agents pour les absences](https://github.com/betagouv/rdv-solidarites.fr/issues/1051)
+- [Investiguer le bouton "prochain créneau" n'apparait pas toujours](https://github.com/betagouv/rdv-solidarites.fr/issues/1239)
+- [Investigation : Plus de créneau disponible en cas de chevauchement de plage d'ouverture](https://github.com/betagouv/rdv-solidarites.fr/issues/1340)
 
 ## Vendredi 23 avril 2021
 
