@@ -33,6 +33,10 @@ SECTORISATION_TYPES = [SECTORISATION_LEVEL_AGENT, SECTORISATION_LEVEL_ORGANISATI
 
 Pour simplifier et rendre le code cohérent, nous décidons aujourd'hui d'utiliser partout les Enums à la façon Rails.
 
+Il reste à définir si nous utilisons une hash pour préciser les valeurs de l'Enum en base de données et maintenir un mapping entre la clef et la valeur, bien si nous utilisons un tableau, en faisant attention à ne pas changer l'ordre \(poser un test pour le documenter ?\)
+
+Car il reste effectivement un souci avec les Enum, la valeur en base de données est assez peu lisible [https://www.justinweiss.com/articles/creating-easy-readable-attributes-with-activerecord-enums/](https://www.justinweiss.com/articles/creating-easy-readable-attributes-with-activerecord-enums/)
+
 ## 2020-03-16 Vox Usager
 
 _La date est approximative, je ne sais pas quand cette décision a été prise_
