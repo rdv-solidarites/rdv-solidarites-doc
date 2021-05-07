@@ -15,7 +15,7 @@
 * [Dernières nouveautés](dernieres-nouveautes.md)
 * [FAQ](faq.md)
 
-## Tutoriels
+## Formation / Tutoriels <a id="tutoriels"></a>
 
 * [Tutoriel](tutoriels/tutoriel.md)
 * [Comment se connecter ?](tutoriels/comment-se-connecter.md)
