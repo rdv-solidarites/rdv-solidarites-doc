@@ -33,9 +33,9 @@ SECTORISATION_TYPES = [SECTORISATION_LEVEL_AGENT, SECTORISATION_LEVEL_ORGANISATI
 
 Pour simplifier et rendre le code cohérent, nous décidons aujourd'hui d'utiliser partout les Enums à la façon Rails.
 
-Le linter Rubocop pousse à l'usage d'une structure en hash par défaut. Autant utiliser cette forme pour l'instant.
+Il reste effectivement un souci avec les Enum, la valeur en base de données est assez peu lisible [https://www.justinweiss.com/articles/creating-easy-readable-attributes-with-activerecord-enums/](https://www.justinweiss.com/articles/creating-easy-readable-attributes-with-activerecord-enums/)
 
-Car il reste effectivement un souci avec les Enum, la valeur en base de données est assez peu lisible [https://www.justinweiss.com/articles/creating-easy-readable-attributes-with-activerecord-enums/](https://www.justinweiss.com/articles/creating-easy-readable-attributes-with-activerecord-enums/)
+Nous allons utiliser la gem [https://github.com/bibendi/activerecord-postgres\_enum](https://github.com/bibendi/activerecord-postgres_enum) pour utiliser les Enum PostgreSQL. Ça permettra d'avoir une information en base de donnée plus lisible.
 
 ## 2020-03-16 Vox Usager
 
