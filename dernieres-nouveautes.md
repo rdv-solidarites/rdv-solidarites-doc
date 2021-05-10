@@ -8,8 +8,8 @@ description: >-
 
 ## Du mardi 4 mai au lundi 10 mai
 
-* [Agenda agents inter-organisations #1185](https://github.com/betagouv/rdv-solidarites.fr/issues/1185)
-* [Numéro de téléphone d'un lieu bien présent dans le SMS #1414](https://github.com/betagouv/rdv-solidarites.fr/issues/1414)
+* [Agenda agents inter-organisations \#1185](https://github.com/betagouv/rdv-solidarites.fr/issues/1185)
+* [Numéro de téléphone d'un lieu bien présent dans le SMS \#1414](https://github.com/betagouv/rdv-solidarites.fr/issues/1414)
 
 ## Du mardi 27 avril au lundi 3 mai
 

@@ -53,3 +53,7 @@
 * [Mentions Légales](informations-legales/mentions-legales.md)
 * [Politique de confidentialité](informations-legales/politique-de-confidentialite.md)
 
+## Communauté & gouvernance
+
+* [Estimations](communaute-and-gouvernance/estimations.md)
+
