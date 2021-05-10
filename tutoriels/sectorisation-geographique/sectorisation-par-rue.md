@@ -19,13 +19,13 @@ L'idée est de créer 3 secteurs :
 
 ### Captures d'écran de la configuration
 
-![](../.gitbook/assets/secteurs%20%281%29.png)
+![](../../.gitbook/assets/secteurs%20%281%29.png)
 
-![Formulaire pour ajouter une rue dans la zone Calais Nord](../.gitbook/assets/zone-form.png)
+![Formulaire pour ajouter une rue dans la zone Calais Nord](../../.gitbook/assets/zone-form.png)
 
-![Secteur Calais Nord : une liste de rues \(incompl&#xE8;te\) et un seul agent assign&#xE9;](../.gitbook/assets/calais-nord.png)
+![Secteur Calais Nord : une liste de rues \(incompl&#xE8;te\) et un seul agent assign&#xE9;](../../.gitbook/assets/calais-nord.png)
 
-![Secteur Calais Sud : une autre liste de rues \(incompl&#xE8;te\) et un seul agent assign&#xE9;](../.gitbook/assets/calais-sud.png)
+![Secteur Calais Sud : une autre liste de rues \(incompl&#xE8;te\) et un seul agent assign&#xE9;](../../.gitbook/assets/calais-sud.png)
 
 ### Import d'un fichier de rues
 

@@ -10,7 +10,7 @@ description: >-
 
 La sectorisation permet de définir des secteurs géographiques et de leur attribuer des responsables. Les usagers sont orientés vers les bons responsables selon l'adresse saisie lors de leur prise de RDV en ligne.
 
-![Exemple de carte de sectorisation dans le Pas de Calais](../.gitbook/assets/screenshot_2020-11-26_at_10.58.08.png)
+![Exemple de carte de sectorisation dans le Pas de Calais](../../.gitbook/assets/screenshot_2020-11-26_at_10.58.08.png)
 
 ### Webinaire
 
@@ -24,7 +24,7 @@ Chaque secteur est défini comme un ensemble de communes ou de rues.
 
 Chaque secteur est attribué à une ou plusieurs organisations entières ou bien à un ou plusieurs agents spécifiques.
 
-![Exemple de secteurs dans le Pas de Calais](../.gitbook/assets/screenshot_2020-11-26_at_10.59.39.png)
+![Exemple de secteurs dans le Pas de Calais](../../.gitbook/assets/screenshot_2020-11-26_at_10.59.39.png)
 
 ### Motifs
 
@@ -34,7 +34,7 @@ Chaque motif a un niveau de sectorisation propre parmi les trois possibles :
 * **niveau organisation** : les créneaux pour ce motif apparaîtront pour les recherches d'usagers couvertes par des secteurs attribués à des organisations entières
 * **niveau agent** : les créneaux pour ce motif apparaîtront pour les recherches d'usagers couvertes par des secteurs attribués à des agents spécifiques
 
-![Exemple de motifs sectoris&#xE9;s &#xE0; des niveaux diff&#xE9;rents](../.gitbook/assets/screenshot_2020-11-26_at_11.01.36.png)
+![Exemple de motifs sectoris&#xE9;s &#xE0; des niveaux diff&#xE9;rents](../../.gitbook/assets/screenshot_2020-11-26_at_11.01.36.png)
 
 ### Possibilités
 

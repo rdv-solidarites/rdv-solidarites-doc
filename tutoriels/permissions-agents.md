@@ -6,7 +6,7 @@ description: >-
 
 # Permissions des agents
 
-![Interface d&apos;administration des agents sur RDV-Solidarit&#xE9;s](.gitbook/assets/screenshot_2020-11-19_at_15.21.58.png)
+![Interface d&apos;administration des agents sur RDV-Solidarit&#xE9;s](../.gitbook/assets/screenshot_2020-11-19_at_15.21.58.png)
 
 ## Rôles
 
@@ -52,7 +52,7 @@ Un agent peut aussi posséder le rôle d'administrateur d'un ou plusieurs territ
 
 Ce rôle est indépendant des rôles par organisation décrits à la section précédente. Un agent peut être administrateur territorial mais pour autant n'être qu'un simple utilisateur dans certaines organisations.
 
-![Interface d&apos;administration d&apos;un territoire](.gitbook/assets/screenshot-2021-04-06-at-13.15.43.png)
+![Interface d&apos;administration d&apos;un territoire](../.gitbook/assets/screenshot-2021-04-06-at-13.15.43.png)
 
 ## Invitations
 

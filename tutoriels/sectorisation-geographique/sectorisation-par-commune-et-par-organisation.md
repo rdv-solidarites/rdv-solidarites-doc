@@ -26,7 +26,7 @@ et un ensemble de communes : Arques, Audicthun, Bomy ...
 
 Voici une description schématique de la configuration d'exemple dans RDV-Solidarités :
 
-![Sch&#xE9;ma de la configuration de la sectorisation en exemple](../.gitbook/assets/sectorisation_explanations-c08b09070b679859842b9a8e9f4f232a.png)
+![Sch&#xE9;ma de la configuration de la sectorisation en exemple](../../.gitbook/assets/sectorisation_explanations-c08b09070b679859842b9a8e9f4f232a.png)
 
 ### **Recherche usager 1 : dans la commune AUDICTHUN**
 

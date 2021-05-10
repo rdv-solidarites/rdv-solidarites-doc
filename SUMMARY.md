@@ -1,25 +1,23 @@
 # Table of contents
 
 * [RDV-Solidarités](README.md)
-* [Gouvernance](gouvernance.md)
-* [Interface Agent](interface-agent.md)
-* [Permissions des agents](permissions-agents.md)
-* [Fiches usagers](bases-usagers.md)
-* [Notifications usagers](notifications-usagers.md)
-* [Notifications agents](notifications-agents.md)
-* [Annulation de Rendez-vous](annulation-de-rendez-vous.md)
-* [Sectorisation géographique](sectorisation-geographique/README.md)
-  * [Logique détaillée de la sectorisation](sectorisation-geographique/logique-detaillee-de-la-sectorisation.md)
-  * [Exemple 1 : Par commune et par organisation](sectorisation-geographique/sectorisation-par-commune-et-par-organisation.md)
-  * [Exemple 2 : Sectorisation par rue et par agent](sectorisation-geographique/sectorisation-par-rue.md)
-* [Dernières nouveautés](dernieres-nouveautes.md)
-* [FAQ](faq.md)
 
 ## Formation / Tutoriels <a id="tutoriels"></a>
 
 * [Tutoriel](tutoriels/tutoriel.md)
 * [Comment se connecter ?](tutoriels/comment-se-connecter.md)
 * [Créer une organisation](tutoriels/creer-une-organisation.md)
+* [Notifications usagers](tutoriels/notifications-usagers.md)
+* [Notifications agents](tutoriels/notifications-agents.md)
+* [Annulation de Rendez-vous](tutoriels/annulation-de-rendez-vous.md)
+* [Fiches usagers](tutoriels/bases-usagers.md)
+* [Interface Agent](tutoriels/interface-agent.md)
+* [Permissions des agents](tutoriels/permissions-agents.md)
+* [Sectorisation géographique](tutoriels/sectorisation-geographique/README.md)
+  * [Logique détaillée de la sectorisation](tutoriels/sectorisation-geographique/logique-detaillee-de-la-sectorisation.md)
+  * [Exemple 1 : Par commune et par organisation](tutoriels/sectorisation-geographique/sectorisation-par-commune-et-par-organisation.md)
+  * [Exemple 2 : Sectorisation par rue et par agent](tutoriels/sectorisation-geographique/sectorisation-par-rue.md)
+* [FAQ](tutoriels/faq.md)
 
 ## Aspects techniques <a id="technique"></a>
 
@@ -55,5 +53,7 @@
 
 ## Communauté & gouvernance
 
+* [Dernières nouveautés](communaute-and-gouvernance/dernieres-nouveautes.md)
+* [Gouvernance](communaute-and-gouvernance/gouvernance.md)
 * [Estimations](communaute-and-gouvernance/estimations.md)
 

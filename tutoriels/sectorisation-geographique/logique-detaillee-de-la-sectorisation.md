@@ -21,15 +21,15 @@ La présence d'un motif dans cette liste dépend aussi de conditions indépendan
 
 #### Cas 1. Sectorisation au département
 
-![](../.gitbook/assets/cas-sectorisation-departement-commune.png)
+![](../../.gitbook/assets/cas-sectorisation-departement-commune.png)
 
 #### Cas 2. Sectorisation à la commune et à l'organisation
 
-![](../.gitbook/assets/cas-sectorisation-departement-commune%20%281%29.png)
+![](../../.gitbook/assets/cas-sectorisation-departement-commune%20%281%29.png)
 
 #### Cas 3. Sectorisation à la commune et à l'agent
 
-![](../.gitbook/assets/cas-sectorisation-departement-commune%20%282%29.png)
+![](../../.gitbook/assets/cas-sectorisation-departement-commune%20%282%29.png)
 
 #### Cas 4. Sectorisation à la rue et à l'organisation
 
