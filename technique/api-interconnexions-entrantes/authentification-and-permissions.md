@@ -10,7 +10,7 @@ description: >-
 
 Tous les agents peuvent utiliser l'API. Les requêtes faites sur l'API sont authentifiées grace à des tokens d'accès associés à chaque agent. Chaque action faite via l'API est donc attribuable à un agent.
 
-Pour récupérer le token d'accès d'un agent il faut faire une première requête POST à l'url `https://rdv-solidarites.fr/api/v1/auth/sign_in` en passant en paramètres JSON l'email et le mot de passe de l'agent. Par exemple :httpiecurl
+Pour récupérer le token d'accès d'un agent il faut faire une première requête POST à l'url `https://www.rdv-solidarites.fr/api/v1/auth/sign_in` en passant en paramètres JSON l'email et le mot de passe de l'agent. Par exemple :httpiecurl
 
 ```text
 http --json POST 'https://www.rdv-solidarites.fr/api/v1/auth/sign_in' \  email='martine@demo.rdv-solidarites.fr' password='123456'

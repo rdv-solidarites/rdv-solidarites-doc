@@ -7,6 +7,11 @@ description: >-
 
 # API / interconnexions entrantes
 
+{% hint style="warning" %}
+Pour la version prod, les requêtes doivent être adressées à [https://www.rdv-solidarites.fr](https://www.rdv-solidarites.fr) et non à [https://rdv-solidarites.fr](https://www.rdv-solidarites.fr)  
+Pour la version démo, les requêtes doivent être adressées à [https://demo.rdv-solidarites.fr](https://www.rdv-solidarites.fr)
+{% endhint %}
+
 {% hint style="info" %}
 Le nombre de fonctionnalités de l'API est encore restreint. Contactez-nous si vous avez besoin de fonctionnalités qui ne sont pas encore présentes.
 {% endhint %}

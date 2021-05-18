@@ -1,5 +1,7 @@
 # Détails techniques
 
+Pour la version prod, les requêtes doivent être adressées à `https://www.rdv-solidarites.fr` et non à `https://rdv-solidarites.fr` Pour la version démo, les requêtes doivent être adressées à `https://demo.rdv-solidarites.fr`
+
 L'API supporte uniquement le format JSON. Toutes les réponses envoyées par l'API contiendront le header `Content-Type: application/json` et leur contenu sera présent dans le body dans un format JSON à désérialiser. 
 
 L'API adhère aux principes REST : 
