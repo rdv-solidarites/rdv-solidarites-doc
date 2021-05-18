@@ -57,4 +57,5 @@
 * [Dernières nouveautés](communaute-and-gouvernance/dernieres-nouveautes.md)
 * [Gouvernance](communaute-and-gouvernance/gouvernance.md)
 * [Estimations](communaute-and-gouvernance/estimations.md)
+* [Rituels](communaute-and-gouvernance/rituels.md)
 
