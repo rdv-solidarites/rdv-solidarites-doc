@@ -1,5 +1,11 @@
 # Décisions techniques
 
+## 2021-05-20 Moins de code
+
+Pour faciliter la maintenance de l'application en restant une équipe de petite taille, nous devons réduire le volume de code.
+
+Nous pensons qu'il y a trop de chose pour la construction de l'interface graphique. Nous souhaitons réduire l'usage du JavaScript, supprimer Bootstrap, et supprimer Webpack pour revenir à un asset-pipeline plus basique.
+
 ## 2021-05-06 Sérialiser les configurations des fournisseurs d'envoi de SMS
 
 Aujourd'hui,  la prise en charge du cout de l'envoi de SMS est réparti de la même manière pour tous les départements. Nous allons permettre à chaque département d'avoir son propre fournisseur d'envoi de SMS.
