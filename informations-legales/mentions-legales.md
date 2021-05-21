@@ -1,19 +1,13 @@
 # Mentions Légales
 
-### Editeur de la plateforme
+### Éditeur de la plateforme
 
-La plateforme est éditée par :
-
-Agence nationale de la cohésion des territoires 
-
-20, avenue de Ségur 
-
-TSA 10717 
-
-75 334 Paris Cedex 07
-
-Téléphone : +33 1 85 58 60 00
-
+La plateforme est éditée par :  
+Agence nationale de la cohésion des territoires   
+20, avenue de Ségur   
+TSA 10717  
+75 334 Paris Cedex 07  
+Téléphone : +33 1 85 58 60 00  
 Mail : [info@anct.gouv.fr](mailto:info@anct.gouv.fr)
 
 ### Directeur de la publication

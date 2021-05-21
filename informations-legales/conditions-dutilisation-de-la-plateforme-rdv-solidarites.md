@@ -95,7 +95,7 @@ Chaque Agent peut télécharger un export de ses Rendez-vous, et ainsi voir la p
 
 ### **Article 5 – Responsabilités**
 
-#### _5.1 L’éditeur de la « Plateforme RDV-Solidarité »_
+#### _5.1 L’éditeur de la « Plateforme RDV-Solidarités »_
 
 Les sources des informations diffusées sur la Plateforme sont réputées fiables mais le site ne garantit pas qu’il soit exempt de défauts, d’erreurs ou d’omissions.
 

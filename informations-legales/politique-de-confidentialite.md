@@ -4,7 +4,7 @@
 
 ### Traitement des données à caractère personnel
 
-La plateforme "RDV-Solidarités " est à l'initiative de l'Agence Nationale de la Cohésion des Territoires \(ANCT\), placé sous la tutelle des ministres chargés de l'aménagement du territoire, des collectivités territoriales et de la politique de la ville.
+La plateforme "RDV-Solidarités" est à l'initiative de l'Agence Nationale de la Cohésion des Territoires \(ANCT\), placé sous la tutelle des ministres chargés de l'aménagement du territoire, des collectivités territoriales et de la politique de la ville.
 
 **Finalité**
 
@@ -95,12 +95,9 @@ contact@rdv-solidarités.fr
 
 ou par voie postale :
 
-Agence nationale de la cohésion des territoires 
-
-20, avenue de Ségur 
-
-TSA 10717 
-
+Agence nationale de la cohésion des territoires   
+20, avenue de Ségur   
+TSA 10717   
 75 334 Paris Cedex 07
 
 En raison de l’obligation de sécurité et de confidentialité dans le traitement des données à caractère personnel qui incombe au responsable de traitement, votre demande ne sera traitée que si vous apportez la preuve de votre identité. Pour vous aider dans votre démarche, vous trouverez ici [https://www.cnil.fr/fr/modele/courrier/exercer-son-droit-dacces](https://www.cnil.fr/fr/modele/courrier/exercer-son-droit-dacces), un modèle de courrier élaboré par la Cnil.
