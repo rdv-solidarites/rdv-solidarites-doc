@@ -38,6 +38,7 @@
 * [Infrastructure](technique/infrastructure.md)
 * [Statut de rendez-vous](technique/statut-de-rendez-vous.md)
 * [Liste des champs stockés dans la base de données](technique/liste-des-champs-stockes-dans-la-base-de-donnees.md)
+* [Statistique](technique/statistique.md)
 * [Décisions techniques](technique/decisions-techniques.md)
 
 ## Investigations Passées
