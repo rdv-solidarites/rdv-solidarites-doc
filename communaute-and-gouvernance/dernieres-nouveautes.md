@@ -6,6 +6,10 @@ description: >-
 
 # Dernières nouveautés
 
+## Du mardi 20 mai au lundi 31 mai
+
+voir sur le forum https://forum.rdv-solidarites.fr/t/les-nouveautes-de-la-plateforme-depuis-le-25-mai-2021/264
+
 ## Du mardi 4 mai au lundi 10 mai
 
 * [Agenda agents inter-organisations \#1185](https://github.com/betagouv/rdv-solidarites.fr/issues/1185)
