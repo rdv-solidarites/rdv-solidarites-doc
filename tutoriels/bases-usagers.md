@@ -40,6 +40,8 @@ L'email est unique, deux usagers ne peuvent pas utiliser le même email. Si un a
 
 Plusieurs usagers peuvent avoir le même numéro de téléphone, il n'y a pas de contrainte d'unicité sur ce champ. C'est une demande assumée pour gérer les cas de familles partageant un téléphone mobile. Cependant, pour prévenir de fiches d'usagers doublons, nous affichons des avertissements non-bloquants lorsqu'un agent essaie de créer un compte usager avec un numéro de téléphone déjà utilisé.
 
+RDV-Solidarités autorise les numéros de téléphone au format international \(+33 XX XX XX XX\) ou au format français à 10 chiffres. Au format international, vous pouvez saisir un numéro étranger. Au format français, vous pouvez saisir un numéro de france métropolitaine ou d’outre-mer. Pour que les sms soient correctement envoyés, assurez-vous de saisir un numéro de mobile.
+
 ### État civil
 
 Comme pour le numéro de téléphone, nous n'imposons pas de contrainte stricte sur l'unicité des fiches usagers selon les infos d'état civil. Deux usagers peuvent donc avoir le même nom, prénom et date de naissance. Cependant, nous affichons des avertissements non-bloquants, pour éviter la multiplication des fiches doublons.

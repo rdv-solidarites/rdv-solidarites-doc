@@ -8,7 +8,7 @@ description: >-
 
 ## Du mardi 20 mai au lundi 31 mai
 
-voir sur le forum https://forum.rdv-solidarites.fr/t/les-nouveautes-de-la-plateforme-depuis-le-25-mai-2021/264
+voir sur le forum [https://forum.rdv-solidarites.fr/t/les-nouveautes-de-la-plateforme-depuis-le-25-mai-2021/264](https://forum.rdv-solidarites.fr/t/les-nouveautes-de-la-plateforme-depuis-le-25-mai-2021/264)
 
 ## Du mardi 4 mai au lundi 10 mai
 
