@@ -13,6 +13,7 @@
 * [Fiches usagers](tutoriels/bases-usagers.md)
 * [Interface Agent](tutoriels/interface-agent.md)
 * [Permissions des agents](tutoriels/permissions-agents.md)
+* [File d'attente](tutoriels/file-dattente.md)
 * [Sectorisation géographique](tutoriels/sectorisation-geographique/README.md)
   * [Logique détaillée de la sectorisation](tutoriels/sectorisation-geographique/logique-detaillee-de-la-sectorisation.md)
   * [Exemple 1 : Par commune et par organisation](tutoriels/sectorisation-geographique/sectorisation-par-commune-et-par-organisation.md)
