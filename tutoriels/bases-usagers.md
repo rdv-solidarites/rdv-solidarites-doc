@@ -46,7 +46,7 @@ RDV-Solidarités autorise les numéros de téléphone au format international \(
 
 Comme pour le numéro de téléphone, nous n'imposons pas de contrainte stricte sur l'unicité des fiches usagers selon les infos d'état civil. Deux usagers peuvent donc avoir le même nom, prénom et date de naissance. Cependant, nous affichons des avertissements non bloquants, pour éviter la multiplication des fiches doublons.
 
-### Particularité sur certains numéros de téléphone
+## Particularité sur certains numéros de téléphone
 
 Nous voulons autoriser tous les numéros de téléphone :
 
