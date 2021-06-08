@@ -1,4 +1,4 @@
-# Notifications SMS
+# Fournisseur d'envoi de SMS
 
 Aujourd'hui, l'équipe RDV-Solidarités propose un fournisseur d'envoi de SMS.
 
