@@ -91,7 +91,13 @@ curl --verbose \
 
 ### Réponse
 
+> Si l'utilisateur a une adresse mail :
+
 * `invitation_url` : lien d'invitation à destination de l'usager pour créer son profil
+
+> Si l'utilisateur n'a pas d'adresse mail :
+
+* `invitation_token` : code d'invitation de 8 caractères à destination de l'usager pour créer son profil en se rendant à l'url `https://www.rdv-solidarites.fr/invitation`
 
 ### Exemple de requête
 
@@ -124,6 +130,26 @@ curl --verbose \
     "invitation_url": "https://demo.rdv-solidarites.fr/users/invitation/accept?invitation_token=5Dgaa9PXLEzyF9--jVEx"
 }
 ```
+
+## POST /api/v1/users/:id/invite
+
+### Paramètres de l'URL
+
+* `:id` INT : identifiant unique de l'usager
+
+### Paramètres
+
+* `invite_for` : INT - en secondes, la durée de validité souhaitée du lien d'invitation envoyé à l'usager. \(1 jour = 86 400 secondes\). Si ce paramètre n'est pas renseignée, l'invitation sera valable 4 semaines par défaut.
+
+### Réponse
+
+> Si l'utilisateur a une adresse mail :
+
+* `invitation_url` : lien d'invitation à destination de l'usager pour créer son profil
+
+> Si l'utilisateur n'a pas d'adresse mail :
+
+* `invitation_token` : code d'invitation à destination de l'usager pour créer son profil en se rendant à l'url `https://www.rdv-solidarites.fr/invitation`
 
 ## POST /api/v1/users
 
