@@ -6,10 +6,9 @@ description: >-
 
 # Dernières nouveautés
 
-
 ## Du mardi 1er au lundi 7 juin
 
-- [ Autoriser tous les numéros de téléphone valides #1471 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1471)
+* [ Autoriser tous les numéros de téléphone valides \#1471 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1471)
 
 ## Du mardi 20 mai au lundi 31 mai
 
