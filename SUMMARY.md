@@ -25,7 +25,7 @@
 * [Outils d'analyse](technique/outils-analyse.md)
 * [Hébergement & sécurité](technique/hebergement-and-securite.md)
 * [Interconnexions aperçu](technique/interconnexions-apercu.md)
-* [Fournisseurs d'envoi de SMS](technique/notifications-sms.md)
+* [Fournisseurs d'envoi de SMS](technique/fournisseurs-envoie-de-sms.md)
 * [API / interconnexions sortantes](technique/api-interconnexions-sortantes/README.md)
   * [FAQ](technique/api-interconnexions-sortantes/faq.md)
   * [Génération de signature](technique/api-interconnexions-sortantes/generation-de-signature.md)
