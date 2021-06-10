@@ -12,11 +12,14 @@ description: >-
 
 ## Du mardi 20 mai au lundi 31 mai
 
-voir sur le forum [https://forum.rdv-solidarites.fr/t/les-nouveautes-de-la-plateforme-depuis-le-25-mai-2021/264](https://forum.rdv-solidarites.fr/t/les-nouveautes-de-la-plateforme-depuis-le-25-mai-2021/264)
-
-## Du mardi 20 mai au lundi 31 mai
-
-voir sur le forum [https://forum.rdv-solidarites.fr/t/les-nouveautes-de-la-plateforme-depuis-le-25-mai-2021/264](https://forum.rdv-solidarites.fr/t/les-nouveautes-de-la-plateforme-depuis-le-25-mai-2021/264)
+- [Rediriger vers la page de mon secteur dans la liste après une modification](https://github.com/betagouv/rdv-solidarites.fr/issues/1346)
+- [Avoir les règles de récurrence des absences dans le json du webhook](https://github.com/betagouv/rdv-solidarites.fr/issues/1399)
+- [Rendre visible les statistiques par organisation](https://github.com/betagouv/rdv-solidarites.fr/issues/1404)
+- [ Envoyer un email avec .ics à l'agent pour chaque RDV #1059 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1059)
+- [Créer une méthode generate_short_invitation_token pour les utilisateurs sans email](https://github.com/betagouv/rdv-solidarites.fr/issues/1472)
+- [Erreurs 500 à l’affichage des versions d’un Rdv](https://github.com/betagouv/rdv-solidarites.fr/issues/1474)
+- [Comprendre pourquoi le changement de status d'un RDV échoue](https://github.com/betagouv/rdv-solidarites.fr/issues/1413)
+- [Empécher de créer un rendez-vous dans le passée](https://github.com/betagouv/rdv-solidarites.fr/issues/1427)
 
 ## Du mardi 4 mai au lundi 10 mai
 
