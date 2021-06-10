@@ -28,9 +28,19 @@ S'il y a un créneau disponible, nous regardons ensuite si nous avons envoyé mo
 
 Une notification par SMS et une par email.
 
+![Le message de proposition de nouveau rendez-vous](../.gitbook/assets/screenshot_2021-06-10-letteropenerweb.png)
+
+Si l'usager le souhaite, il va pouvoir modifier son rendez-vous.
+
+![Affichage des possibilit&#xE9;s](../.gitbook/assets/screenshot_2021-06-10-creneaux-disponibles-rdv-solidarites.png)
+
+ L'usager choisi un des créneaux disponible.
+
+À noter que le choix de l'usager s'inscrit dans les traces historiques d'un rendez-vous comme suit: 
+
+![Le changement de date/heure est fait par l&apos;usager](../.gitbook/assets/screenshot_2021-06-10-votre-agendardv-lea-dupont-rdv-solidarites.png)
 
 
- 
 
 
 
