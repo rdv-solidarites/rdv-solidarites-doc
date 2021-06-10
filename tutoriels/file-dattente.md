@@ -20,7 +20,7 @@ Cette case à coché est visible pour tous les rendez-vous qui ont lieu dans plu
 
 Toutes les 10 minutes entre 9 heures et 19 heures, est déclenché.
 
-On liste tous les rendez-vous qui sont dans plus de sept jours, trié par date/heure de création. Nous ne considérons que les rendez-vous à domicile ou sur place. On utilise ensuite une fourchette d’aujourd'hui à deux jours avant le début prévu du rendez-vous initial pour la recherche de créneaux disponible. 
+On liste tous les rendez-vous qui sont dans plus de sept jours, trié par date/heure de création. Nous ne considérons que les rendez-vous sur place. On utilise ensuite **une fourchette d’aujourd'hui à deux jours avant le début prévu du rendez-vous initial** pour la **recherche de créneaux disponible**. Cette recherche est la même que celle utilisé dans l'interface usager pour calculer les créneaux, à ceci prêt que la fourchette de date n'est pas identique.
 
 S'il y a un créneau disponible, nous regardons ensuite si nous avons envoyé moins de trois notifications \(proposition\) sur cette file d'attente, et que si nous avons déjà envoyé une notification, ce n'est pas aujourd'hui.
 
@@ -36,11 +36,10 @@ Si l'usager le souhaite, il va pouvoir modifier son rendez-vous.
 
  L'usager choisi un des créneaux disponible.
 
-À noter que le choix de l'usager s'inscrit dans les traces historiques d'un rendez-vous comme suit: 
+À noter que le choix de l'usager s'inscrit dans les traces historiques d'un rendez-vous comme suit :   
+
 
 ![Le changement de date/heure est fait par l&apos;usager](../.gitbook/assets/screenshot_2021-06-10-votre-agendardv-lea-dupont-rdv-solidarites.png)
-
-
 
 
 
