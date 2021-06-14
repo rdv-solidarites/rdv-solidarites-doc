@@ -6,6 +6,18 @@ description: >-
 
 # Dernières nouveautés
 
+## Du mardi 8 au lundi 14 juin
+
+- [ Envoyer les notifications d'annulation d'un rendez-vous, même s'il a été supprimé avant l'envoi #1361 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1361)
+- [ Création de la page "Déclaration d'accessibilité" #1303 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1303)
+- [ Rendre les liens clickable dans les consignes de RDV #1483 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1483)
+- [ Afficher le bon nombre de rendez-vous à renseigner dans le menu #1495 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1495)
+- [ Rendez-vous déplacé au mauvais moment ! #1479 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1479)
+- [ Créneau disponible sur deux services différents #1446 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1446)
+- [ Disparition des anciennes plages d'ouverture #1440 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1440)
+- [ Configuration des envois de SMS par territoire #1408 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1408)
+- [ Comprendre pourquoi les webhook ne sont plus envoyez pour la Drôme sur la plateforme de démo #1491 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1491)
+
 ## Du mardi 1er au lundi 7 juin
 
 * [ Autoriser tous les numéros de téléphone valides \#1471 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1471)
