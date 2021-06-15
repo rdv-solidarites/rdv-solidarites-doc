@@ -17,6 +17,8 @@ description: >-
 - [ Disparition des anciennes plages d'ouverture #1440 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1440)
 - [ Configuration des envois de SMS par territoire #1408 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1408)
 - [ Comprendre pourquoi les webhook ne sont plus envoyez pour la Drôme sur la plateforme de démo #1491 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1491)
+- [ Afficher correctement le nom dans le titre #1439 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1439)
+- [ Utiliser le numéro de téléphone du lieu, si disponible, dans tous les sms #1508 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1508)
 
 ## Du mardi 1er au lundi 7 juin
 
