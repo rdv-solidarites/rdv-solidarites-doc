@@ -18,6 +18,7 @@
   * [Logique détaillée de la sectorisation](tutoriels/sectorisation-geographique/logique-detaillee-de-la-sectorisation.md)
   * [Exemple 1 : Par commune et par organisation](tutoriels/sectorisation-geographique/sectorisation-par-commune-et-par-organisation.md)
   * [Exemple 2 : Sectorisation par rue et par agent](tutoriels/sectorisation-geographique/sectorisation-par-rue.md)
+* [Statistiques](tutoriels/statistiques.md)
 * [FAQ](tutoriels/faq.md)
 
 ## Aspects techniques <a id="technique"></a>

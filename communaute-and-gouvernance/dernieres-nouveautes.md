@@ -8,17 +8,17 @@ description: >-
 
 ## Du mardi 8 au lundi 14 juin
 
-- [ Envoyer les notifications d'annulation d'un rendez-vous, même s'il a été supprimé avant l'envoi #1361 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1361)
-- [ Création de la page "Déclaration d'accessibilité" #1303 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1303)
-- [ Rendre les liens clickable dans les consignes de RDV #1483 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1483)
-- [ Afficher le bon nombre de rendez-vous à renseigner dans le menu #1495 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1495)
-- [ Rendez-vous déplacé au mauvais moment ! #1479 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1479)
-- [ Créneau disponible sur deux services différents #1446 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1446)
-- [ Disparition des anciennes plages d'ouverture #1440 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1440)
-- [ Configuration des envois de SMS par territoire #1408 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1408)
-- [ Comprendre pourquoi les webhook ne sont plus envoyez pour la Drôme sur la plateforme de démo #1491 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1491)
-- [ Afficher correctement le nom dans le titre #1439 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1439)
-- [ Utiliser le numéro de téléphone du lieu, si disponible, dans tous les sms #1508 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1508)
+* [ Envoyer les notifications d'annulation d'un rendez-vous, même s'il a été supprimé avant l'envoi \#1361 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1361)
+* [ Création de la page "Déclaration d'accessibilité" \#1303 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1303)
+* [ Rendre les liens clickable dans les consignes de RDV \#1483 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1483)
+* [ Afficher le bon nombre de rendez-vous à renseigner dans le menu \#1495 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1495)
+* [ Rendez-vous déplacé au mauvais moment ! \#1479 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1479)
+* [ Créneau disponible sur deux services différents \#1446 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1446)
+* [ Disparition des anciennes plages d'ouverture \#1440 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1440)
+* [ Configuration des envois de SMS par territoire \#1408 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1408)
+* [ Comprendre pourquoi les webhook ne sont plus envoyez pour la Drôme sur la plateforme de démo \#1491 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1491)
+* [ Afficher correctement le nom dans le titre \#1439 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1439)
+* [ Utiliser le numéro de téléphone du lieu, si disponible, dans tous les sms \#1508 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1508)
 
 ## Du mardi 1er au lundi 7 juin
 
@@ -26,14 +26,14 @@ description: >-
 
 ## Du mardi 20 mai au lundi 31 mai
 
-- [Rediriger vers la page de mon secteur dans la liste après une modification](https://github.com/betagouv/rdv-solidarites.fr/issues/1346)
-- [Avoir les règles de récurrence des absences dans le json du webhook](https://github.com/betagouv/rdv-solidarites.fr/issues/1399)
-- [Rendre visible les statistiques par organisation](https://github.com/betagouv/rdv-solidarites.fr/issues/1404)
-- [ Envoyer un email avec .ics à l'agent pour chaque RDV #1059 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1059)
-- [Créer une méthode generate_short_invitation_token pour les utilisateurs sans email](https://github.com/betagouv/rdv-solidarites.fr/issues/1472)
-- [Erreurs 500 à l’affichage des versions d’un Rdv](https://github.com/betagouv/rdv-solidarites.fr/issues/1474)
-- [Comprendre pourquoi le changement de status d'un RDV échoue](https://github.com/betagouv/rdv-solidarites.fr/issues/1413)
-- [Empécher de créer un rendez-vous dans le passée](https://github.com/betagouv/rdv-solidarites.fr/issues/1427)
+* [Rediriger vers la page de mon secteur dans la liste après une modification](https://github.com/betagouv/rdv-solidarites.fr/issues/1346)
+* [Avoir les règles de récurrence des absences dans le json du webhook](https://github.com/betagouv/rdv-solidarites.fr/issues/1399)
+* [Rendre visible les statistiques par organisation](https://github.com/betagouv/rdv-solidarites.fr/issues/1404)
+* [ Envoyer un email avec .ics à l'agent pour chaque RDV \#1059 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1059)
+* [Créer une méthode generate\_short\_invitation\_token pour les utilisateurs sans email](https://github.com/betagouv/rdv-solidarites.fr/issues/1472)
+* [Erreurs 500 à l’affichage des versions d’un Rdv](https://github.com/betagouv/rdv-solidarites.fr/issues/1474)
+* [Comprendre pourquoi le changement de status d'un RDV échoue](https://github.com/betagouv/rdv-solidarites.fr/issues/1413)
+* [Empécher de créer un rendez-vous dans le passée](https://github.com/betagouv/rdv-solidarites.fr/issues/1427)
 
 ## Du mardi 4 mai au lundi 10 mai
 
