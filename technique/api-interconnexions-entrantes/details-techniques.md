@@ -1,4 +1,4 @@
-# Détails techniques
+# Généralités
 
 Pour la version prod, les requêtes doivent être adressées à `https://www.rdv-solidarites.fr` et non à `https://rdv-solidarites.fr` Pour la version démo, les requêtes doivent être adressées à `https://demo.rdv-solidarites.fr`
 
@@ -20,6 +20,8 @@ Les paramètres doivent respecter les formats suivants :
 * `DATE` : "YYYY-MM-DD" par exemple : "2021-10-21"
 * `TIME` : H:m\[:s\], par exemple : "10:30"
 
+### Codes de retour
+
 Les statuts HTTP des réponses renvoyées par l'API peuvent être les suivants :
 
 * `200` : succès
@@ -29,12 +31,14 @@ Les statuts HTTP des réponses renvoyées par l'API peuvent être les suivants :
 * `422` : paramètres sains \(JSON valide\) mais incorrects. Par exemple si vous essayez de créer une absence avec une date de fin antérieure à sa date de début.
 * `500` : erreur interne. Nous sommes automatiquement prévus de ces erreurs et devrions nous en occuper rapidement. Vous pouvez nous contacter si cela se reproduit.
 
-{% hint style="warning" %}
-La pagination n'est pas encore implémentée. Les tableaux de ressources renvoyés sont limités à 100 pour l'instant.
-{% endhint %}
+### Erreurs
 
 En cas d'erreur reconnue par le système \(par exemple erreur 422\), les champs suivants seront présents dans la réponse pour vous informer sur les problèmes :
 
 * `errors` : \[ERREUR\] : liste d'erreurs groupées par attribut problèmatique au format machine
-* `error_messages` : \[ERREUR\] : idem mais dans un format plus facilement lisible
+* `error_messages` : \[ERREUR\] : idem mais dans un format plus facilement lisible.
+
+### Pagination
+
+En cours d’implémentation
 

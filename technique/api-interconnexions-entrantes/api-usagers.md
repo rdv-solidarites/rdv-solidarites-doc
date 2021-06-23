@@ -1,29 +1,29 @@
 ---
-description: >-
-  Endpoints de l'API de RDV-Solidarités pour lire, créer, modifier et supprimer
-  des usagers depuis des programmes externes
+description: 'Consultation, création et invitation d’usagers via l’API de RDV-Solidarités'
 ---
 
-# API - Usagers
+# Usagers
 
-## Usagers et Profils
+### Usagers et Profils
 
 Un Usager désigne le compte unique d'un usager sur la plateforme RDV-Solidarités. Il contient les informations de l'état civil de l'usager \(nom, prénoms, date de naissance...\) ainsi que des informations communes comme les préférences de notifications
 
 Un Profil Usager lie un Usager à une Organisation. La plupart des usagers n'ont un lien qu'avec une seule Organisation, mais une partie interagit avec plusieurs Organisations. Au sein d'une Organisation, seuls les comptes usagers y ayant un profil sont visibles. Ce profil contient aussi quelques informations sur l'usager, indépendantes et non-partagées entre organisations.
 
-## GET /api/v1/users/:id
+### Consultation
 
-### Paramètres de l'URL
+**`GET /api/v1/users/:id`**
+
+#### Paramètres de l'URL
 
 * `:id` INT : identifiant unique de l'usager
 
-### Réponse
+#### Réponse
 
 * `user` : USER
   * `user_profiles` Profils de l'usager dans les organisations accessibles à l'agent faisant la requête
 
-### Exemple de requête
+#### Exemple de requête
 
 {% tabs %}
 {% tab title="httpie" %}
@@ -36,7 +36,7 @@ http GET https://www.rdv-solidarites.fr/api/v1/users/102 \
 ```
 {% endtab %}
 
-{% tab title="bash" %}
+{% tab title="curl" %}
 ```bash
 curl --verbose \
   --header 'access-token: b-zBRj7TFto9dIJlXg5eyw' \
@@ -47,7 +47,7 @@ curl --verbose \
 {% endtab %}
 {% endtabs %}
 
-### Exemple de réponse
+#### Exemple de réponse
 
 ```javascript
 {
@@ -83,23 +83,25 @@ curl --verbose \
 }
 ```
 
-## GET /api/v1/users/:id/invite
+### Invitation
 
-### Paramètres de l'URL
+**`GET /api/v1/users/:id/invite`**
+
+#### Paramètres de l'URL
 
 * `:id` INT : identifiant unique de l'usager
 
-### Réponse
+#### Réponse
 
-> Si l'utilisateur a une adresse mail :
+Si l'utilisateur a une adresse mail :
 
 * `invitation_url` : lien d'invitation à destination de l'usager pour créer son profil
 
-> Si l'utilisateur n'a pas d'adresse mail :
+Si l'utilisateur n'a pas d'adresse mail :
 
 * `invitation_token` : code d'invitation de 8 caractères à destination de l'usager pour créer son profil en se rendant à l'url `https://www.rdv-solidarites.fr/invitation`
 
-### Exemple de requête
+#### Exemple de requête
 
 {% tabs %}
 {% tab title="httpie" %}
@@ -112,7 +114,7 @@ http GET https://www.rdv-solidarites.fr/api/v1/users/102/invite \
 ```
 {% endtab %}
 
-{% tab title="bash" %}
+{% tab title="curl" %}
 ```bash
 curl --verbose \
   --header 'access-token: b-zBRj7TFto9dIJlXg5eyw' \
@@ -123,7 +125,7 @@ curl --verbose \
 {% endtab %}
 {% endtabs %}
 
-### Exemple de réponse
+#### Exemple de réponse
 
 ```javascript
 {
@@ -143,17 +145,19 @@ curl --verbose \
 
 ### Réponse
 
-> Si l'utilisateur a une adresse mail :
+Si l'utilisateur a une adresse mail :
 
 * `invitation_url` : lien d'invitation à destination de l'usager pour créer son profil
 
-> Si l'utilisateur n'a pas d'adresse mail :
+Si l'utilisateur n'a pas d'adresse mail :
 
 * `invitation_token` : code d'invitation à destination de l'usager pour créer son profil en se rendant à l'url `https://www.rdv-solidarites.fr/invitation`
 
-## POST /api/v1/users
+### Création
 
-### Paramètres
+**`POST /api/v1/users`**
+
+#### Paramètres
 
 * `organisation_ids` : \[INT\] - requis: Identifiants des organisations auxquelles rattacher le nouvel usager
 * `first_name`: STRING - requis: Prénom\(s\)
@@ -173,7 +177,7 @@ curl --verbose \
 
 Si vous souhaitez créer un usager proche, remplissez le paramètre `responsible_id`, et notez que seuls les champs `organisation_ids`, `first_name`, `last_name`, `birth_date` et `birth_name` seront pris en compte. Les usagers proches n'ont pas tous les champs d'un usager responsable.
 
-### Réponse en cas de succès 
+#### Réponse en cas de succès 
 
 * `user` : USER
   * `user_profiles` Profils de l'usager dans les organisations accessibles à l'agent faisant la requête
@@ -186,7 +190,7 @@ Si vous tentez de créer un usager avec un email déjà utilisé, l'ID de l'usag
 Cet endpoint ne déclenche pas l'envoi d'invitations. L'usager ne recevra pas de mail l'invitant à créer son mot de passe et accéder à son compte. Les agents pourront déclencher l'invitation plus tard depuis l'interface web
 {% endhint %}
 
-### Exemple de requête
+#### Exemple de requête
 
 {% tabs %}
 {% tab title="httpie" %}
@@ -216,7 +220,7 @@ curl --verbose --request 'POST' \
 {% endtab %}
 {% endtabs %}
 
-### Exemple de réponse
+#### Exemple de réponse
 
 ```javascript
 {
@@ -242,16 +246,18 @@ curl --verbose --request 'POST' \
 }
 ```
 
-## POST api/v1/user\_profiles
+### Association à une Organisation
 
-### Paramètres
+**`POST api/v1/user_profiles`**
+
+#### Paramètres
 
 * `organisation_id` : INT - requis: Identifiant de l'organisation
 * `user_id` : INT - requis: Identifiant de l'usager
 * `logement`: STRING - optionnel : situation de logement, valeurs possibles : `sdf`, `heberge`, `en_accession_propriete`, `proprietaire` ou `autre`
 * `notes` : STRING - optionnel : Notes libres à propos l'usager - ne pas y inclure de donneées sensibles ou confidentielles
 
-### Réponse en cas de succès 
+#### Réponse en cas de succès 
 
 * `user_profile` : USER\_PROFILE
   * `user` : USER
@@ -261,7 +267,7 @@ curl --verbose --request 'POST' \
 Un usager et une organisation ne peuvent être liées que par un seul et unique Profil. Vous recevrez une erreur si vous tentez de créer un Profil liant un couple organisation-usager déjà existant
 {% endhint %}
 
-### Exemple de requête
+#### Exemple de requête
 
 {% tabs %}
 {% tab title="httpie" %}
@@ -289,7 +295,7 @@ curl --verbose --request 'POST' \
 {% endtab %}
 {% endtabs %}
 
-### Exemple de réponse
+#### Exemple de réponse
 
 ```javascript
 

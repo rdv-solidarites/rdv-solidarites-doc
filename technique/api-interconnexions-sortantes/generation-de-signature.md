@@ -1,4 +1,4 @@
-# Génération de signature
+# Vérification de signature
 
 Voilà quelques exemples et informations très pratiques pour valider la signature des corps de requêtes envoyées par RDV-Solidarités.
 

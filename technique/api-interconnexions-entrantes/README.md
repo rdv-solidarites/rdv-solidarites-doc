@@ -1,32 +1,22 @@
 ---
 description: >-
-  L'API de RDV-Solidarités ouvre une interface programmatique à RDV-Solidarités
-  et vous permet de lire, créer et modifier des données dans notre base depuis
-  votre logiciel.
+  L'API de RDV-Solidarités vous permet de lire, créer et modifier des données
+  dans notre base depuis votre logiciel.
 ---
 
-# API / interconnexions entrantes
-
-{% hint style="warning" %}
-Pour la version prod, les requêtes doivent être adressées à [https://www.rdv-solidarites.fr](https://www.rdv-solidarites.fr) et non à [https://rdv-solidarites.fr](https://www.rdv-solidarites.fr)  
-Pour la version démo, les requêtes doivent être adressées à [https://demo.rdv-solidarites.fr](https://www.rdv-solidarites.fr)
-{% endhint %}
+# API de requêtes
 
 {% hint style="info" %}
-Le nombre de fonctionnalités de l'API est encore restreint. Contactez-nous si vous avez besoin de fonctionnalités qui ne sont pas encore présentes.
+Toutes les fonctionnalités de RDV-Solidarités ne sont pas encore disponibles via l’API. Contactez-nous si vous avez besoin de fonctionnalités qui ne sont pas encore présentes.
 {% endhint %}
 
-## Ressources
+{% hint style="warning" %}
+En production, les requêtes doivent être adressées à **`https://www.rdv-solidarites.fr`**  \(pas à ~~`https://rdv-solidarites.fr`~~\)
+{% endhint %}
 
-{% page-ref page="details-techniques.md" %}
-
-{% page-ref page="authentification-and-permissions.md" %}
-
-{% page-ref page="api-absences.md" %}
-
-{% page-ref page="api-usagers.md" %}
-
-
+{% hint style="warning" %}
+En démo, les requêtes doivent être adressées à **`https://demo.rdv-solidarites.fr`**
+{% endhint %}
 
 
 

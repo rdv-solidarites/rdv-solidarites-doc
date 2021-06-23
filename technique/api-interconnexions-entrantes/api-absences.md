@@ -1,22 +1,24 @@
 ---
 description: >-
-  Endpoints de l'API de RDV-Solidarités pour lire, créer, modifier et supprimer
-  des absences depuis des programmes externes
+  Lecture, création, modification, suppression d‘absences via l’API de
+  RDV-Solidarités.
 ---
 
-# API - Absences
+# Absences
 
-## GET /api/v1/absences
+### Index
 
-Paramètres :
+**`GET /api/v1/absences`**
+
+#### Paramètres
 
 * `organisation_id` INTEGER - _optionnel_ : filtre les absences retournées pour une seule organisation
 
-Réponse en cas de succès :
+#### Réponse en cas de succès
 
 * `absences` : ARRAY\[ABSENCE\]
 
-Exemple de requête :
+#### Exemple de requête
 
 {% tabs %}
 {% tab title="httpie" %}
@@ -40,7 +42,7 @@ curl --verbose \
 {% endtab %}
 {% endtabs %}
 
-Exemple de réponse
+#### Exemple de réponse
 
 ```bash
 HTTP/1.1 200 OK
@@ -75,26 +77,35 @@ HTTP/1.1 200 OK
 }
 ```
 
-## POST /api/v1/absences
+### Consultation
 
-Paramètres :
+**`GET /api/v1/absences/:id`**
+
+En cours d‘implémentation
+
+### Création
+
+**`POST /api/v1/absences`**
+
+#### Paramètres
 
 * `organisation_id` INTEGER : l'identifiant de l'organisation dans laquelle créer une absence
 * `agent_id` INTEGER : l'identifiant de l'agent absent
+* `agent_email` EMAIL: l’email de l’agent absent. `agent_email`ou `agent_id` doit être spécifié; si les deux sont présents, `agent_id` est utilisé.
 * `first_day` DATE : le jour de début de l'absence
 * `start_time` TIME : l'heure de début de l'absence
 * `end_day` DATE : le jour de fin de l'absence
 * `end_time` TIME : l'heure de fin de l'absence
 
 {% hint style="warning" %}
-L'endpoint de création d'absence ne permet pour l'instant pas de créer des absences récurrentes
+L’API de création d'absence ne permet pour l'instant pas de créer des absences récurrentes.
 {% endhint %}
 
-Réponse :
+#### Réponse
 
 * `absence` : ABSENCE : uniquement présent quand l'absence a été créée avec succès. Contient l'absence qui vient d'être créée.
 
-Exemple de requête :
+#### Exemple de requête
 
 {% tabs %}
 {% tab title="httpie" %}
@@ -126,7 +137,7 @@ curl --verbose --request 'POST' \
 {% endtab %}
 {% endtabs %}
 
-Exemple de réponse :
+#### Exemple de réponse
 
 ```bash
 HTTP/1.1 200 OK
@@ -155,4 +166,16 @@ HTTP/1.1 200 OK
     }
 }
 ```
+
+### Modification
+
+**`PUT /api/v1/absences/:id`**
+
+En cours d‘implémentation
+
+### Suppression
+
+**`DELETE /api/v1/absences/:id`**
+
+En cours d‘implémentation
 
