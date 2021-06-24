@@ -25,6 +25,7 @@ Les paramètres doivent respecter les formats suivants :
 Les statuts HTTP des réponses renvoyées par l'API peuvent être les suivants :
 
 * `200` : succès
+* `204` : succès, si la réponse ne retourne pas de données \(par exemple pour une suppression\)
 * `400` : requête mal formatée. Par exemple si le JSON du body est invalide.
 * `401` : requête non authentifiée
 * `403` : requête bien authentifiée mais droits insuffisants pour réaliser l'action demandée. Par exemple si un agent non-admin essaie de créer une absence pour un agent d'un autre service.
@@ -40,5 +41,25 @@ En cas d'erreur reconnue par le système \(par exemple erreur 422\), les champs 
 
 ### Pagination
 
-En cours d’implémentation
+Les requêtes d’index retournent une liste de résultats paginés, par défaut par 100 items.
+
+#### Paramètres
+
+* `per`: le nombre d’items par page
+* `page` : l’index de la page demandée
+
+#### Résultats
+
+La réponse contient en outre un objet `meta` qui indique le nombre total de pages et d’items, par exemple:
+
+```text
+{
+    […]
+    "meta": {
+        "current_page": 1,
+        "total_count": 112,
+        "total_pages": 2
+    }°
+}
+```
 
