@@ -12,6 +12,7 @@
 * [Annulation de Rendez-vous](tutoriels/annulation-de-rendez-vous.md)
 * [Fiches usagers](tutoriels/bases-usagers.md)
 * [Interface Agent](tutoriels/interface-agent.md)
+* [Compte et connexion](tutoriels/compte-et-connexion.md)
 * [Permissions des agents](tutoriels/permissions-agents.md)
 * [File d'attente](tutoriels/file-dattente.md)
 * [Sectorisation géographique](tutoriels/sectorisation-geographique/README.md)
