@@ -10,6 +10,153 @@ Un Usager désigne le compte unique d'un usager sur la plateforme RDV-Solidarit�
 
 Un Profil Usager lie un Usager à une Organisation. La plupart des usagers n'ont un lien qu'avec une seule Organisation, mais une partie interagit avec plusieurs Organisations. Au sein d'une Organisation, seuls les comptes usagers y ayant un profil sont visibles. Ce profil contient aussi quelques informations sur l'usager, indépendantes et non-partagées entre organisations.
 
+### Index
+
+**`GET /api/v1/users`**
+
+#### Paramètres de l'URL
+
+* `:ids` ARRAY\[INT\] - _optionnel_ : Liste des identifiants des usagers que l'on souhaite récupérer
+
+#### Réponse en cas de succès
+
+* ARRAY\[USER\]
+
+#### Exemple de requête
+
+{% tabs %}
+{% tab title="httpie" %}
+```http
+http GET https://www.rdv-solidarites.fr/api/v1/users \
+  access-token:FLXP6G2hIEYhmGe5MpHKfg \
+  client:fySY0UMlNzgbhE8QYhXdkw \
+  uid:martine@demo.rdv-solidarites.fr
+```
+{% endtab %}
+
+{% tab title="curl" %}
+```bash
+curl --verbose \
+  --header 'access-token: b-zBRj7TFto9dIJlXg5eyw' \
+  --header 'client: jcfNV37BmHusa6S0FFC9FQ' \
+  --header 'uid: martine@demo.rdv-solidarites.fr' \
+  'https://www.rdv-solidarites.fr/api/v1/users'
+```
+{% endtab %}
+{% endtabs %}
+
+#### Exemple de réponse
+
+```javascript
+{
+    "users": [
+        {
+            "address": null,
+            "affiliation_number": null,
+            "birth_date": "1975-06-20",
+            "birth_name": null,
+            "created_at": "2021-06-28T10:12:41.993+02:00",
+            "caisse_affiliation": null,
+            "email": "patricia_duroy@demo.rdv-solidarites.fr",
+            "family_situation": null,
+            "first_name": "Patricia",
+            "id": 1,
+            "last_name": "DUROY",
+            "notify_by_email": true,
+            "notify_by_sms": true,
+            "number_of_children": null,
+            "phone_number": "0101010101",
+            "responsible": null,
+            "responsible_id": null,
+            "user_profiles": [
+                {
+                    "logement": "en_accession_propriete",
+                    "notes": null,
+                    "organisation": {
+                        "departement": "75",
+                        "id": 1,
+                        "name": "MDS Paris Nord"
+                    }
+                }
+            ]
+        }
+    ]
+}
+```
+
+**`GET /api/v1/:organisation_id/users`**
+
+#### Paramètres de l'URL
+
+* `:organisation_id` INT - _requis_ : Liste de l'organisation pour laquelle on souhaite récupérer les
+* `:ids` ARRAY\[INT\] - _optionnel_ : Liste des identifiants des usagers que l'on souhaite récupérer
+
+#### Réponse en cas de succès
+
+* ARRAY\[USER\]
+
+#### Exemple de requête
+
+{% tabs %}
+{% tab title="httpie" %}
+```http
+http GET https://www.rdv-solidarites.fr/api/v1/3/users \
+  access-token:FLXP6G2hIEYhmGe5MpHKfg \
+  client:fySY0UMlNzgbhE8QYhXdkw \
+  uid:martine@demo.rdv-solidarites.fr
+```
+{% endtab %}
+
+{% tab title="curl" %}
+```bash
+curl --verbose \
+  --header 'access-token: b-zBRj7TFto9dIJlXg5eyw' \
+  --header 'client: jcfNV37BmHusa6S0FFC9FQ' \
+  --header 'uid: martine@demo.rdv-solidarites.fr' \
+  'https://www.rdv-solidarites.fr/api/v1/3/users'
+```
+{% endtab %}
+{% endtabs %}
+
+#### Exemple de réponse
+
+```javascript
+{
+    "users": [
+        {
+            "address": null,
+            "affiliation_number": null,
+            "birth_date": "1975-06-20",
+            "birth_name": null,
+            "created_at": "2021-06-28T10:12:41.993+02:00",
+            "caisse_affiliation": null,
+            "email": "patricia_duroy@demo.rdv-solidarites.fr",
+            "family_situation": null,
+            "first_name": "Patricia",
+            "id": 1,
+            "last_name": "DUROY",
+            "notify_by_email": true,
+            "notify_by_sms": true,
+            "number_of_children": null,
+            "phone_number": "0101010101",
+            "responsible": null,
+            "responsible_id": null,
+            "user_profiles": [
+                {
+                    "logement": "en_accession_propriete",
+                    "notes": null,
+                    "organisation": {
+                        "departement": "75",
+                        "id": 1,
+                        "name": "MDS Paris Nord"
+                    }
+                }
+            ]
+        }
+    ]
+}
+```
+
 ### Consultation
 
 **`GET /api/v1/users/:id`**
@@ -56,6 +203,7 @@ curl --verbose \
         "affiliation_number": null,
         "birth_date": "1975-06-20",
         "birth_name": null,
+        "created_at": "2021-06-28T10:12:41.993+02:00",
         "caisse_affiliation": null,
         "email": "patricia_duroy@demo.rdv-solidarites.fr",
         "family_situation": null,
