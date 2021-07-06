@@ -13,8 +13,6 @@ description: >-
 * [ Comprendre pourquoi la synchronisation de mise à jour et suppression de plage d'ouverture et absence \#1354 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1354)
 * [ Afficher la liste des usages en commençant par le NOM puis le Prénom, dans le tunnel de prise de RDV \#1549 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1549)
 * [ Afficher des liens cliquables dans la confirmation d'annulation \#1534 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1534)
-* [ Alerter lorsque que le rendez-vous entre en collision avec une absence \#1523 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1523)
-* [ Alerter l'agent au moment où il pose une absence \#1401 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1401)
 
 ## Du mardi 22 au lundi 28 juin
 
