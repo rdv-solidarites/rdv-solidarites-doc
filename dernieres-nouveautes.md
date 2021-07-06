@@ -8,35 +8,33 @@ description: >-
 
 ## Du mardi 29 juin au lundi 5 juillet
 
-- [ Contacter l'équipe sur son email directement #1465 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1465)
-- [ Corriger l’accès à la modification des référents des usagers #1561 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1561)
-- [ Comprendre pourquoi la synchronisation de mise à jour et suppression de plage d'ouverture et absence #1354 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1354)
-- [ Afficher la liste des usages en commençant par le NOM puis le Prénom, dans le tunnel de prise de RDV #1549 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1549)
-- [ Afficher des liens cliquables dans la confirmation d'annulation #1534 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1534)
-- [ Alerter lorsque que le rendez-vous entre en collision avec une absence #1523 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1523)
-- [ Alerter l'agent au moment où il pose une absence #1401 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1401)
-
+* [ Contacter l'équipe sur son email directement \#1465 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1465)
+* [ Corriger l’accès à la modification des référents des usagers \#1561 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1561)
+* [ Comprendre pourquoi la synchronisation de mise à jour et suppression de plage d'ouverture et absence \#1354 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1354)
+* [ Afficher la liste des usages en commençant par le NOM puis le Prénom, dans le tunnel de prise de RDV \#1549 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1549)
+* [ Afficher des liens cliquables dans la confirmation d'annulation \#1534 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1534)
+* [ Alerter lorsque que le rendez-vous entre en collision avec une absence \#1523 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1523)
+* [ Alerter l'agent au moment où il pose une absence \#1401 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1401)
 
 ## Du mardi 22 au lundi 28 juin
 
-- [ Organiser les noms et prénom des agents pour rendre cohérent l'affichage du tri #1467 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1467)
-- [ Supprimer Zammad #1398 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1398)
-- [ Afficher uniquement les lieux ouverts #1530 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1530)
-- [ Ne pas envoyer les notifications de changement de Rdv systématiquement #1537 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1537)
-- [ Corriger les tests de features #1493 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1493)
-- [ Réponse API quand record non existant #1336 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1336)
-- [ Modifier des référents d'usager sans supprimer ceux des autres services #1405 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1405)
-- [ Distinguer la démo / formation de la prod #1058 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1058)
-- [ Améliorer l’API des absences #1507 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1507)
-
+* [ Organiser les noms et prénom des agents pour rendre cohérent l'affichage du tri \#1467 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1467)
+* [ Supprimer Zammad \#1398 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1398)
+* [ Afficher uniquement les lieux ouverts \#1530 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1530)
+* [ Ne pas envoyer les notifications de changement de Rdv systématiquement \#1537 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1537)
+* [ Corriger les tests de features \#1493 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1493)
+* [ Réponse API quand record non existant \#1336 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1336)
+* [ Modifier des référents d'usager sans supprimer ceux des autres services \#1405 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1405)
+* [ Distinguer la démo / formation de la prod \#1058 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1058)
+* [ Améliorer l’API des absences \#1507 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1507)
 
 ## Du mardi 15 au lundi 21 juin
 
-- [ Classer les proches par age #1520 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1520)
-- [ Remettre en place les statistiques individuelles #1522 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1522)
-- [ Inclure la commune de l'usager responsable dans l'export #1187 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1187)
-- [ Afficher correctement le nom dans le titre #1439 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1439)
-- [ Utiliser le numéro de téléphone du lieu, si disponible, dans tous les sms #1508 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1508)
+* [ Classer les proches par age \#1520 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1520)
+* [ Remettre en place les statistiques individuelles \#1522 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1522)
+* [ Inclure la commune de l'usager responsable dans l'export \#1187 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1187)
+* [ Afficher correctement le nom dans le titre \#1439 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1439)
+* [ Utiliser le numéro de téléphone du lieu, si disponible, dans tous les sms \#1508 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1508)
 
 ## Du mardi 8 au lundi 14 juin
 

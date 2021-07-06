@@ -1,6 +1,7 @@
 # Table of contents
 
 * [RDV-Solidarités](README.md)
+* [Dernières nouveautés](dernieres-nouveautes.md)
 
 ## Formation / Tutoriels <a id="tutoriels"></a>
 
@@ -63,7 +64,6 @@
 
 ## Communauté & gouvernance
 
-* [Dernières nouveautés](communaute-and-gouvernance/dernieres-nouveautes.md)
 * [Gouvernance](communaute-and-gouvernance/gouvernance.md)
 * [Estimations](communaute-and-gouvernance/estimations.md)
 * [Rituels](communaute-and-gouvernance/rituels.md)
