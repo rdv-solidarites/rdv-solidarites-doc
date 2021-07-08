@@ -1,17 +1,17 @@
-# Fournisseurs d'envoi de SMS
+# Fournisseurs d’envoi de SMS
 
-Aujourd'hui, l'équipe RDV-Solidarités propose un fournisseur d'envoi de SMS.
+L'équipe RDV-Solidarités dispose, via la DINUM, d’un fournisseur d'envoi de SMS.
 
-Dans l'optique de basculer vers une individualisation de la prise en charge de cette partie notification par SMS, nous allons devoir interagir avec plusieurs fournisseurs d'envoi de SMS.
+Pour permettre à chaque département d’être autonome sur l’envoi des SMS, nous interagissons avec plusieurs fournisseurs :
 
-Voici une liste des fournisseurs d'envoi de SMS que nous proposons, ou que nous souhaiterions proposer.
-
-| Fournisser | Status | Site web | Utilisé par |
+| Fournisser | Connecteur | Site web | Utilisé par |
 | :--- | :--- | :--- | :--- |
-| Gen-ip  | à faire | [https://gen-ip.fr/Accueil](https://gen-ip.fr/Accueil) |  |
-| Bouygues | à faire |  |  |
-| Orange | à faire |  |  |
-| Contact Expérience | à faire | [https://contact-experience.com/](https://contact-experience.com/) ? | 62 |
-| Link Mobility \(NetSize\) | disponible | [https://linkmobility.fr/](https://linkmobility.fr/) |  |
-| Send In Blue | disponible | [https://fr.sendinblue.com/fonctionnalites/sms-marketing/](https://fr.sendinblue.com/fonctionnalites/sms-marketing/) |  |
+| Link Mobility \(Netsize\) | disponible | [linkmobility.fr/](https://linkmobility.fr/) | Par défaut |
+| Sendinblue | disponible | [fr.sendinblue.com](https://fr.sendinblue.com/fonctionnalites/sms-marketing/) |  |
+| Contact Experience \(Gen-IP\) | en cours | [contact-experience.com](https://contact-experience.com/) | 62 |
+| Bouygues Telecom | à faire |  | 64 |
+| Orange \(Contact Everyone v5, API Light\) | à faire |  | 80 |
+| SFR | à faire |  | 92 |
+
+
 
