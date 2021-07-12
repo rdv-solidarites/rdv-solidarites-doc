@@ -6,6 +6,13 @@ description: >-
 
 # Dernières nouveautés
 
+## Du mardi 6 au 12 juillet
+
+*  [Indiquer dans les SMS quel proche est concerné par le RDV \#1062](https://github.com/betagouv/rdv-solidarites.fr/issues/1062)
+*  [Ajouter le nom de l'agent dans la notification \#1402](https://github.com/betagouv/rdv-solidarites.fr/issues/1402)
+*  [Afficher la durée du rendez-vous \#1555](https://github.com/betagouv/rdv-solidarites.fr/issues/1555)
+*  [Supprimer les blancs avant et après les noms et prénoms \#1161](https://github.com/betagouv/rdv-solidarites.fr/issues/1161)
+
 ## Du mardi 29 juin au lundi 5 juillet
 
 * [ Contacter l'équipe sur son email directement \#1465 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1465)
