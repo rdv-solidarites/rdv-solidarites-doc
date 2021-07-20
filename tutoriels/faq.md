@@ -4,7 +4,14 @@ description: Réponses à des questions fréquentes
 
 # FAQ
 
-## Pourquoi vois-je des données personnelles précédentes proposées sur chaque champ ?
+### Pouvez-vous nous donner des informations sur les rappels SMS délai d’envoi et nombre de rappels ?
+
+Le **délai** d’envoi est de quelques secondes à quelques minutes d’après mes observations. Ce n’est pas très lié à notre code, mais plutôt aux fils d’attente chez le prestataire \(NetSize à ce jour\)
+
+Pour le **nombre de rappels**, il n’y en a qu’un, 48 h avant le rendez-vous, il me semble.  
+
+
+### Pourquoi vois-je des données personnelles précédentes proposées sur chaque champ ?
 
 La plupart des navigateurs modernes proposent une fonctionnalité d'autocomplétion activée par défaut. Par exemple, votre navigateur enregistre les valeurs que vous soumettez dans le champ "Prénom" d'un site, et lorsque vous rencontrerez un autre champ "Prénom" sur ce site ou sur un autre, il vous proposera ce que vous aviez entré précédemment.
 
