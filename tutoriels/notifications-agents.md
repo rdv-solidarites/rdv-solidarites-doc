@@ -12,10 +12,6 @@ Par défaut, un RDV créé par un usager ou un autre agent \(par exemple une sec
 
 Cependant, une notification email est bien envoyée aux agents lorsque ce RDV est posé en "dernière minute" : la condition est que le RDV ait lieu le jour même ou le lendemain de la pose. 
 
-{% hint style="info" %}
-Nous n'envoyons pour l'instant des emails que pour les RDVs posés en dernière minute pour éviter de surcharger les boîtes mails des agents. Une évolution est cependant prévue pour permettre de recevoir ces emails pour tous les RDVs.
-{% endhint %}
-
 Il est possible de configurer les notifications liées au RDV. Il faut aller sur « mon compte ». De là, il y a un menu « **Préférences de notifications de RDV** ».
 
 ![](../.gitbook/assets/screenshot_2021-06-05-rdv-solidarites.png)
