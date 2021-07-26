@@ -11,7 +11,8 @@ Pour permettre à chaque département d’être autonome sur l’envoi des SMS, 
 | Contact Experience \(Gen-IP\) | disponible | [contact-experience.com](https://contact-experience.com/) | 62 |
 | Bouygues Telecom | à faire |  | 64 |
 | Orange \(Contact Everyone v5, API Light\) | à faire |  | 80 |
-| SFR | à faire |  | 92 |
+| SFR | en cours |  | 92 |
+| Clever Technologies Multimedias | en cours |  | 77 |
 
 
 
