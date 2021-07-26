@@ -4,6 +4,17 @@ description: Réponses à des questions fréquentes
 
 # FAQ
 
+### Pourquoi n'est-il pas possible de placer un rdv déjà passé ? Ex : je reçois une personne non prévue et je veux placer le rdv \(pour les statistiques, c’est embêtant\). 
+
+Nous avons constaté des erreurs de saisie sur certains rendez-vous. Cela les envoyait très loin dans le passé \(l’an 12 pour deux d’entre eux par exemple\).
+
+Nous avons donc décidé de limiter la saisie dans le passé
+
+**La finalité de RDV-Solidarités, c’est de faire de la prise de rendez-vous et non du suivi.** Nous avons décidé de laisser la possibilité de saisir des rendez-vous jusqu’à 48 h dans le passé. Mais pas plus.  
+
+
+Nous avons conscience que cela pose un problème pour les statistiques, mais cela irait à l'encontre de notre finalité. Nous avons un travail à effectuer, avec vous, sur cet aspect statistique.
+
 ### Pouvez-vous nous donner des informations sur les rappels SMS délai d’envoi et nombre de rappels ?
 
 Le **délai** d’envoi est de quelques secondes à quelques minutes d’après mes observations. Ce n’est pas très lié à notre code, mais plutôt aux fils d’attente chez le prestataire \(NetSize à ce jour\)
