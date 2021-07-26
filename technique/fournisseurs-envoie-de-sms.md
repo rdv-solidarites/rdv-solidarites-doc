@@ -12,7 +12,7 @@ Pour permettre à chaque département d’être autonome sur l’envoi des SMS, 
 | Bouygues Telecom | à faire |  | 64 |
 | Orange \(Contact Everyone v5, API Light\) | à faire |  | 80 |
 | SFR | en cours |  | 92 |
-| Clever Technologies Multimedias | en cours |  | 77 |
+| Clever Technologies Multimedias | en cours | [https://clevermultimedias.clever-is.fr](https://clevermultimedias.clever-is.fr) | 77 |
 
 
 
