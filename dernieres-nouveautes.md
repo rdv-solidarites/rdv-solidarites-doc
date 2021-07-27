@@ -6,6 +6,19 @@ description: >-
 
 # Dernières nouveautés
 
+## Du mardi 20 au lundi 26 juillet
+
+* [ Problème à la création d'un usager en doublon sur le téléphone \#1594 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1594)
+* [ Corriger la redirection après identification FranceConnect \#1584 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1584)
+
+## Du mardi 13 au lundi 19 juillet
+
+* [ Création et suppression d'absence sans titre \#1574 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1574)
+* [ Réduire l'usage de la suppression de RDV \#1043 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1043)
+* [ Mettre en place un connecteur pour le fournisseur de SMS Contact Expérience \#1571 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1571)
+* [ Rechercher un usager sans voir la liste complète \#1348 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1348)
+* [ Ne pas afficher le nom et prénom de l'usager dans le fichier ICS \#1587 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1587)
+
 ## Du mardi 6 au 12 juillet
 
 *  [Indiquer dans les SMS quel proche est concerné par le RDV \#1062](https://github.com/betagouv/rdv-solidarites.fr/issues/1062)
