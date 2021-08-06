@@ -65,7 +65,8 @@ curl --verbose \
             "notify_by_email": true,
             "notify_by_sms": true,
             "number_of_children": null,
-            "phone_number": "0101010101",
+            "phone_number": "0101010103",
+            "phone_number_formatted": "+33101010103",
             "responsible": null,
             "responsible_id": null,
             "user_profiles": [
@@ -138,7 +139,8 @@ curl --verbose \
             "notify_by_email": true,
             "notify_by_sms": true,
             "number_of_children": null,
-            "phone_number": "0101010101",
+            "phone_number": "0101010103",
+            "phone_number_formatted": "+33101010103",
             "responsible": null,
             "responsible_id": null,
             "user_profiles": [
@@ -213,7 +215,8 @@ curl --verbose \
         "notify_by_email": true,
         "notify_by_sms": true,
         "number_of_children": null,
-        "phone_number": "0101010101",
+        "phone_number": "0101010103",
+        "phone_number_formatted": "+33101010103",
         "responsible": null,
         "responsible_id": null,
         "user_profiles": [
@@ -241,12 +244,7 @@ curl --verbose \
 
 #### Réponse
 
-Si l'utilisateur a une adresse mail :
-
 * `invitation_url` : lien d'invitation à destination de l'usager pour créer son profil
-
-Si l'utilisateur n'a pas d'adresse mail :
-
 * `invitation_token` : code d'invitation de 8 caractères à destination de l'usager pour créer son profil en se rendant à l'url `https://www.rdv-solidarites.fr/invitation`
 
 #### Exemple de requête
@@ -277,7 +275,8 @@ curl --verbose \
 
 ```javascript
 {
-    "invitation_url": "https://demo.rdv-solidarites.fr/users/invitation/accept?invitation_token=5Dgaa9PXLEzyF9--jVEx"
+    "invitation_token": "TOKENTOKEN",
+    "invitation_url": "https://rdv-solidarites.fr/users/invitation/accept?invitation_token=TOKENTOKEN"
 }
 ```
 
