@@ -6,6 +6,14 @@ description: >-
 
 # Dernières nouveautés
 
+## Du mardi 27 juillet au lundi 9 août
+
+* [Focus sur le champ de recherche #1595](https://github.com/betagouv/rdv-solidarites.fr/issues/1595)
+* [ Ajouter les dates de naissance et age dans les listes déroulantes de sélection d'usager #1603 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1603)
+* [La modificaiton d'un usager depuis le tunnel de prise de rendez-vous crée un doublon #1606 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1606)
+* [Impossible de supprimer un usager proche #1605 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1605)
+* [ Connecteur pour le 77 #1599 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1599)
+
 ## Du mardi 20 au lundi 26 juillet
 
 * [ Problème à la création d'un usager en doublon sur le téléphone \#1594 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1594)
