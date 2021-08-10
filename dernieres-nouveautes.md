@@ -13,6 +13,7 @@ description: >-
 * [La modificaiton d'un usager depuis le tunnel de prise de rendez-vous crée un doublon #1606 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1606)
 * [Impossible de supprimer un usager proche #1605 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1605)
 * [ Connecteur pour le 77 #1599 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1599)
+* [ Zone de recherche pas accessible dans la liste des responsables #1604 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1604)
 
 ## Du mardi 20 au lundi 26 juillet
 
