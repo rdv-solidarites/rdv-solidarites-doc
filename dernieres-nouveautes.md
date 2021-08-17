@@ -6,14 +6,20 @@ description: >-
 
 # Dernières nouveautés
 
+## Du mardi 10 août au lundi 16 août
+
+* [Statistiques par département](https://github.com/betagouv/rdv-solidarites.fr/issues/1077) \(metabase\)
+* [Préciser qui est à l'initiative de l'annulation du rendez-vous](https://github.com/betagouv/rdv-solidarites.fr/issues/1551)
+* [L'annulation par l'administration ne libère pas le créneau](https://github.com/betagouv/rdv-solidarites.fr/issues/1629)
+
 ## Du mardi 27 juillet au lundi 9 août
 
-* [Focus sur le champ de recherche #1595](https://github.com/betagouv/rdv-solidarites.fr/issues/1595)
-* [ Ajouter les dates de naissance et age dans les listes déroulantes de sélection d'usager #1603 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1603)
-* [La modificaiton d'un usager depuis le tunnel de prise de rendez-vous crée un doublon #1606 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1606)
-* [Impossible de supprimer un usager proche #1605 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1605)
-* [ Connecteur pour le 77 #1599 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1599)
-* [ Zone de recherche pas accessible dans la liste des responsables #1604 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1604)
+* [Focus sur le champ de recherche \#1595](https://github.com/betagouv/rdv-solidarites.fr/issues/1595)
+* [ Ajouter les dates de naissance et age dans les listes déroulantes de sélection d'usager \#1603 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1603)
+* [La modificaiton d'un usager depuis le tunnel de prise de rendez-vous crée un doublon \#1606 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1606)
+* [Impossible de supprimer un usager proche \#1605 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1605)
+* [ Connecteur pour le 77 \#1599 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1599)
+* [ Zone de recherche pas accessible dans la liste des responsables \#1604 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1604)
 
 ## Du mardi 20 au lundi 26 juillet
 
@@ -30,10 +36,10 @@ description: >-
 
 ## Du mardi 6 au 12 juillet
 
-*  [Indiquer dans les SMS quel proche est concerné par le RDV \#1062](https://github.com/betagouv/rdv-solidarites.fr/issues/1062)
-*  [Ajouter le nom de l'agent dans la notification \#1402](https://github.com/betagouv/rdv-solidarites.fr/issues/1402)
-*  [Afficher la durée du rendez-vous \#1555](https://github.com/betagouv/rdv-solidarites.fr/issues/1555)
-*  [Supprimer les blancs avant et après les noms et prénoms \#1161](https://github.com/betagouv/rdv-solidarites.fr/issues/1161)
+* [Indiquer dans les SMS quel proche est concerné par le RDV \#1062](https://github.com/betagouv/rdv-solidarites.fr/issues/1062)
+* [Ajouter le nom de l'agent dans la notification \#1402](https://github.com/betagouv/rdv-solidarites.fr/issues/1402)
+* [Afficher la durée du rendez-vous \#1555](https://github.com/betagouv/rdv-solidarites.fr/issues/1555)
+* [Supprimer les blancs avant et après les noms et prénoms \#1161](https://github.com/betagouv/rdv-solidarites.fr/issues/1161)
 
 ## Du mardi 29 juin au lundi 5 juillet
 
