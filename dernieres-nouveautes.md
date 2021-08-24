@@ -6,6 +6,15 @@ description: >-
 
 # Dernières nouveautés
 
+
+## Du mardi 17 août au lundi 24 août
+
+* [Disparition des fonds de couleur dans les statistiques](https://github.com/betagouv/rdv-solidarites.fr/issues/1650)
+* [Limiter la pose de rendez-vous dans le futur](https://github.com/betagouv/rdv-solidarites.fr/issues/1600)
+* [Afficher correctement les absences récurrentes dans l’onglet “En cours”](https://github.com/betagouv/rdv-solidarites.fr/issues/1613)
+* [Préciser qui est à l'initiative de l'annulation du rendez-vous](https://github.com/betagouv/rdv-solidarites.fr/issues/1551)
+* [Ajouter un connecteur pour SFR (92)](https://github.com/betagouv/rdv-solidarites.fr/issues/1589)
+
 ## Du mardi 10 août au lundi 16 août
 
 * [Statistiques par département](https://github.com/betagouv/rdv-solidarites.fr/issues/1077) \(metabase\)
