@@ -29,7 +29,7 @@ La forme du contenu des requêtes est donnée pour les RDV et les plages d'ouver
       "name": "MDS Paris Nord"
     },
     "starts_at": "2020-08-07 10:00:00 +0200",
-    "status": "notexcused",
+    "status": "noshow",
     "users": [
       {
         "id": 1,
