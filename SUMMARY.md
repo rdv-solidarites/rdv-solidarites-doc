@@ -74,6 +74,7 @@
 
 ## Historique
 
-* [Réunion Référents du 19 janvier 2021](historique/reunion-referents-du-19-janvier-2021.md)
 * [Point de situation de l'équipe au 23 avril 2021](historique/point-de-situation-de-lequipe-au-23-avril-2021.md)
+* [Réunion Référents du 19 janvier 2021](historique/reunion-referents-du-19-janvier-2021.md)
+* [Réunion Référent du 8 décembre 2020](historique/reunion-referent-du-8-decembre-2020.md)
 
