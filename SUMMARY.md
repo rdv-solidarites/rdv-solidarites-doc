@@ -74,8 +74,16 @@
 
 ## Historique
 
+* [Réunion référent.e du 4 mai 2021](historique/reunion-referent.e-du-4-mai-2021.md)
+* [Incident de production du 29 avril 2021](historique/incident-de-production-du-29-avril-2021.md)
+* [Réunion référente du 27 avril 2021](historique/reunion-referente-du-27-avril-2021.md)
 * [Point de situation de l'équipe au 23 avril 2021](historique/point-de-situation-de-lequipe-au-23-avril-2021.md)
+* [Difficulté sur la plateforme le mercredi 17 mars 2021](historique/difficulte-sur-la-plateforme-le-mercredi-17-mars-2021.md)
+* [Compte rendu de la réunion référent.e.s du 16 Mars 2021](historique/compte-rendu-de-la-reunion-referent.e.s-du-16-mars-2021.md)
+* [Réunion référents du mardi 16 février 2021](historique/reunion-referents-du-mardi-16-fevrier-2021.md)
+* [Compte rendu Réunion référents du Mardi 2-02](historique/compte-rendu-reunion-referents-du-mardi-2-02.md)
 * [Réunion Référents du 19 janvier 2021](historique/reunion-referents-du-19-janvier-2021.md)
 * [Réunion Référent du 8 décembre 2020](historique/reunion-referent-du-8-decembre-2020.md)
 * [Compte rendu Réunion Référents du 24 novembre 2020](historique/compte-rendu-reunion-referents-du-24-novembre-2020.md)
+* [Réunion Référents n°12 03 décembre 2019](historique/reunion-referents-n-12-03-decembre-2019.md)
 
