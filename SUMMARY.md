@@ -69,4 +69,5 @@
 * [Gouvernance](communaute-and-gouvernance/gouvernance.md)
 * [Estimations](communaute-and-gouvernance/estimations.md)
 * [Rituels](communaute-and-gouvernance/rituels.md)
+* [Outils de prise de rendez-vous](communaute-and-gouvernance/outils-de-prise-de-rendez-vous.md)
 
