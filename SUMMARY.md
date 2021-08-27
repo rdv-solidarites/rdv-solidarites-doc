@@ -70,4 +70,5 @@
 * [Gouvernance](communaute-and-gouvernance/gouvernance.md)
 * [Estimations](communaute-and-gouvernance/estimations.md)
 * [Rituels](communaute-and-gouvernance/rituels.md)
+* [Data.insertion aka RDV-Insertion](communaute-and-gouvernance/data.insertion-aka-rdv-insertion.md)
 
