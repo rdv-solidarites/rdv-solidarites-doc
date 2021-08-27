@@ -2,6 +2,7 @@
 
 * [RDV-Solidarités](README.md)
 * [Dernières nouveautés](dernieres-nouveautes.md)
+* [Outils de prise de rendez-vous](outils-de-prise-de-rendez-vous.md)
 
 ## Formation / Tutoriels <a id="tutoriels"></a>
 
@@ -69,5 +70,4 @@
 * [Gouvernance](communaute-and-gouvernance/gouvernance.md)
 * [Estimations](communaute-and-gouvernance/estimations.md)
 * [Rituels](communaute-and-gouvernance/rituels.md)
-* [Outils de prise de rendez-vous](communaute-and-gouvernance/outils-de-prise-de-rendez-vous.md)
 
