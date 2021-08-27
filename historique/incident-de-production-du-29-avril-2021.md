@@ -8,15 +8,15 @@ Dans la matinée du 29 avril, nous avons eu deux incidents simultanés qui ont r
 
 \(Heure française, UTC+1\)
 
-* **9h21** livraison d'une mise à jour technique \([https://github.com/betagouv/rdv-solidarites.fr/pull/1387](https://github.com/betagouv/rdv-solidarites.fr/pull/1387)\)
-* **9h38** livraison de la fonctionnalité d'agenda inter-organisation \([https://github.com/betagouv/rdv-solidarites.fr/pull/1241](https://github.com/betagouv/rdv-solidarites.fr/pull/1241)\)
-* **9h55** première vague d'erreurs technique remonté par notre système de surveillance
-* **10h13** Alertes d'un outil surveillant la présence en ligne de RDV-Solidarités : le service n'est plus accessible
-* **10h30** Plusieurs emails de la part de référentes pour nous alerter à propos de très gros ralentissement de RDV-Solidarités
-* **10h35** Démarrage de serveurs supplémentaire pour essayer de résorber les problèmes, le temps de trouver une solution
-* **10h52** Livraison d'une annulation de la mise à jour technique
-* **11h05** Signalement que les ralentissements sont toujours très ressenti sur le service
-* **11h29** Livraison d'une annulation de la fonctionnalité d'agenda inter-organisation.
+* **9 h 21** livraison d'une mise à jour technique \([https://github.com/betagouv/rdv-solidarites.fr/pull/1387](https://github.com/betagouv/rdv-solidarites.fr/pull/1387)\)
+* **9 h 38** livraison de la fonctionnalité d'agenda inter-organisation \([https://github.com/betagouv/rdv-solidarites.fr/pull/1241](https://github.com/betagouv/rdv-solidarites.fr/pull/1241)\)
+* **9 h 55** première vague d'erreurs technique remonté par notre système de surveillance
+* **10 h 13** Alertes d'un outil surveillant la présence en ligne de RDV-Solidarités : le service n'est plus accessible
+* **10 h 30** Plusieurs emails de la part de référentes pour nous alerter à propos de très gros ralentissement de RDV-Solidarités
+* **10 h 35** Démarrage de serveurs supplémentaire pour essayer de résorber les problèmes, le temps de trouver une solution
+* **10 h 52** Livraison d'une annulation de la mise à jour technique
+* **11 h 05** Signalement que les ralentissements sont toujours très ressenti sur le service
+* **11 h 29** Livraison d'une annulation de la fonctionnalité d'agenda inter-organisation.
 
 ### Impacts
 
