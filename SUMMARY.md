@@ -72,3 +72,7 @@
 * [Rituels](communaute-and-gouvernance/rituels.md)
 * [Data.insertion aka RDV-Insertion](communaute-and-gouvernance/data.insertion-aka-rdv-insertion.md)
 
+## Historique
+
+* [Point de situation de l'équipe au 23 avril 2021](historique/point-de-situation-de-lequipe-au-23-avril-2021.md)
+
