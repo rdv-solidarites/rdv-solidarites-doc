@@ -65,6 +65,7 @@
 
 ## Communauté & gouvernance
 
+* [Le rôle de la personne référente](communaute-and-gouvernance/le-role-de-la-personne-referente.md)
 * [Gouvernance](communaute-and-gouvernance/gouvernance.md)
 * [Estimations](communaute-and-gouvernance/estimations.md)
 * [Rituels](communaute-and-gouvernance/rituels.md)
