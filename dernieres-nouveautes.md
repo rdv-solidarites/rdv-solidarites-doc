@@ -6,6 +6,13 @@ description: >-
 
 # Dernières nouveautés
 
+## Du mardi 25 août au lundi 30 août
+
+* [Corriger la compatibilité des status envoyés par les webhooks](https://github.com/betagouv/rdv-solidarites.fr/issues/1657)
+* [Message d'erreur compréhensible à propos de la date en dehors de la période autorisée](https://github.com/betagouv/rdv-solidarites.fr/issues/1659)
+* [Ajouter un champ de recherche agent dans la page des référents](https://github.com/betagouv/rdv-solidarites.fr/issues/1622)
+* [Configurer les webhooks au niveau du territoire](https://github.com/betagouv/rdv-solidarites.fr/issues/1430)
+
 ## Du mardi 17 août au lundi 24 août
 
 * [Disparition des fonds de couleur dans les statistiques](https://github.com/betagouv/rdv-solidarites.fr/issues/1650)
