@@ -20,5 +20,20 @@ Un ticket doit commencer par un verbe à l'infinitif. L'idée est de bien compre
 
 ### Réunion référente
 
-Démo, priorisation, plusieurs choses sont évoquées
+Une fois par semaine, le mardi matin de 9 h 30 à 10 h 30. _Attention, il se peut que parfois les discussions nous entraine jusqu'à 11 h._
+
+Le déroulé :
+
+* Une démonstration des modifications impactantes apportées depuis la dernière fois est réalisée sur l'environnement de recette [https://recete.rdv-solidarites.fr](https://recete.rdv-solidarites.fr)
+* Parcours rapide des modifications en cours de développement avec une indication de la date de livraison en recette \(ou en prod pour le cas de correction de bug et autre urgence\)
+* Parcours du tableau de priorisation pour 
+  * clarifier certains tickets si nécessaires \(un `?` sur une ligne ou une question directe durant la réunion\)
+  * présentation rapide des tickets ajouté depuis la dernière fois
+* Discussion ouverte. Ce point pourrait être amélioré pour utiliser les éléments de discussion votés dans le deuxième onglet du tableau de priorisation... Ou bien nous pourrions arrêter d'utiliser ce deuxième onglet
+
+Une fois terminé, un compte rendu est réalisé à partir des notes prises durant la réunion \(sur un pad incubateur, souvent le même mis à jour : [https://pad.incubateur.net/cI1-YOhCR2apvjdaKnZLfg?edit](https://pad.incubateur.net/cI1-YOhCR2apvjdaKnZLfg?edit)\).
+
+Pour le moment, le compte rendu est posté sur le forum, dans la catégorie évènement. Aujourd'hui, il serait intéressant de l'envoyer par email également. Demain, il sera peut-être plus intéressant de le mettre dans la documentation...
+
+
 
