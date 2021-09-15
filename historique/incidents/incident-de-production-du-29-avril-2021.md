@@ -33,15 +33,15 @@ En ajoutant des serveurs, nous avons pu résorber un peu la gêne sur les temps 
 
 Comme on peut le voir, il y a eu une très forte augmentation du **temps de réponse** par rapport à la moyenne
 
-![](../.gitbook/assets/dae92eae8a9e16e76957686e3dd84d050ebd92e6.png)
+![](../../.gitbook/assets/dae92eae8a9e16e76957686e3dd84d050ebd92e6.png)
 
 Les **processeurs des serveurs** ont également été très sollicités
 
-![](../.gitbook/assets/a3e18fc7c7373fda7027bbed5355d1cc1473c502.png)
+![](../../.gitbook/assets/a3e18fc7c7373fda7027bbed5355d1cc1473c502.png)
 
 Nous avions cependant autant de **demande** que d'habitude \(aucun écart entre ce matin et cette après-midi\). On peut voir apparaitre des points rouges qui correspondent à des demandes que nous n'avons pas pu satisfaire correctement. Les points vers et bleu correspondent à nos interventions diverses.
 
-![](../.gitbook/assets/ec24a09ab646509eb707e33d2d23fc1017ee9d23.png)
+![](../../.gitbook/assets/ec24a09ab646509eb707e33d2d23fc1017ee9d23.png)
 
 ### Conséquences
 
@@ -61,7 +61,7 @@ Nous pourrions mettre en place des outils pour cela. Mais comme dit Nicolas, nou
 
 Nous avons fait quelques corrections et repoussé l'agenda inter-organisation en production. Certaines lenteurs sont encore présentes. C'est beaucoup mieux que la dernière fois, mais ça ne suffit pas.
 
-![](../.gitbook/assets/8e1b4ba0684b2d5983d8b522ed5c7b041eb2735f.png)
+![](../../.gitbook/assets/8e1b4ba0684b2d5983d8b522ed5c7b041eb2735f.png)
 
 Nous sommes en train de travailler sur une correction. Tout devrait rentrer dans l'ordre d'ici à ce soir.
 
