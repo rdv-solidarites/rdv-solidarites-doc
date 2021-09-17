@@ -1,6 +1,7 @@
 # Table of contents
 
-* [RDV-Solidarités](README.md)
+* [Guides et ressources de RDV-Solidarités](README.md)
+* [À propos de RDV-Solidarités](a-propos-de-rdv-solidarites.md)
 * [Dernières nouveautés](dernieres-nouveautes.md)
 * [Outils de prise de rendez-vous](outils-de-prise-de-rendez-vous.md)
 
