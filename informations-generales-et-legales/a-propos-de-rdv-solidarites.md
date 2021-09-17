@@ -7,7 +7,7 @@ description: >-
 
 # À propos de RDV-Solidarités
 
-![Prise de RDV autonome d&apos;un usager sur RDV-Solidarit&#xE9;s](.gitbook/assets/screenshot_2020-12-08_at_18.11.54%20%281%29.png)
+![Prise de RDV autonome d&apos;un usager sur RDV-Solidarit&#xE9;s](../.gitbook/assets/screenshot_2020-12-08_at_18.11.54%20%281%29.png)
 
 * Service opérationnel et accessible à toutes et tous sur [rdv-solidarites.fr](https://www.rdv-solidarites.fr)
 * Des statistiques d'usages publiques anonymes [sont disponibles ici](https://www.rdv-solidarites.fr/stats/)

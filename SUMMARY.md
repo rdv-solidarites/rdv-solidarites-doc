@@ -1,24 +1,53 @@
 # Table of contents
 
 * [Guides et ressources de RDV-Solidarités](README.md)
-* [À propos de RDV-Solidarités](a-propos-de-rdv-solidarites.md)
 * [Dernières nouveautés](dernieres-nouveautes.md)
-* [Outils de prise de rendez-vous](outils-de-prise-de-rendez-vous.md)
+
+## Guide pour un agent
+
+* [Comment se connecter ?](guide-pour-un-agent/comment-se-connecter.md)
+
+## Guide pour paramétrer une organisation
+
+* [Permissions des agents](guide-pour-parametrer-une-organisation/permissions-agents.md)
+
+## Guide pour paramétrer un territoire
+
+* [Créer une organisation](guide-pour-parametrer-un-territoire/creer-une-organisation.md)
+* [Configuration Territoire](guide-pour-parametrer-un-territoire/configuration-territoire.md)
+
+## Guide pour un référent
+
+* [Le rôle de la personne référente](guide-pour-un-referent/le-role-de-la-personne-referente.md)
+* [Environnement de recette](guide-pour-un-referent/environnement-de-recette.md)
+* [Estimations](guide-pour-un-referent/estimations.md)
+* [Rituels](guide-pour-un-referent/rituels.md)
+* [Data.insertion aka RDV-Insertion](guide-pour-un-referent/data.insertion-aka-rdv-insertion.md)
+* [Gouvernance](guide-pour-un-referent/gouvernance.md)
+* [Flux de production](guide-pour-un-referent/flux-de-production.md)
+
+## Guide pour un chargé d'informatique
+
+* [Untitled](guide-pour-un-charge-dinformatique/untitled.md)
+
+## Informations générales et légales
+
+* [Conditions d’utilisation de la plateforme RDV-Solidarités](informations-generales-et-legales/conditions-dutilisation-de-la-plateforme-rdv-solidarites.md)
+* [Mentions Légales](informations-generales-et-legales/mentions-legales.md)
+* [Politique de confidentialité](informations-generales-et-legales/politique-de-confidentialite.md)
+* [À propos de RDV-Solidarités](informations-generales-et-legales/a-propos-de-rdv-solidarites.md)
+* [Outils de prise de rendez-vous](informations-generales-et-legales/outils-de-prise-de-rendez-vous.md)
 
 ## Formation / Tutoriels <a id="tutoriels"></a>
 
 * [Tutoriel](tutoriels/tutoriel.md)
-* [Comment se connecter ?](tutoriels/comment-se-connecter.md)
-* [Créer une organisation](tutoriels/creer-une-organisation.md)
 * [Notifications usagers](tutoriels/notifications-usagers.md)
 * [Notifications agents](tutoriels/notifications-agents.md)
 * [Annulation de Rendez-vous](tutoriels/annulation-de-rendez-vous.md)
 * [Fiches usagers](tutoriels/bases-usagers.md)
 * [Interface Agent](tutoriels/interface-agent.md)
 * [Compte et connexion](tutoriels/compte-et-connexion.md)
-* [Permissions des agents](tutoriels/permissions-agents.md)
 * [Status de rendez-vous](tutoriels/status-de-rendez-vous.md)
-* [Configuration Territoire](tutoriels/configuration-territoire.md)
 * [File d'attente](tutoriels/file-dattente.md)
 * [Sectorisation géographique](tutoriels/sectorisation-geographique/README.md)
   * [Logique détaillée de la sectorisation](tutoriels/sectorisation-geographique/logique-detaillee-de-la-sectorisation.md)
@@ -54,28 +83,6 @@
 * [Statistique](technique/statistique.md)
 * [Décisions techniques](technique/decisions-techniques.md)
 * [Agenda externe](technique/agenda-externe.md)
-
-## Investigations Passées
-
-* [Investigation - processus de prise de RDV](investigations-passees/prises-de-rdv.md)
-* [Investigation - Sectorisation](investigations-passees/decoupage-geographique-et-administratif-des-services.md)
-* [Investigation - Liens agents, usagers et organisations](investigations-passees/liens-agents-usagers-organisations.md)
-
-## Informations légales
-
-* [Conditions d’utilisation de la plateforme RDV-Solidarités](informations-legales/conditions-dutilisation-de-la-plateforme-rdv-solidarites.md)
-* [Mentions Légales](informations-legales/mentions-legales.md)
-* [Politique de confidentialité](informations-legales/politique-de-confidentialite.md)
-
-## Communauté & gouvernance
-
-* [Environnement de recette](communaute-and-gouvernance/environnement-de-recette.md)
-* [Flux de production](communaute-and-gouvernance/flux-de-production.md)
-* [Le rôle de la personne référente](communaute-and-gouvernance/le-role-de-la-personne-referente.md)
-* [Gouvernance](communaute-and-gouvernance/gouvernance.md)
-* [Estimations](communaute-and-gouvernance/estimations.md)
-* [Rituels](communaute-and-gouvernance/rituels.md)
-* [Data.insertion aka RDV-Insertion](communaute-and-gouvernance/data.insertion-aka-rdv-insertion.md)
 
 ## Historique
 
