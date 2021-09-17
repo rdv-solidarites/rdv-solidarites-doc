@@ -17,6 +17,7 @@
 * [Compte et connexion](tutoriels/compte-et-connexion.md)
 * [Permissions des agents](tutoriels/permissions-agents.md)
 * [Status de rendez-vous](tutoriels/status-de-rendez-vous.md)
+* [Configuration Territoire](tutoriels/configuration-territoire.md)
 * [File d'attente](tutoriels/file-dattente.md)
 * [Sectorisation géographique](tutoriels/sectorisation-geographique/README.md)
   * [Logique détaillée de la sectorisation](tutoriels/sectorisation-geographique/logique-detaillee-de-la-sectorisation.md)
