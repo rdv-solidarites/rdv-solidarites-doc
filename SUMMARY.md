@@ -10,6 +10,7 @@
 ## Guide pour paramétrer une organisation
 
 * [Permissions des agents](guide-pour-parametrer-une-organisation/permissions-agents.md)
+* [Suppression d'agent](guide-pour-parametrer-une-organisation/suppression-dagent.md)
 
 ## Guide pour paramétrer un territoire
 
