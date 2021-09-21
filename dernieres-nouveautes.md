@@ -6,6 +6,12 @@ description: >-
 
 # Dernières nouveautés
 
+## Du mardi 31 août au jeudi 23 septembre
+
+* [ \[Home\] Affiche les services disponible \#1701 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1701)
+* [ Ne pas afficher le prénom des agents dans les notifications aux usagers \#1697 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1697)
+* [ Faire un connecteur SMS pour la Somme \(80\) \#1664 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1664)
+
 ## Du mardi 25 août au lundi 30 août
 
 * [Corriger la compatibilité des status envoyés par les webhooks](https://github.com/betagouv/rdv-solidarites.fr/issues/1657)
