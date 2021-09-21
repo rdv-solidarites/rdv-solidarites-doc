@@ -6,6 +6,10 @@
 ## Guide pour un agent
 
 * [Comment se connecter ?](guide-pour-un-agent/comment-se-connecter.md)
+* [Fiches usagers](guide-pour-un-agent/bases-usagers.md)
+* [Notifications usagers](guide-pour-un-agent/notifications-usagers.md)
+* [Notifications agents](guide-pour-un-agent/notifications-agents.md)
+* [Interface Agent](guide-pour-un-agent/interface-agent.md)
 
 ## Guide pour paramétrer une organisation
 
@@ -25,6 +29,20 @@
 * [Rituels](guide-pour-un-referent/rituels.md)
 * [Data.insertion aka RDV-Insertion](guide-pour-un-referent/data.insertion-aka-rdv-insertion.md)
 * [Gouvernance](guide-pour-un-referent/gouvernance.md)
+* [Réunions Référentes](guide-pour-un-referent/reunions-referentes/README.md)
+  * [Avant 2021](guide-pour-un-referent/reunions-referentes/avant-2021/README.md)
+    * [Compte rendu Réunion Référents du 24 novembre 2020](guide-pour-un-referent/reunions-referentes/avant-2021/compte-rendu-reunion-referents-du-24-novembre-2020.md)
+    * [Réunion Référents n°12 03 décembre 2019](guide-pour-un-referent/reunions-referentes/avant-2021/reunion-referents-n-12-03-decembre-2019.md)
+    * [Réunion Référent du 8 décembre 2020](guide-pour-un-referent/reunions-referentes/avant-2021/reunion-referent-du-8-decembre-2020.md)
+  * [Compte Rendu Réunion référentes du 21 septembre 2021](guide-pour-un-referent/reunions-referentes/compte-rendu-reunion-referentes-du-21-septembre-2021.md)
+  * [Réunion référents du mardi 16 février 2021](guide-pour-un-referent/reunions-referentes/reunion-referents-du-mardi-16-fevrier-2021.md)
+  * [Réunion Référents du 19 janvier 2021](guide-pour-un-referent/reunions-referentes/reunion-referents-du-19-janvier-2021.md)
+  * [Compte rendu Réunion référents du Mardi 2-02](guide-pour-un-referent/reunions-referentes/compte-rendu-reunion-referents-du-mardi-2-02.md)
+  * [Compte rendu de la réunion référent.e.s du 16 Mars 2021](guide-pour-un-referent/reunions-referentes/compte-rendu-de-la-reunion-referent.e.s-du-16-mars-2021.md)
+  * [Réunion référente du 27 avril 2021](guide-pour-un-referent/reunions-referentes/reunion-referente-du-27-avril-2021.md)
+  * [Réunion référent.e du 4 mai 2021](guide-pour-un-referent/reunions-referentes/reunion-referent.e-du-4-mai-2021.md)
+  * [Réunion référent.e du 11 mai 2021](guide-pour-un-referent/reunions-referentes/reunion-referent.e-du-11-mai-2021.md)
+  * [Réunion Référents du 25 mai 2021](guide-pour-un-referent/reunions-referentes/reunion-referents-du-25-mai-2021.md)
 
 ## Guide pour un chargé d'informatique
 
@@ -41,11 +59,7 @@
 ## Formation / Tutoriels <a id="tutoriels"></a>
 
 * [Tutoriel](tutoriels/tutoriel.md)
-* [Notifications usagers](tutoriels/notifications-usagers.md)
-* [Notifications agents](tutoriels/notifications-agents.md)
 * [Annulation de Rendez-vous](tutoriels/annulation-de-rendez-vous.md)
-* [Fiches usagers](tutoriels/bases-usagers.md)
-* [Interface Agent](tutoriels/interface-agent.md)
 * [Compte et connexion](tutoriels/compte-et-connexion.md)
 * [Status de rendez-vous](tutoriels/status-de-rendez-vous.md)
 * [File d'attente](tutoriels/file-dattente.md)
@@ -58,7 +72,6 @@
 
 ## Aspects techniques <a id="technique"></a>
 
-* [Outils d'analyse](technique/outils-analyse.md)
 * [Hébergement & sécurité](technique/hebergement-and-securite.md)
 * [Interconnexions aperçu](technique/interconnexions-apercu.md)
 * [Envoi de SMS](technique/envoie-de-sms.md)
@@ -90,19 +103,5 @@
   * [Difficulté sur la plateforme le mercredi 17 mars 2021](historique/incidents/difficulte-sur-la-plateforme-le-mercredi-17-mars-2021.md)
   * [Incident de production du 29 avril 2021](historique/incidents/incident-de-production-du-29-avril-2021.md)
   * [Incident de production du 7 septembre 2021](historique/incidents/incident-de-production-du-7-septembre-2021.md)
-* [Réunions Référentes](historique/reunions-referentes/README.md)
-  * [Avant 2021](historique/reunions-referentes/avant-2021/README.md)
-    * [Compte rendu Réunion Référents du 24 novembre 2020](historique/reunions-referentes/avant-2021/compte-rendu-reunion-referents-du-24-novembre-2020.md)
-    * [Réunion Référents n°12 03 décembre 2019](historique/reunions-referentes/avant-2021/reunion-referents-n-12-03-decembre-2019.md)
-    * [Réunion Référent du 8 décembre 2020](historique/reunions-referentes/avant-2021/reunion-referent-du-8-decembre-2020.md)
-  * [Compte Rendu Réunion référentes du 21 septembre 2021](historique/reunions-referentes/compte-rendu-reunion-referentes-du-21-septembre-2021.md)
-  * [Réunion référents du mardi 16 février 2021](historique/reunions-referentes/reunion-referents-du-mardi-16-fevrier-2021.md)
-  * [Réunion Référents du 19 janvier 2021](historique/reunions-referentes/reunion-referents-du-19-janvier-2021.md)
-  * [Compte rendu Réunion référents du Mardi 2-02](historique/reunions-referentes/compte-rendu-reunion-referents-du-mardi-2-02.md)
-  * [Compte rendu de la réunion référent.e.s du 16 Mars 2021](historique/reunions-referentes/compte-rendu-de-la-reunion-referent.e.s-du-16-mars-2021.md)
-  * [Réunion référente du 27 avril 2021](historique/reunions-referentes/reunion-referente-du-27-avril-2021.md)
-  * [Réunion référent.e du 4 mai 2021](historique/reunions-referentes/reunion-referent.e-du-4-mai-2021.md)
-  * [Réunion référent.e du 11 mai 2021](historique/reunions-referentes/reunion-referent.e-du-11-mai-2021.md)
-  * [Réunion Référents du 25 mai 2021](historique/reunions-referentes/reunion-referents-du-25-mai-2021.md)
 * [Point de situation de l'équipe au 23 avril 2021](historique/point-de-situation-de-lequipe-au-23-avril-2021.md)
 
