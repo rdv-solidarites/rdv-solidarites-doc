@@ -5,11 +5,17 @@
 
 ## Guide pour un agent
 
+* [Tutoriel](guide-pour-un-agent/tutoriel.md)
 * [Comment se connecter ?](guide-pour-un-agent/comment-se-connecter.md)
+* [Compte et connexion](guide-pour-un-agent/compte-et-connexion.md)
 * [Fiches usagers](guide-pour-un-agent/bases-usagers.md)
 * [Notifications usagers](guide-pour-un-agent/notifications-usagers.md)
 * [Notifications agents](guide-pour-un-agent/notifications-agents.md)
 * [Interface Agent](guide-pour-un-agent/interface-agent.md)
+* [Status de rendez-vous](guide-pour-un-agent/status-de-rendez-vous.md)
+* [File d'attente](guide-pour-un-agent/file-dattente.md)
+* [Annulation de Rendez-vous](guide-pour-un-agent/annulation-de-rendez-vous.md)
+* [FAQ](guide-pour-un-agent/faq.md)
 
 ## Guide pour paramétrer une organisation
 
@@ -20,6 +26,10 @@
 
 * [Créer une organisation](guide-pour-parametrer-un-territoire/creer-une-organisation.md)
 * [Configuration Territoire](guide-pour-parametrer-un-territoire/configuration-territoire.md)
+* [Sectorisation géographique](guide-pour-parametrer-un-territoire/sectorisation-geographique/README.md)
+  * [Logique détaillée de la sectorisation](guide-pour-parametrer-un-territoire/sectorisation-geographique/logique-detaillee-de-la-sectorisation.md)
+  * [Exemple 1 : Par commune et par organisation](guide-pour-parametrer-un-territoire/sectorisation-geographique/sectorisation-par-commune-et-par-organisation.md)
+  * [Exemple 2 : Sectorisation par rue et par agent](guide-pour-parametrer-un-territoire/sectorisation-geographique/sectorisation-par-rue.md)
 
 ## Guide pour un référent
 
@@ -46,7 +56,25 @@
 
 ## Guide pour un chargé d'informatique
 
-* [Untitled](guide-pour-un-charge-dinformatique/untitled.md)
+* [Hébergement & sécurité](guide-pour-un-charge-dinformatique/hebergement-and-securite.md)
+* [Interconnexions aperçu](guide-pour-un-charge-dinformatique/interconnexions-apercu.md)
+* [API de requêtes](guide-pour-un-charge-dinformatique/api-interconnexions-entrantes/README.md)
+  * [Généralités](guide-pour-un-charge-dinformatique/api-interconnexions-entrantes/details-techniques.md)
+  * [Authentification](guide-pour-un-charge-dinformatique/api-interconnexions-entrantes/authentification-and-permissions.md)
+  * [Usagers](guide-pour-un-charge-dinformatique/api-interconnexions-entrantes/api-usagers.md)
+  * [Agents](guide-pour-un-charge-dinformatique/api-interconnexions-entrantes/agents.md)
+  * [Organisations](guide-pour-un-charge-dinformatique/api-interconnexions-entrantes/organisations.md)
+  * [Absences](guide-pour-un-charge-dinformatique/api-interconnexions-entrantes/api-absences.md)
+  * [Motifs](guide-pour-un-charge-dinformatique/api-interconnexions-entrantes/motifs.md)
+* [API de notifications](guide-pour-un-charge-dinformatique/api-interconnexions-sortantes/README.md)
+  * [Format des données](guide-pour-un-charge-dinformatique/api-interconnexions-sortantes/format-des-donnees.md)
+  * [FAQ](guide-pour-un-charge-dinformatique/api-interconnexions-sortantes/faq.md)
+  * [Vérification de signature](guide-pour-un-charge-dinformatique/api-interconnexions-sortantes/generation-de-signature.md)
+  * [Outlook](guide-pour-un-charge-dinformatique/api-interconnexions-sortantes/outlook.md)
+  * [Microsoft Dynamics](guide-pour-un-charge-dinformatique/api-interconnexions-sortantes/microsoft-dynamics.md)
+  * [Interconnexion par email et icalendar](guide-pour-un-charge-dinformatique/api-interconnexions-sortantes/zimbra.md)
+* [Envoi de SMS](guide-pour-un-charge-dinformatique/envoie-de-sms.md)
+* [États de rendez-vous](guide-pour-un-charge-dinformatique/statut-de-rendez-vous.md)
 
 ## Informations générales et légales
 
@@ -55,53 +83,10 @@
 * [Politique de confidentialité](informations-generales-et-legales/politique-de-confidentialite.md)
 * [À propos de RDV-Solidarités](informations-generales-et-legales/a-propos-de-rdv-solidarites.md)
 * [Outils de prise de rendez-vous](informations-generales-et-legales/outils-de-prise-de-rendez-vous.md)
-
-## Formation / Tutoriels <a id="tutoriels"></a>
-
-* [Tutoriel](tutoriels/tutoriel.md)
-* [Annulation de Rendez-vous](tutoriels/annulation-de-rendez-vous.md)
-* [Compte et connexion](tutoriels/compte-et-connexion.md)
-* [Status de rendez-vous](tutoriels/status-de-rendez-vous.md)
-* [File d'attente](tutoriels/file-dattente.md)
-* [Sectorisation géographique](tutoriels/sectorisation-geographique/README.md)
-  * [Logique détaillée de la sectorisation](tutoriels/sectorisation-geographique/logique-detaillee-de-la-sectorisation.md)
-  * [Exemple 1 : Par commune et par organisation](tutoriels/sectorisation-geographique/sectorisation-par-commune-et-par-organisation.md)
-  * [Exemple 2 : Sectorisation par rue et par agent](tutoriels/sectorisation-geographique/sectorisation-par-rue.md)
-* [Statistiques](tutoriels/statistiques.md)
-* [FAQ](tutoriels/faq.md)
-
-## Aspects techniques <a id="technique"></a>
-
-* [Hébergement & sécurité](technique/hebergement-and-securite.md)
-* [Interconnexions aperçu](technique/interconnexions-apercu.md)
-* [Envoi de SMS](technique/envoie-de-sms.md)
-* [API de notifications](technique/api-interconnexions-sortantes/README.md)
-  * [Format des données](technique/api-interconnexions-sortantes/format-des-donnees.md)
-  * [FAQ](technique/api-interconnexions-sortantes/faq.md)
-  * [Vérification de signature](technique/api-interconnexions-sortantes/generation-de-signature.md)
-  * [Outlook](technique/api-interconnexions-sortantes/outlook.md)
-  * [Microsoft Dynamics](technique/api-interconnexions-sortantes/microsoft-dynamics.md)
-  * [Interconnexion par email et icalendar](technique/api-interconnexions-sortantes/zimbra.md)
-* [API de requêtes](technique/api-interconnexions-entrantes/README.md)
-  * [Généralités](technique/api-interconnexions-entrantes/details-techniques.md)
-  * [Authentification](technique/api-interconnexions-entrantes/authentification-and-permissions.md)
-  * [Usagers](technique/api-interconnexions-entrantes/api-usagers.md)
-  * [Agents](technique/api-interconnexions-entrantes/agents.md)
-  * [Organisations](technique/api-interconnexions-entrantes/organisations.md)
-  * [Absences](technique/api-interconnexions-entrantes/api-absences.md)
-  * [Motifs](technique/api-interconnexions-entrantes/motifs.md)
-* [Infrastructure](technique/infrastructure.md)
-* [États de rendez-vous](technique/statut-de-rendez-vous.md)
-* [Liste des champs stockés dans la base de données](technique/liste-des-champs-stockes-dans-la-base-de-donnees.md)
-* [Statistique](technique/statistique.md)
-* [Décisions techniques](technique/decisions-techniques.md)
-* [Agenda externe](technique/agenda-externe.md)
-
-## Historique
-
-* [Incidents](historique/incidents/README.md)
-  * [Difficulté sur la plateforme le mercredi 17 mars 2021](historique/incidents/difficulte-sur-la-plateforme-le-mercredi-17-mars-2021.md)
-  * [Incident de production du 29 avril 2021](historique/incidents/incident-de-production-du-29-avril-2021.md)
-  * [Incident de production du 7 septembre 2021](historique/incidents/incident-de-production-du-7-septembre-2021.md)
-* [Point de situation de l'équipe au 23 avril 2021](historique/point-de-situation-de-lequipe-au-23-avril-2021.md)
+* [Liste des champs stockés dans la base de données](informations-generales-et-legales/liste-des-champs-stockes-dans-la-base-de-donnees.md)
+* [Point de situation de l'équipe au 23 avril 2021](informations-generales-et-legales/point-de-situation-de-lequipe-au-23-avril-2021.md)
+* [Incidents](informations-generales-et-legales/incidents/README.md)
+  * [Difficulté sur la plateforme le mercredi 17 mars 2021](informations-generales-et-legales/incidents/difficulte-sur-la-plateforme-le-mercredi-17-mars-2021.md)
+  * [Incident de production du 29 avril 2021](informations-generales-et-legales/incidents/incident-de-production-du-29-avril-2021.md)
+  * [Incident de production du 7 septembre 2021](informations-generales-et-legales/incidents/incident-de-production-du-7-septembre-2021.md)
 

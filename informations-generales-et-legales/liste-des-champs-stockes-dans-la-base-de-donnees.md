@@ -108,7 +108,7 @@ Dernière mise à jour : 07/12/2020
 * Date et heure de début
 * dates et heures de création et de dernière modification
 * Date et heure d'annulation
-* Statut \(cf [États de rendez-vous](statut-de-rendez-vous.md#status-en-base-et-dans-les-apis)\)
+* Statut \(cf [États de rendez-vous](../guide-pour-un-charge-dinformatique/statut-de-rendez-vous.md#status-en-base-et-dans-les-apis)\)
 * Adresse
 * Créé par : agent / usager
 * Notes libres de contexte
