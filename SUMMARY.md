@@ -24,7 +24,6 @@
 * [Rituels](guide-pour-un-referent/rituels.md)
 * [Data.insertion aka RDV-Insertion](guide-pour-un-referent/data.insertion-aka-rdv-insertion.md)
 * [Gouvernance](guide-pour-un-referent/gouvernance.md)
-* [Flux de production](guide-pour-un-referent/flux-de-production.md)
 
 ## Guide pour un chargé d'informatique
 

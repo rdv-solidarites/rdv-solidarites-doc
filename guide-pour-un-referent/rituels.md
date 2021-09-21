@@ -35,5 +35,15 @@ Une fois terminé, un compte rendu est réalisé à partir des notes prises dura
 
 Pour le moment, le compte rendu est posté sur le forum, dans la catégorie évènement. Aujourd'hui, il serait intéressant de l'envoyer par email également. Demain, il sera peut-être plus intéressant de le mettre dans la documentation...
 
+### Livraison en production
+
+Le jeudi, les modifications qui ont été présentées le mardi, sont livrées dans l'environnement de production.
+
+Si nous avons besoin de plus de temps pour tester ces modifications, ou pour avertir les personnes utilisant l'application, nous pouvons en parler lors de la réunion référente du mardi.
+
+Si nous détectons un problème majeur sur ces modifications entre le mardi et le jeudi, nous pouvons demander à reporter la mise en production.
+
+Il existe une procédure d'urgence permettant de mettre en production rapidement des corrections si nécessaire.
+
 
 

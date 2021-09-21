@@ -36,8 +36,6 @@ description: >-
 
 {% page-ref page="guide-pour-un-referent/gouvernance.md" %}
 
-{% page-ref page="guide-pour-un-referent/flux-de-production.md" %}
-
 ## Je suis en charge de l'informatique <a id="je-suis-en-charge-de-linformatique"></a>
 
 ## Informations générales et légales <a id="informations-generales-et-legales"></a>
