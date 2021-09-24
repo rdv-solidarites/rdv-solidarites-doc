@@ -16,8 +16,8 @@ Nous avons des problèmes de performance depuis quelques semaines; globalement, 
   * 15:23, 15:25, 15:27: Tentatives de scale et de redémarrage manuel de 5 instances L à 5 instances XL. Sans effet: erreurs côté Scalingo.
   * environ 15:30: Contact du support Scalingo.
   * 16:04:59: alerte de updown.io indiquant que le site n’est plus accessible
-  * 16:08, 16:12, 16:16, 16:18 :alertes de Michèle M., Sophie N, Clarisse B, Elise F. \(Merci!\)
-  * 16:17: email de Nicolas B. à toustes les référentes signalant la panne \(et la prise en compte\)
+  * 16:08, 16:12, 16:16, 16:18 :alertes de Michèle M., Sophie N, Clarisse B, Elise F. Merci !
+  * 16:17: email de Nicolas B. à toustes les référentes pour signaler la panne, et sa prise en charge.
   * 16:17: suppression de l’autoscaler
   * 16:12, 16:17, 16:19, 16:20: autre tentatives de scale et redémarrage manuel
   * 16:21: lancement d’un nouveau déploiement de la production à partir du code. Il fonctionne en 4 minutes 21.
