@@ -24,7 +24,7 @@ Nous avons des problèmes de performance depuis quelques semaines; globalement, 
   * 16:26: updown.io indique que le site est accessible à nouveau
   * 16:41: email de Nicolas indiquant le retour en ligne
 * Jeudi
-  * Scale manuel de 5 instances L à 5 instances XL
+  * 8:15: Scale manuel de 5 instances L à 5 instances XL
   * Tout au long de la journée, quelques crashes de l’instance jobs, redémarrée automatiquement par Scalingo
 * Vendredi
   * 12:12: échec d’un déploiement en production, à cause de l’épuisement des connections à la base de données
