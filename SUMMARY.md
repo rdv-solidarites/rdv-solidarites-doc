@@ -86,7 +86,8 @@
 * [Liste des champs stockés dans la base de données](informations-generales-et-legales/liste-des-champs-stockes-dans-la-base-de-donnees.md)
 * [Point de situation de l'équipe au 23 avril 2021](informations-generales-et-legales/point-de-situation-de-lequipe-au-23-avril-2021.md)
 * [Incidents](informations-generales-et-legales/incidents/README.md)
-  * [Difficulté sur la plateforme le mercredi 17 mars 2021](informations-generales-et-legales/incidents/difficulte-sur-la-plateforme-le-mercredi-17-mars-2021.md)
-  * [Incident de production du 29 avril 2021](informations-generales-et-legales/incidents/incident-de-production-du-29-avril-2021.md)
+  * [Incident de production du 22 septembre 2021](informations-generales-et-legales/incidents/incident-de-production-du-22-septembre-2021.md)
   * [Incident de production du 7 septembre 2021](informations-generales-et-legales/incidents/incident-de-production-du-7-septembre-2021.md)
+  * [Incident de production du 29 avril 2021](informations-generales-et-legales/incidents/incident-de-production-du-29-avril-2021.md)
+  * [Difficulté sur la plateforme le mercredi 17 mars 2021](informations-generales-et-legales/incidents/difficulte-sur-la-plateforme-le-mercredi-17-mars-2021.md)
 
