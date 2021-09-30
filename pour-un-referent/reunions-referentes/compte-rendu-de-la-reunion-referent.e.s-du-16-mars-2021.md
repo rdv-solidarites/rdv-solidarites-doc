@@ -1,4 +1,4 @@
-# Compte rendu de la réunion référent.e.s du 16 Mars 2021
+# Réunion référentes du 16 mars 2021
 
 ### Démo Produit
 

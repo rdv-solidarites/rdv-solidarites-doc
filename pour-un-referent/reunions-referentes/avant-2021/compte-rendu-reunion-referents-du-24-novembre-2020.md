@@ -1,4 +1,4 @@
-# Compte rendu Réunion Référents du 24 novembre 2020
+# Réunion Référents du 24 novembre 2020
 
 ### Point d’étape gouvernance projet
 

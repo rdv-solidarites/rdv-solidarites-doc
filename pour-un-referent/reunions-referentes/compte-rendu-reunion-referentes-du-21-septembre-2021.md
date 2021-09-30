@@ -1,4 +1,4 @@
-# Compte Rendu Réunion référentes du 21 septembre 2021
+# Réunion référentes du 21 septembre 2021
 
 ### Démo en recette
 
