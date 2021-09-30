@@ -6,6 +6,15 @@ description: >-
 
 # Dernières nouveautés
 
+## Du vendredi 24 au jeudi 30 septembre
+
+*  [Ajout du nom de la commune dans les exports de RDV \#1638](https://github.com/betagouv/rdv-solidarites.fr/issues/1638)
+*  [Corriger l’envoi des SMS de rappels \#1749](https://github.com/betagouv/rdv-solidarites.fr/issues/1749)
+*  [Lien depuis configuration de motifs vers la sectorisation \#1347](https://github.com/betagouv/rdv-solidarites.fr/issues/1347)
+*  [Ajouter une zone de pagination en bas de l'index des motifs \#1726](https://github.com/betagouv/rdv-solidarites.fr/issues/1726)
+*  [Afficher la liste des motifs déjà configuré dans le tunnel de prise de RDV de l'organisation MDPH \#1734](https://github.com/betagouv/rdv-solidarites.fr/issues/1734)
+*  [Trouver un créneau côté agent depuis un smartphone \#1674](https://github.com/betagouv/rdv-solidarites.fr/issues/1674)
+
 ## Du mardi 31 août au jeudi 23 septembre
 
 * [ \[Home\] Affiche les services disponible \#1701 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1701)
