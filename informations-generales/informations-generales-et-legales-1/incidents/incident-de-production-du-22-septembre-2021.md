@@ -1,4 +1,11 @@
-# Incident de production du 22 septembre 2021
+---
+description: >-
+  Cette page décrit une situation au 22 septembre. Elle est à compléter pour
+  inclure l'ensemble des travaux et difficultés lié à ces problèmes de
+  performances
+---
+
+# Incident de septembre 2021
 
 ### Incident
 
@@ -6,7 +13,7 @@ Le site a été très lent dans l’après-midi, puis inaccessible pendant envir
 
 ### Contexte
 
-Nous avons des problèmes de performance depuis quelques semaines; globalement, pendant les heures de bureau, le temps d’accès au site augmente de façon significative. Nous avons activé l’« autoscale » des instances web chez notre hébergeur Scalingo en début de semaine. L’autoscale est configuré pour passer automatiquement de 2 à 5 instances web. Ce sont des instances L, avec un 1GB de mémoire. En pointe, ces instances consomment beaucoup, et atteignent rapidement la limite \(et donc swappent\). Nous étions depuis le début de la semaine en train de préparer des optimisations de performances.
+Nous avons des problèmes de performance depuis quelques semaines ; globalement, pendant les heures de bureau, le temps d’accès au site augmente de façon significative. Nous avons activé l’« autoscale » des instances web chez notre hébergeur Scalingo en début de semaine. L’autoscale est configuré pour passer automatiquement de 2 à 5 instances web. Ce sont des instances L, avec un 1GB de mémoire. En pointe, ces instances consomment beaucoup, et atteignent rapidement la limite \(et donc swappent\). Nous étions depuis le début de la semaine en train de préparer des optimisations de performances.
 
 ### Chronologie
 

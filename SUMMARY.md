@@ -106,9 +106,9 @@
   * [Incidents](informations-generales/informations-generales-et-legales-1/incidents/README.md)
     * [Incident du 1er octobre 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-du-1er-octobre-2021.md)
     * [Incident du 29 septembre 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-du-29-septembre-2021.md)
-    * [Incident de production du 22 septembre 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-de-production-du-22-septembre-2021.md)
-    * [Incident de production du 7 septembre 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-de-production-du-7-septembre-2021.md)
-    * [Incident de production du 29 avril 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-de-production-du-29-avril-2021.md)
-    * [Difficulté sur la plateforme le mercredi 17 mars 2021](informations-generales/informations-generales-et-legales-1/incidents/difficulte-sur-la-plateforme-le-mercredi-17-mars-2021.md)
+    * [Incident de septembre 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-de-production-du-22-septembre-2021.md)
+    * [Incident du 7 septembre 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-de-production-du-7-septembre-2021.md)
+    * [Incident du 29 avril 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-de-production-du-29-avril-2021.md)
+    * [Incident du 17 mars 2021](informations-generales/informations-generales-et-legales-1/incidents/difficulte-sur-la-plateforme-le-mercredi-17-mars-2021.md)
 * [Dernières nouveautés](informations-generales/dernieres-nouveautes.md)
 
