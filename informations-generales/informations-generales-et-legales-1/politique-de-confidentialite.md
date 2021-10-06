@@ -14,7 +14,7 @@ La plateforme sert à collecter des données à caractère personnel pour organi
 
 La plateforme peut traiter les données à caractère personnel suivantes :
 
-* **Données relatives au compte Agent** : Nom, prénom, adresse mail professionnelle  ;
+* **Données relatives au compte Agent** : Nom, prénom, adresse mail professionnelle de manière obligatoire, et le rôle de manière facultative  ;
 * **Données relatives au compte Usager** : Nom, prénom, adresse e-mail, numéro de téléphone, adresse, caisse d'affiliation, situation familiale, numéro d'allocataire, nombre d'enfants ;
 * **Données relatives à la fiche "Nouvel Usager" - Responsable** : Nom, prénom, nom de naissance, date de naissance, adresse e-mail, numéro de téléphone, adresse, champ "remarques", caisse d'affiliation, numéro d'allocataire, situation familiale, nombre d'enfants, modalités de logement \(SDS, propriétaire, hébergé, locataire, en accession à la propriété\) ; 
 * **Données relatives à la fiche "Nouvel Usager" - Proche** : Nom, prénom, date de naissance, champ "remarques", informations relatives à l'Usager "Type Responsable" ;
@@ -33,27 +33,27 @@ Les données traitées à l’occasion de ce traitement ont plusieurs fondements
 
 Ces fondements sont précisés ci-dessous :
 
-a\) Les données relatives au compte professionnel
+_a\) Les données relatives au compte professionnel_
 
 Ce traitement de données est nécessaire à l’exercice d’une mission d’intérêt public ou relevant de l’exercice de l’autorité publique dont est investi le responsable de traitement au sens de l’article 6-e du règlement \(UE\) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données.
 
-b\) Les données relatives au compte usager
+_b\) Les données relatives au compte usager_
 
 Ce traitement de données est nécessaire à l’exercice d’une mission d’intérêt public ou relevant de l’exercice de l’autorité publique dont est investi le responsable de traitement au sens de l’article 6-e du règlement \(UE\) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données.
 
-c\) Les données relatives à la fiche "Nouvel Usager" - Responsable
+_c\) Les données relatives à la fiche "Nouvel Usager" - Responsable_
 
 Ce traitement de données est nécessaire à l’exercice d’une mission d’intérêt public ou relevant de l’exercice de l’autorité publique dont est investi le responsable de traitement au sens de l’article 6-e du règlement \(UE\) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données.
 
-d\) Les données relatives à la fiche "Nouvel Usager" - Proche
+_d\) Les données relatives à la fiche "Nouvel Usager" - Proche_
 
 Ce traitement de données est nécessaire à l’exercice d’une mission d’intérêt public ou relevant de l’exercice de l’autorité publique dont est investi le responsable de traitement au sens de l’article 6-e du règlement \(UE\) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données.
 
-e\) Les données de localisation
+_e\) Les données de localisation_
 
 Ce traitement de données est nécessaire à l’exercice d’une mission d’intérêt public ou relevant de l’exercice de l’autorité publique dont est investi le responsable de traitement au sens de l’article 6-e du règlement \(UE\) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données.
 
-f\) Données d'hébergeur
+_f\) Données d'hébergeur_
 
 Ce traitement de données est nécessaire au respect d’une obligation légale à laquelle le responsable du traitement est soumis au sens de l’article 6-c du règlement \(UE\) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données.
 
@@ -62,7 +62,7 @@ L’obligation légale est posée par :
 * [la loi LCEN n°2004-575 du 21 juin 2004 pour la confiance dans l’économie numérique](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000801164/2020-10-26/) ;
 * [les articles 1 et 3 du décret n°2011-219 du 25 février 2011](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000023646013/).
 
-g\) Cookies
+_g\) Cookies_
 
 Voir la partie sur les cookies ci-après. 
 
@@ -72,8 +72,8 @@ Les données à caractère personnel sont conservées :
 
 | Types de données | Durées de conservation |
 | :--- | :--- |
-| Données relatives au compte Agent | Les données sont conservées jusqu'à la suppression du compte professionnel. |
-| Données relatives au compte Usager | Les données sont conservées jusqu'à la suppression du compte usager. |
+| Données relatives au compte Agent | Les données sont conservées jusqu'à la suppression du compte professionnel, ou 2 ans après l’inactivité du compte. |
+| Données relatives au compte Usager | Les données sont conservées jusqu'à la suppression du compte usager, ou 2 ans après l’inactivité du compte. |
 | Données relatives à la fiche "Nouvel Usager" - Responsable | Les données sont conservées jusqu'à la création d'un compte usager, dans un délai maximum de 2 ans à compter de la création de la fiche. |
 | Données relatives à la fiche "Nouvel Usager" - Proche | Les données sont conservées jusqu'à la création d'un compte usager, dans un délai de 3 ans à compter de la création de la fiche. |
 | Données de localisation | Les données sont supprimées à compter de la prise de rendez-vous. |
@@ -91,7 +91,7 @@ Vous disposez des droits suivants concernant vos données à caractère personne
 
 Pour les exercer, faites-nous parvenir une demande en précisant la date et l’heure précise de la requête - ces éléments sont indispensables pour nous permettre de retrouver votre recherche - par voie électronique à l’adresse suivante :
 
-contact@rdv-solidarités.fr
+**contact@rdv-solidarités.fr**
 
 ou par voie postale :
 
@@ -120,6 +120,7 @@ Certaines données sont envoyées à des sous-traitants pour réaliser certaines
 | :--- | :--- | :--- | :--- |
 | Outscale SASU | Hébergement | France | [https://fr.outscale.com/wp-content/uploads/2020/10/Outscale-CGV-2020-09.pdf](https://fr.outscale.com/wp-content/uploads/2020/10/Outscale-CGV-2020-09.pdf) |
 | Sendinblue | Envoi de mails | France | [https://fr.sendinblue.com/rgpd/](https://fr.sendinblue.com/rgpd/) |
+| LinkMobility | Envoi de SMS | France | [https://linkmobility.fr/wp-content/uploads/sites/12/2021/05/Notice-dinformation-sur-la-protection-des-donnees-FR-31032021-1.pdf ](https://linkmobility.fr/wp-content/uploads/sites/12/2021/05/Notice-dinformation-sur-la-protection-des-donnees-FR-31032021-1.pdf%20) |
 
 **Sécurité et confidentialité des données**
 
