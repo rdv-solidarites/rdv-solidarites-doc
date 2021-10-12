@@ -2,9 +2,9 @@
 
 * [Guides et ressources de RDV-Solidarités](README.md)
 
-## Les guides d'utilisation <a id="guide-utilisation"></a>
+## Les guides d'utilisation <a href="guide-utilisation" id="guide-utilisation"></a>
 
----
+***
 
 * [Pour les agents](pour-les-agents/README.md)
   * [Comment démarrer sur RDV-solidarités ?](pour-les-agents/tutoriel/README.md)
@@ -58,21 +58,22 @@
   * [Data.insertion aka RDV-Insertion](pour-un-referent/data.insertion-aka-rdv-insertion.md)
   * [Gouvernance](pour-un-referent/gouvernance.md)
   * [Réunions Référentes](pour-un-referent/reunions-referentes/README.md)
+    * [Réunion référentes du 12 octobre 2021](pour-un-referent/reunions-referentes/reunion-referentes-du-12-octobre-2021.md)
+    * [Réunion référentes du 5 octobre 2021](pour-un-referent/reunions-referentes/reunion-referentes-du-5-octobre-2021.md)
+    * [Réunion référentes du 28 septembre 2021](pour-un-referent/reunions-referentes/reunion-referentes-du-28-septembre-2021.md)
+    * [Réunion référentes du 21 septembre 2021](pour-un-referent/reunions-referentes/compte-rendu-reunion-referentes-du-21-septembre-2021.md)
+    * [Réunion Référents du 25 mai 2021](pour-un-referent/reunions-referentes/reunion-referents-du-25-mai-2021.md)
+    * [Réunion référent.e du 11 mai 2021](pour-un-referent/reunions-referentes/reunion-referent.e-du-11-mai-2021.md)
+    * [Réunion référent.e du 4 mai 2021](pour-un-referent/reunions-referentes/reunion-referent.e-du-4-mai-2021.md)
+    * [Réunion référente du 27 avril 2021](pour-un-referent/reunions-referentes/reunion-referente-du-27-avril-2021.md)
+    * [Réunion référentes du 16 mars 2021](pour-un-referent/reunions-referentes/compte-rendu-de-la-reunion-referent.e.s-du-16-mars-2021.md)
+    * [Réunion référents du mardi 16 février 2021](pour-un-referent/reunions-referentes/reunion-referents-du-mardi-16-fevrier-2021.md)
+    * [Réunion référentes du mardi 2 février 2021](pour-un-referent/reunions-referentes/compte-rendu-reunion-referents-du-mardi-2-02.md)
+    * [Réunion Référents du 19 janvier 2021](pour-un-referent/reunions-referentes/reunion-referents-du-19-janvier-2021.md)
     * [Avant 2021](pour-un-referent/reunions-referentes/avant-2021/README.md)
       * [Réunion Référents du 24 novembre 2020](pour-un-referent/reunions-referentes/avant-2021/compte-rendu-reunion-referents-du-24-novembre-2020.md)
       * [Réunion référentes 3 décembre 2019](pour-un-referent/reunions-referentes/avant-2021/reunion-referents-n-12-03-decembre-2019.md)
       * [Réunion référentes du 8 décembre 2020](pour-un-referent/reunions-referentes/avant-2021/reunion-referent-du-8-decembre-2020.md)
-    * [Réunion référentes du 5 octobre 2021](pour-un-referent/reunions-referentes/reunion-referentes-du-5-octobre-2021.md)
-    * [Réunion référentes du 28 septembre 2021](pour-un-referent/reunions-referentes/reunion-referentes-du-28-septembre-2021.md)
-    * [Réunion référentes du 21 septembre 2021](pour-un-referent/reunions-referentes/compte-rendu-reunion-referentes-du-21-septembre-2021.md)
-    * [Réunion référents du mardi 16 février 2021](pour-un-referent/reunions-referentes/reunion-referents-du-mardi-16-fevrier-2021.md)
-    * [Réunion Référents du 19 janvier 2021](pour-un-referent/reunions-referentes/reunion-referents-du-19-janvier-2021.md)
-    * [Réunion référentes du mardi 2 février 2021](pour-un-referent/reunions-referentes/compte-rendu-reunion-referents-du-mardi-2-02.md)
-    * [Réunion référentes du 16 mars 2021](pour-un-referent/reunions-referentes/compte-rendu-de-la-reunion-referent.e.s-du-16-mars-2021.md)
-    * [Réunion référente du 27 avril 2021](pour-un-referent/reunions-referentes/reunion-referente-du-27-avril-2021.md)
-    * [Réunion référent.e du 4 mai 2021](pour-un-referent/reunions-referentes/reunion-referent.e-du-4-mai-2021.md)
-    * [Réunion référent.e du 11 mai 2021](pour-un-referent/reunions-referentes/reunion-referent.e-du-11-mai-2021.md)
-    * [Réunion Référents du 25 mai 2021](pour-un-referent/reunions-referentes/reunion-referents-du-25-mai-2021.md)
 * [Pour un chargé informatique](pour-un-charge-informatique/README.md)
   * [Hébergement & sécurité](pour-un-charge-informatique/hebergement-and-securite.md)
   * [Interconnexions aperçu](pour-un-charge-informatique/interconnexions-apercu.md)
@@ -112,4 +113,3 @@
     * [Incident du 29 avril 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-de-production-du-29-avril-2021.md)
     * [Incident du 17 mars 2021](informations-generales/informations-generales-et-legales-1/incidents/difficulte-sur-la-plateforme-le-mercredi-17-mars-2021.md)
 * [Dernières nouveautés](informations-generales/dernieres-nouveautes.md)
-
