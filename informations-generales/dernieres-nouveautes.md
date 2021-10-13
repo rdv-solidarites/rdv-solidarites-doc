@@ -6,22 +6,29 @@ description: >-
 
 # Dernières nouveautés
 
-## Du vendredi 24 au jeudi 30 septembre
+### Du vendredi 1er au mardi 12 octobre
 
-*  [Ajout du nom de la commune dans les exports de RDV \#1638](https://github.com/betagouv/rdv-solidarites.fr/issues/1638)
-*  [Corriger l’envoi des SMS de rappels \#1749](https://github.com/betagouv/rdv-solidarites.fr/issues/1749)
-*  [Lien depuis configuration de motifs vers la sectorisation \#1347](https://github.com/betagouv/rdv-solidarites.fr/issues/1347)
-*  [Ajouter une zone de pagination en bas de l'index des motifs \#1726](https://github.com/betagouv/rdv-solidarites.fr/issues/1726)
-*  [Afficher la liste des motifs déjà configuré dans le tunnel de prise de RDV de l'organisation MDPH \#1734](https://github.com/betagouv/rdv-solidarites.fr/issues/1734)
-*  [Trouver un créneau côté agent depuis un smartphone \#1674](https://github.com/betagouv/rdv-solidarites.fr/issues/1674)
+* [Nettoyer service PMI pour la Somme #1748](https://github.com/betagouv/rdv-solidarites.fr/issues/1748)
+* [Indiquer l’horaire du créneau choisi pendant toutes les étapes du tunnel de création de Rdv #1706](https://github.com/betagouv/rdv-solidarites.fr/issues/1706)
+* [Mettre à jour les libellés de motifs de l’environnent de démo #1704](https://github.com/betagouv/rdv-solidarites.fr/issues/1704)
+* [Éviter le timeout en cas d’erreur de connexion superadmin #1764](https://github.com/betagouv/rdv-solidarites.fr/issues/1764)
 
-## Du mardi 31 août au jeudi 23 septembre
+### Du vendredi 24 au jeudi 30 septembre
 
-* [ \[Home\] Affiche les services disponible \#1701 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1701)
-* [ Ne pas afficher le prénom des agents dans les notifications aux usagers \#1697 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1697)
-* [ Faire un connecteur SMS pour la Somme \(80\) \#1664 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1664)
+*  [Ajout du nom de la commune dans les exports de RDV #1638](https://github.com/betagouv/rdv-solidarites.fr/issues/1638)
+*  [Corriger l’envoi des SMS de rappels #1749](https://github.com/betagouv/rdv-solidarites.fr/issues/1749)
+*  [Lien depuis configuration de motifs vers la sectorisation #1347](https://github.com/betagouv/rdv-solidarites.fr/issues/1347)
+*  [Ajouter une zone de pagination en bas de l'index des motifs #1726](https://github.com/betagouv/rdv-solidarites.fr/issues/1726)
+*  [Afficher la liste des motifs déjà configuré dans le tunnel de prise de RDV de l'organisation MDPH #1734](https://github.com/betagouv/rdv-solidarites.fr/issues/1734)
+*  [Trouver un créneau côté agent depuis un smartphone #1674](https://github.com/betagouv/rdv-solidarites.fr/issues/1674)
 
-## Du mardi 25 août au lundi 30 août
+### Du mardi 31 août au jeudi 23 septembre
+
+* [ \[Home\] Affiche les services disponible #1701 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1701)
+* [ Ne pas afficher le prénom des agents dans les notifications aux usagers #1697 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1697)
+* [ Faire un connecteur SMS pour la Somme (80) #1664 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1664)
+
+### Du mardi 25 août au lundi 30 août
 
 * [Corriger la compatibilité des status envoyés par les webhooks](https://github.com/betagouv/rdv-solidarites.fr/issues/1657)
 * [Message d'erreur compréhensible à propos de la date en dehors de la période autorisée](https://github.com/betagouv/rdv-solidarites.fr/issues/1659)
@@ -34,104 +41,104 @@ description: >-
 * [Limiter la pose de rendez-vous dans le futur](https://github.com/betagouv/rdv-solidarites.fr/issues/1600)
 * [Afficher correctement les absences récurrentes dans l’onglet “En cours”](https://github.com/betagouv/rdv-solidarites.fr/issues/1613)
 * [Préciser qui est à l'initiative de l'annulation du rendez-vous](https://github.com/betagouv/rdv-solidarites.fr/issues/1551)
-* [Ajouter un connecteur pour SFR \(92\)](https://github.com/betagouv/rdv-solidarites.fr/issues/1589)
+* [Ajouter un connecteur pour SFR (92)](https://github.com/betagouv/rdv-solidarites.fr/issues/1589)
 
 ## Du mardi 10 août au lundi 16 août
 
-* [Statistiques par département](https://github.com/betagouv/rdv-solidarites.fr/issues/1077) \(metabase\)
+* [Statistiques par département](https://github.com/betagouv/rdv-solidarites.fr/issues/1077) (metabase)
 * [Préciser qui est à l'initiative de l'annulation du rendez-vous](https://github.com/betagouv/rdv-solidarites.fr/issues/1551)
 * [L'annulation par l'administration ne libère pas le créneau](https://github.com/betagouv/rdv-solidarites.fr/issues/1629)
 
 ## Du mardi 27 juillet au lundi 9 août
 
-* [Focus sur le champ de recherche \#1595](https://github.com/betagouv/rdv-solidarites.fr/issues/1595)
-* [ Ajouter les dates de naissance et age dans les listes déroulantes de sélection d'usager \#1603 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1603)
-* [La modificaiton d'un usager depuis le tunnel de prise de rendez-vous crée un doublon \#1606 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1606)
-* [Impossible de supprimer un usager proche \#1605 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1605)
-* [ Connecteur pour le 77 \#1599 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1599)
-* [ Zone de recherche pas accessible dans la liste des responsables \#1604 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1604)
+* [Focus sur le champ de recherche #1595](https://github.com/betagouv/rdv-solidarites.fr/issues/1595)
+* [ Ajouter les dates de naissance et age dans les listes déroulantes de sélection d'usager #1603 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1603)
+* [La modificaiton d'un usager depuis le tunnel de prise de rendez-vous crée un doublon #1606 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1606)
+* [Impossible de supprimer un usager proche #1605 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1605)
+* [ Connecteur pour le 77 #1599 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1599)
+* [ Zone de recherche pas accessible dans la liste des responsables #1604 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1604)
 
 ## Du mardi 20 au lundi 26 juillet
 
-* [ Problème à la création d'un usager en doublon sur le téléphone \#1594 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1594)
-* [ Corriger la redirection après identification FranceConnect \#1584 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1584)
+* [ Problème à la création d'un usager en doublon sur le téléphone #1594 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1594)
+* [ Corriger la redirection après identification FranceConnect #1584 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1584)
 
 ## Du mardi 13 au lundi 19 juillet
 
-* [ Création et suppression d'absence sans titre \#1574 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1574)
-* [ Réduire l'usage de la suppression de RDV \#1043 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1043)
-* [ Mettre en place un connecteur pour le fournisseur de SMS Contact Expérience \#1571 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1571)
-* [ Rechercher un usager sans voir la liste complète \#1348 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1348)
-* [ Ne pas afficher le nom et prénom de l'usager dans le fichier ICS \#1587 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1587)
+* [ Création et suppression d'absence sans titre #1574 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1574)
+* [ Réduire l'usage de la suppression de RDV #1043 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1043)
+* [ Mettre en place un connecteur pour le fournisseur de SMS Contact Expérience #1571 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1571)
+* [ Rechercher un usager sans voir la liste complète #1348 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1348)
+* [ Ne pas afficher le nom et prénom de l'usager dans le fichier ICS #1587 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1587)
 
 ## Du mardi 6 au 12 juillet
 
-* [Indiquer dans les SMS quel proche est concerné par le RDV \#1062](https://github.com/betagouv/rdv-solidarites.fr/issues/1062)
-* [Ajouter le nom de l'agent dans la notification \#1402](https://github.com/betagouv/rdv-solidarites.fr/issues/1402)
-* [Afficher la durée du rendez-vous \#1555](https://github.com/betagouv/rdv-solidarites.fr/issues/1555)
-* [Supprimer les blancs avant et après les noms et prénoms \#1161](https://github.com/betagouv/rdv-solidarites.fr/issues/1161)
+* [Indiquer dans les SMS quel proche est concerné par le RDV #1062](https://github.com/betagouv/rdv-solidarites.fr/issues/1062)
+* [Ajouter le nom de l'agent dans la notification #1402](https://github.com/betagouv/rdv-solidarites.fr/issues/1402)
+* [Afficher la durée du rendez-vous #1555](https://github.com/betagouv/rdv-solidarites.fr/issues/1555)
+* [Supprimer les blancs avant et après les noms et prénoms #1161](https://github.com/betagouv/rdv-solidarites.fr/issues/1161)
 
 ## Du mardi 29 juin au lundi 5 juillet
 
-* [ Contacter l'équipe sur son email directement \#1465 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1465)
-* [ Corriger l’accès à la modification des référents des usagers \#1561 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1561)
-* [ Comprendre pourquoi la synchronisation de mise à jour et suppression de plage d'ouverture et absence \#1354 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1354)
-* [ Afficher la liste des usages en commençant par le NOM puis le Prénom, dans le tunnel de prise de RDV \#1549 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1549)
-* [ Afficher des liens cliquables dans la confirmation d'annulation \#1534 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1534)
+* [ Contacter l'équipe sur son email directement #1465 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1465)
+* [ Corriger l’accès à la modification des référents des usagers #1561 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1561)
+* [ Comprendre pourquoi la synchronisation de mise à jour et suppression de plage d'ouverture et absence #1354 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1354)
+* [ Afficher la liste des usages en commençant par le NOM puis le Prénom, dans le tunnel de prise de RDV #1549 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1549)
+* [ Afficher des liens cliquables dans la confirmation d'annulation #1534 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1534)
 
 ## Du mardi 22 au lundi 28 juin
 
-* [ Organiser les noms et prénom des agents pour rendre cohérent l'affichage du tri \#1467 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1467)
-* [ Supprimer Zammad \#1398 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1398)
-* [ Afficher uniquement les lieux ouverts \#1530 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1530)
-* [ Ne pas envoyer les notifications de changement de Rdv systématiquement \#1537 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1537)
-* [ Corriger les tests de features \#1493 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1493)
-* [ Réponse API quand record non existant \#1336 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1336)
-* [ Modifier des référents d'usager sans supprimer ceux des autres services \#1405 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1405)
-* [ Distinguer la démo / formation de la prod \#1058 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1058)
-* [ Améliorer l’API des absences \#1507 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1507)
+* [ Organiser les noms et prénom des agents pour rendre cohérent l'affichage du tri #1467 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1467)
+* [ Supprimer Zammad #1398 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1398)
+* [ Afficher uniquement les lieux ouverts #1530 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1530)
+* [ Ne pas envoyer les notifications de changement de Rdv systématiquement #1537 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1537)
+* [ Corriger les tests de features #1493 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1493)
+* [ Réponse API quand record non existant #1336 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1336)
+* [ Modifier des référents d'usager sans supprimer ceux des autres services #1405 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1405)
+* [ Distinguer la démo / formation de la prod #1058 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1058)
+* [ Améliorer l’API des absences #1507 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1507)
 
 ## Du mardi 15 au lundi 21 juin
 
-* [ Classer les proches par age \#1520 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1520)
-* [ Remettre en place les statistiques individuelles \#1522 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1522)
-* [ Inclure la commune de l'usager responsable dans l'export \#1187 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1187)
-* [ Afficher correctement le nom dans le titre \#1439 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1439)
-* [ Utiliser le numéro de téléphone du lieu, si disponible, dans tous les sms \#1508 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1508)
+* [ Classer les proches par age #1520 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1520)
+* [ Remettre en place les statistiques individuelles #1522 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1522)
+* [ Inclure la commune de l'usager responsable dans l'export #1187 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1187)
+* [ Afficher correctement le nom dans le titre #1439 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1439)
+* [ Utiliser le numéro de téléphone du lieu, si disponible, dans tous les sms #1508 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1508)
 
 ## Du mardi 8 au lundi 14 juin
 
-* [ Envoyer les notifications d'annulation d'un rendez-vous, même s'il a été supprimé avant l'envoi \#1361 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1361)
-* [ Création de la page "Déclaration d'accessibilité" \#1303 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1303)
-* [ Rendre les liens clickable dans les consignes de RDV \#1483 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1483)
-* [ Afficher le bon nombre de rendez-vous à renseigner dans le menu \#1495 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1495)
-* [ Rendez-vous déplacé au mauvais moment ! \#1479 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1479)
-* [ Créneau disponible sur deux services différents \#1446 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1446)
-* [ Disparition des anciennes plages d'ouverture \#1440 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1440)
-* [ Configuration des envois de SMS par territoire \#1408 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1408)
-* [ Comprendre pourquoi les webhook ne sont plus envoyez pour la Drôme sur la plateforme de démo \#1491 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1491)
-* [ Afficher correctement le nom dans le titre \#1439 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1439)
-* [ Utiliser le numéro de téléphone du lieu, si disponible, dans tous les sms \#1508 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1508)
+* [ Envoyer les notifications d'annulation d'un rendez-vous, même s'il a été supprimé avant l'envoi #1361 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1361)
+* [ Création de la page "Déclaration d'accessibilité" #1303 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1303)
+* [ Rendre les liens clickable dans les consignes de RDV #1483 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1483)
+* [ Afficher le bon nombre de rendez-vous à renseigner dans le menu #1495 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1495)
+* [ Rendez-vous déplacé au mauvais moment ! #1479 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1479)
+* [ Créneau disponible sur deux services différents #1446 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1446)
+* [ Disparition des anciennes plages d'ouverture #1440 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1440)
+* [ Configuration des envois de SMS par territoire #1408 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1408)
+* [ Comprendre pourquoi les webhook ne sont plus envoyez pour la Drôme sur la plateforme de démo #1491 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1491)
+* [ Afficher correctement le nom dans le titre #1439 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1439)
+* [ Utiliser le numéro de téléphone du lieu, si disponible, dans tous les sms #1508 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1508)
 
 ## Du mardi 1er au lundi 7 juin
 
-* [ Autoriser tous les numéros de téléphone valides \#1471 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1471)
+* [ Autoriser tous les numéros de téléphone valides #1471 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1471)
 
 ## Du mardi 20 mai au lundi 31 mai
 
 * [Rediriger vers la page de mon secteur dans la liste après une modification](https://github.com/betagouv/rdv-solidarites.fr/issues/1346)
 * [Avoir les règles de récurrence des absences dans le json du webhook](https://github.com/betagouv/rdv-solidarites.fr/issues/1399)
 * [Rendre visible les statistiques par organisation](https://github.com/betagouv/rdv-solidarites.fr/issues/1404)
-* [ Envoyer un email avec .ics à l'agent pour chaque RDV \#1059 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1059)
-* [Créer une méthode generate\_short\_invitation\_token pour les utilisateurs sans email](https://github.com/betagouv/rdv-solidarites.fr/issues/1472)
+* [ Envoyer un email avec .ics à l'agent pour chaque RDV #1059 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1059)
+* [Créer une méthode generate_short_invitation_token pour les utilisateurs sans email](https://github.com/betagouv/rdv-solidarites.fr/issues/1472)
 * [Erreurs 500 à l’affichage des versions d’un Rdv](https://github.com/betagouv/rdv-solidarites.fr/issues/1474)
 * [Comprendre pourquoi le changement de status d'un RDV échoue](https://github.com/betagouv/rdv-solidarites.fr/issues/1413)
 * [Empécher de créer un rendez-vous dans le passée](https://github.com/betagouv/rdv-solidarites.fr/issues/1427)
 
 ## Du mardi 4 mai au lundi 10 mai
 
-* [Agenda agents inter-organisations \#1185](https://github.com/betagouv/rdv-solidarites.fr/issues/1185)
-* [Numéro de téléphone d'un lieu bien présent dans le SMS \#1414](https://github.com/betagouv/rdv-solidarites.fr/issues/1414)
+* [Agenda agents inter-organisations #1185](https://github.com/betagouv/rdv-solidarites.fr/issues/1185)
+* [Numéro de téléphone d'un lieu bien présent dans le SMS #1414](https://github.com/betagouv/rdv-solidarites.fr/issues/1414)
 
 ## Du mardi 27 avril au lundi 3 mai
 
@@ -173,8 +180,8 @@ description: >-
 ## Jeudi 8 avril 2021
 
 * [Ajouter des validations de presence sur le nom et prenom des agents](https://github.com/betagouv/rdv-solidarites.fr/issues/1268)
-* [harmoniser les icones d'actions du tableau admin/agents\#index](https://github.com/betagouv/rdv-solidarites.fr/issues/1267)
-* [fix bug when rendering rdv\_upcoming\_reminder mail](https://github.com/betagouv/rdv-solidarites.fr/issues/1318)
+* [harmoniser les icones d'actions du tableau admin/agents#index](https://github.com/betagouv/rdv-solidarites.fr/issues/1267)
+* [fix bug when rendering rdv_upcoming_reminder mail](https://github.com/betagouv/rdv-solidarites.fr/issues/1318)
 
 ## Mardi 6 avril 2021
 
@@ -201,7 +208,7 @@ description: >-
 
 ## Mardi 23 mars 2021
 
-* [Améliorer l'affichage de la date \(jour et mois\) d'un RDV dans la notif SMS](https://github.com/betagouv/rdv-solidarites.fr/issues/1209)
+* [Améliorer l'affichage de la date (jour et mois) d'un RDV dans la notif SMS](https://github.com/betagouv/rdv-solidarites.fr/issues/1209)
 * [integrer le fichier de sectorisation a la rue de Calais du 62](https://github.com/betagouv/rdv-solidarites.fr/issues/1266)
 
 ## Lundi 22 mars 2021
@@ -232,7 +239,7 @@ description: >-
 
 ## Mercredi 3 mars 2021
 
-* [Changer le défaut du formulaire de création d'usager \(responsable -&gt; proche\) dans le tunnel de RDV agent pour le service PMI](https://github.com/betagouv/rdv-solidarites.fr/issues/1184)
+* [Changer le défaut du formulaire de création d'usager (responsable -> proche) dans le tunnel de RDV agent pour le service PMI](https://github.com/betagouv/rdv-solidarites.fr/issues/1184)
 
 ## Mardi 2 mars 2021
 
@@ -262,7 +269,7 @@ description: >-
 
 ### Mercredi 3 mars 2021
 
-* Changer le défaut du formulaire de création d'usager \(responsable -&gt; proche\) dans le tunnel de RDV agent pour le service PMI
+* Changer le défaut du formulaire de création d'usager (responsable -> proche) dans le tunnel de RDV agent pour le service PMI
 
 ### Mardi 2 mars 2021
 
@@ -321,7 +328,7 @@ description: >-
 ## Mardi 26 janvier 2021
 
 * [alerter en cas de chevauchement avec un autre RDV dans le tunnel RDV agent](https://github.com/betagouv/rdv-solidarites.fr/issues/1120)
-* [order admin/organisations\#index by alphabetical name](https://github.com/betagouv/rdv-solidarites.fr/issues/1141)
+* [order admin/organisations#index by alphabetical name](https://github.com/betagouv/rdv-solidarites.fr/issues/1141)
 
 ## Lundi 25 janvier 2021
 
@@ -354,7 +361,7 @@ description: >-
 
 ## Vendredi 8 janvier 2021
 
-* [problème de scope sur les blocs de RDVs dans admin/rdvs\#show et admin/users\#show](https://github.com/betagouv/rdv-solidarites.fr/issues/1030)
+* [problème de scope sur les blocs de RDVs dans admin/rdvs#show et admin/users#show](https://github.com/betagouv/rdv-solidarites.fr/issues/1030)
 * [rendre plus visible le lien pour modifier une invitation d'agent ](https://github.com/betagouv/rdv-solidarites.fr/issues/1068)
 
 ## Jeudi 7 janvier 2021
@@ -364,7 +371,7 @@ description: >-
 
 ## Mercredi 6 janvier 2021
 
-* [Valide le format \#RRGGBB de la couleur du motif](https://github.com/betagouv/rdv-solidarites.fr/issues/1082)
+* [Valide le format #RRGGBB de la couleur du motif](https://github.com/betagouv/rdv-solidarites.fr/issues/1082)
 
 ## Mardi 5 janvier 2021
 
@@ -372,9 +379,9 @@ description: >-
 
 ## Mercredi 30 décembre 2020
 
-* [Problème de contrastes sur l'agenda \(et les couleurs de motifs\)](https://trello.com/c/F0LCArHS/1116-probl%C3%A8me-de-contrastes-sur-lagenda-et-les-couleurs-de-motifs)
+* [Problème de contrastes sur l'agenda (et les couleurs de motifs)](https://trello.com/c/F0LCArHS/1116-probl%C3%A8me-de-contrastes-sur-lagenda-et-les-couleurs-de-motifs)
 * [réparer 4 motifs invalides en prod](https://trello.com/c/SZWQQEXd/1181-r%C3%A9parer-4-motifs-invalides-en-prod)
-* [Afficher le formulaire d'inscription usager par défaut \(plutot que celui de connexion\)](https://trello.com/c/23F6PWYU/1129-afficher-le-formulaire-dinscription-usager-par-d%C3%A9faut-plutot-que-celui-de-connexion)
+* [Afficher le formulaire d'inscription usager par défaut (plutot que celui de connexion)](https://trello.com/c/23F6PWYU/1129-afficher-le-formulaire-dinscription-usager-par-d%C3%A9faut-plutot-que-celui-de-connexion)
 
 ## Lundi 28 décembre 2020
 
@@ -474,7 +481,7 @@ description: >-
 
 * [corriger bug double connexion agent et usager](https://trello.com/c/jrZ94IC2)
 * [fusionner les differentes vues de listes de RDVs + corriger bug liste RDVs non filtrée par orga](https://trello.com/c/BIWPOzO6)
-* [envoyer le nom du lieu \(en plus de l'adresse\) dans les SMS et mails envoyés aux usagers](https://trello.com/c/zEMWzaqC)
+* [envoyer le nom du lieu (en plus de l'adresse) dans les SMS et mails envoyés aux usagers](https://trello.com/c/zEMWzaqC)
 
 ### Lundi 09 Novembre 2020
 
@@ -508,11 +515,11 @@ description: >-
 
 ### Jeudi 22 octobre 2020
 
-* [réparer cohérence des filtres appliqués sur les créneaux proposés coté usagers \(rdv suivis + location\_type\)](https://trello.com/c/6ysKq39q)
+* [réparer cohérence des filtres appliqués sur les créneaux proposés coté usagers (rdv suivis + location_type)](https://trello.com/c/6ysKq39q)
 
 ### Mercredi 21 octobre 2020
 
-* [Ajoute end\_day dans la représentation JSON des absences](https://trello.com/c/oCZq9gN5)
+* [Ajoute end_day dans la représentation JSON des absences](https://trello.com/c/oCZq9gN5)
 * [Réparation bug connexion user](https://trello.com/c/PykOOIfL)
 
 ### Mardi 20 octobre 2020
@@ -554,7 +561,7 @@ description: >-
 
 ### Lundi 5 octobre 2020
 
-* [améliorations UI dans nouveau layout user\_registration](https://trello.com/c/l3DQkHUm/1112-am%C3%A9liorations-ui-dans-nouveau-layout-userregistration)
+* [améliorations UI dans nouveau layout user_registration](https://trello.com/c/l3DQkHUm/1112-am%C3%A9liorations-ui-dans-nouveau-layout-userregistration)
 * [Modifier menu usager](https://trello.com/c/jpQlZ7pV/1106-modifier-menu-usager)
 
 ### Vendredi 2 octobre 2020
@@ -654,7 +661,7 @@ description: >-
 
 ### Lundi 31 août 2020
 
-* [renommer admin en super\_admin](https://trello.com/c/cg0CIpk8/1056-renommer-admin-en-superadmin)
+* [renommer admin en super_admin](https://trello.com/c/cg0CIpk8/1056-renommer-admin-en-superadmin)
 * [\[Fiche usager\] Afficher l'âge de l'enfant en mois jusqu'aux 36 mois](https://trello.com/c/eIqnMJaq/1045-fiche-usager-afficher-l%C3%A2ge-de-lenfant-en-mois-jusquaux-36-mois)
 
 ### Jeudi 27 août 2020
@@ -677,7 +684,7 @@ description: >-
 ### Mercredi 12 août 2020
 
 * [investiguer probleme datepicker sur les absences](https://trello.com/c/6JeDpvVn)
-* [\[agent\] reparer ouverture menu lateral pour users\#show et plage\_ouverture\#new](https://trello.com/c/fhCtioEr)
+* [\[agent\] reparer ouverture menu lateral pour users#show et plage_ouverture#new](https://trello.com/c/fhCtioEr)
 
 ### Mardi 11 août 2020
 
@@ -687,21 +694,21 @@ description: >-
 ### Jeudi 6 août 2020
 
 * [bump skylight + remove dev warning](https://trello.com/c/nRFadSy5)
-* [rendre les associations dans les tests plus deterministes \(plus de .first\)](https://trello.com/c/gJMG0HBY)
+* [rendre les associations dans les tests plus deterministes (plus de .first)](https://trello.com/c/gJMG0HBY)
 * [upgrade devise](https://trello.com/c/lOCByOyS)
 
 ### Mercredi 5 août 2020
 
 * [\[Agent\]\[rdv flow\] clarifier le libellé du bouton de choix d'un usager existant](https://trello.com/c/KtgcJanE)
 * [incoherence des filtres entre compteur RDV a venir et liste](https://trello.com/c/hCDhZfkF)
-* [user.soft\_delete devrait s'occuper des RDVs](https://trello.com/c/aUoAmzuL)
+* [user.soft_delete devrait s'occuper des RDVs](https://trello.com/c/aUoAmzuL)
 
 ### Mardi 4 août 2020
 
 * [remove selectize JS package dependency](https://trello.com/c/2vDHjGJ5)
 * [investigate flaky specs](https://trello.com/c/BxD7Om8R)
-* [Interconnexion rdv-sol vers Outlook \(RDV\) ajouter le type de RDV](https://trello.com/c/5w87iDZw)
-* [Interconnexion rdv-sol vers Outlook \(RDV\) ajouter le numéro de tél](https://trello.com/c/njHdVPIy)
+* [Interconnexion rdv-sol vers Outlook (RDV) ajouter le type de RDV](https://trello.com/c/5w87iDZw)
+* [Interconnexion rdv-sol vers Outlook (RDV) ajouter le numéro de tél](https://trello.com/c/njHdVPIy)
 
 ### Lundi 3 août 2020
 
@@ -747,16 +754,16 @@ description: >-
 
 ### Jeudi 16 juillet 2020
 
-* [\[agent\]\[trouver un créneau\] ajouter la même fonctionnalité que côté usager =&gt; affichage de la prochaine disponibilité](https://trello.com/c/vp8fSFwU/417-agenttrouver-un-cr%C3%A9neau-ajouter-la-m%C3%AAme-fonctionnalit%C3%A9-que-c%C3%B4t%C3%A9-usager-affichage-de-la-prochaine-disponibilit%C3%A9)
+* [\[agent\]\[trouver un créneau\] ajouter la même fonctionnalité que côté usager => affichage de la prochaine disponibilité](https://trello.com/c/vp8fSFwU/417-agenttrouver-un-cr%C3%A9neau-ajouter-la-m%C3%AAme-fonctionnalit%C3%A9-que-c%C3%B4t%C3%A9-usager-affichage-de-la-prochaine-disponibilit%C3%A9)
 
 ### Vendredi 10 juillet 2020
 
-* [\[Usager\] Etape vérifier mes informations =&gt; le champ logement apparaît 2 fois](https://trello.com/c/PpjN4DMc/984-usager-etape-v%C3%A9rifier-mes-informations-le-champ-logement-appara%C3%AEt-2-fois)
+* [\[Usager\] Etape vérifier mes informations => le champ logement apparaît 2 fois](https://trello.com/c/PpjN4DMc/984-usager-etape-v%C3%A9rifier-mes-informations-le-champ-logement-appara%C3%AEt-2-fois)
 * [\[agents\] garder la sélection de l'usager](https://trello.com/c/boJA0l8c/996-agents-garder-la-s%C3%A9lection-du-user)
 
 ### Jeudi 9 juillet 2020
 
-* [\[Agent\] harmoniser interface sélection dates dans les champs \(datepicker\)](https://trello.com/c/Cpb7njXc/967-agent-harmoniser-interface-s%C3%A9lection-dates-dans-les-champs-datepicker)
+* [\[Agent\] harmoniser interface sélection dates dans les champs (datepicker)](https://trello.com/c/Cpb7njXc/967-agent-harmoniser-interface-s%C3%A9lection-dates-dans-les-champs-datepicker)
 * [\[usager\] supprimer le numéro de tel du 62](https://trello.com/c/p1jB3VWn/993-usager-supprimer-le-num%C3%A9ro-de-tel-du-62)
 
 ### Lundi 6 juillet 2020
@@ -867,7 +874,7 @@ description: >-
 ### Mardi 2 juin 2020
 
 * [\[notification\] retirer notre domaine d'envoi des blacklists de spam depuis SIB](https://trello.com/c/VDwIx6Yq/884-notification-retirer-notre-domaine-denvoi-des-blacklists-de-spam-depuis-sib)
-* [\[agent\] \[Outlook\] la plage d'ouverture envoyée de rdv-solidarités vers Outlook n'apparaît pas dans l'outlook \(soit erreur à l'ouverture de la PJ/ soit ne s’intègre pas à l'Outlook\)](https://trello.com/c/wmYVeX4z/568-agent-outlook-la-plage-douverture-envoy%C3%A9e-de-rdv-solidarit%C3%A9s-vers-outlook-nappara%C3%AEt-pas-dans-loutlook-soit-erreur-%C3%A0-louverture-d)
+* [\[agent\] \[Outlook\] la plage d'ouverture envoyée de rdv-solidarités vers Outlook n'apparaît pas dans l'outlook (soit erreur à l'ouverture de la PJ/ soit ne s’intègre pas à l'Outlook)](https://trello.com/c/wmYVeX4z/568-agent-outlook-la-plage-douverture-envoy%C3%A9e-de-rdv-solidarit%C3%A9s-vers-outlook-nappara%C3%AEt-pas-dans-loutlook-soit-erreur-%C3%A0-louverture-d)
 * [\[agent\]\[stat\] export stats](https://trello.com/c/SrIAnvuR/882-agentstat-export-stats)
 * [\[agent\]\[agenda\] affichage des statuts de RDV](https://trello.com/c/d0RVVlVk/453-agentagenda-affichage-des-statuts-de-rdv)
 * [\[Bug\] Refresh agenda](https://trello.com/c/p6UeX5eV/879-bug-refresh-agenda)
@@ -914,13 +921,13 @@ description: >-
 
 * [\[agent\] bug rechargement lors du flow de prise rdv](https://trello.com/c/gfYBPsdQ/864-agent-bug-rechargement-lors-du-flow-de-prise-rdv)
 * [\[Agent\]\[vos statistiques globales\] les données contenus dans les histogrammes ne sont plus lisibles](https://trello.com/c/P1Tx7LoI/837-agentvos-statistiques-globales-les-donn%C3%A9es-contenus-dans-les-histogrammes-ne-sont-plus-lisibles)
-* [Améliorer le support des vieux navigateurs \(Chrome 49, Firefox 48\)](https://trello.com/c/TtroIl05/865-am%C3%A9liorer-le-support-des-vieux-navigateurs-chrome-49-firefox-48)
+* [Améliorer le support des vieux navigateurs (Chrome 49, Firefox 48)](https://trello.com/c/TtroIl05/865-am%C3%A9liorer-le-support-des-vieux-navigateurs-chrome-49-firefox-48)
 
 ### Mardi 12 mai 2020
 
 * [\[Agent\] Affichage de l'historique des modifications d'un RDV](https://trello.com/c/Of8YVaXo/469-agent-affichage-de-lhistorique-des-modifications-dun-rdv)
-* [\[agent\] enlever consignes rdv dans mail rdv\_created\_starts\_soon](https://trello.com/c/zj9U9Bl5/858-agent-enlever-consignes-rdv-dans-mail-rdvcreatedstartssoon)
-* [Bug \[agent\] prise de RDV =&gt; les notes libres ne s'enregistrent pas](https://trello.com/c/AVAA7q9I/854-bug-agent-prise-de-rdv-les-notes-libres-ne-senregistrent-pas)
+* [\[agent\] enlever consignes rdv dans mail rdv_created_starts_soon](https://trello.com/c/zj9U9Bl5/858-agent-enlever-consignes-rdv-dans-mail-rdvcreatedstartssoon)
+* [Bug \[agent\] prise de RDV => les notes libres ne s'enregistrent pas](https://trello.com/c/AVAA7q9I/854-bug-agent-prise-de-rdv-les-notes-libres-ne-senregistrent-pas)
 
 ### Lundi 11 mai 2020
 
@@ -943,7 +950,7 @@ description: >-
 ### Jeudi 30 avril 2020
 
 * [\[agent\] Calendrier en double apres retour](https://trello.com/c/HtWCNUBJ/839-agent-calendrier-en-double-apres-retour)
-* [ne pas afficher les créneaux passés dans "trouver un creneau" \(ceux du matin du jour meme\)](https://trello.com/c/nb3LeyAY/833-ne-pas-afficher-les-cr%C3%A9neaux-pass%C3%A9s-dans-trouver-un-creneau-ceux-du-matin-du-jour-meme)
+* [ne pas afficher les créneaux passés dans "trouver un creneau" (ceux du matin du jour meme)](https://trello.com/c/nb3LeyAY/833-ne-pas-afficher-les-cr%C3%A9neaux-pass%C3%A9s-dans-trouver-un-creneau-ceux-du-matin-du-jour-meme)
 
 ### Mercredi 29 avril 2020
 
@@ -958,10 +965,10 @@ description: >-
 
 ### Lundi 27 avril 2020
 
-* [\[Perf\] Optimiser LieuxController\#index](https://trello.com/c/D1FkScBO/564-perf-optimiser-lieuxcontrollerindex)
+* [\[Perf\] Optimiser LieuxController#index](https://trello.com/c/D1FkScBO/564-perf-optimiser-lieuxcontrollerindex)
 * [\[Agenda\] Clic sur un jour ferié](https://trello.com/c/ytxQaCIi/657-agenda-clic-sur-un-jour-feri%C3%A9)
 * [matomo update V2](https://trello.com/c/3UBcDxUd/830-matomo-update-v2)
-* [\[Annulation\] supprimer les notifs \(de confirmation\) pour les RDV passés](https://trello.com/c/nDvnpBQd/546-annulation-supprimer-les-notifs-de-confirmation-pour-les-rdv-pass%C3%A9s)
+* [\[Annulation\] supprimer les notifs (de confirmation) pour les RDV passés](https://trello.com/c/nDvnpBQd/546-annulation-supprimer-les-notifs-de-confirmation-pour-les-rdv-pass%C3%A9s)
 * [\[Agent\]\[Trouver un créneau\] rendre le délai mini et maxi inactif côté agent](https://trello.com/c/zc0mkTqD/682-agenttrouver-un-cr%C3%A9neau-rendre-le-d%C3%A9lai-mini-et-maxi-inactif-c%C3%B4t%C3%A9-agent)
 * [Notifications pour les plages d'ouverture](https://trello.com/c/uBIfj7y5/695-notifications-pour-les-plages-douverture)
 * [matomo update V1](https://trello.com/c/eo2NN34t/829-matomo-update-v1)
@@ -991,7 +998,7 @@ description: >-
 
 ### Lundi 20 avril 2020
 
-* [\[Annulation\] supprimer les notifs \(de confirmation\) pour les RDV passés](https://trello.com/c/nDvnpBQd/546-annulation-supprimer-les-motifs-de-confirmation-pour-les-rdv-pass%C3%A9s)
+* [\[Annulation\] supprimer les notifs (de confirmation) pour les RDV passés](https://trello.com/c/nDvnpBQd/546-annulation-supprimer-les-motifs-de-confirmation-pour-les-rdv-pass%C3%A9s)
 
 ### Vendredi 17 avril 2020
 
@@ -1036,10 +1043,10 @@ description: >-
 
 ### Mardi 7 avril 2020
 
-* [\[Notifications\] Push sentry to \#startup-lapin-dev - waiting for first occurence to validate](https://trello.com/c/slFz54Gi/239-notifications-push-sentry-to-startup-lapin-dev-waiting-for-first-occurence-to-validate)
+* [\[Notifications\] Push sentry to #startup-lapin-dev - waiting for first occurence to validate](https://trello.com/c/slFz54Gi/239-notifications-push-sentry-to-startup-lapin-dev-waiting-for-first-occurence-to-validate)
 * [\[VAD\]\[Agent\] Identifier les RDV à domicile](https://trello.com/c/T9BNYXUH/595-vadagent-identifier-les-rdv-%C3%A0-domicile)
 * [\[VAD\]\[Usager\] Détail du RDV](https://trello.com/c/GZrPb6jh/596-vadusager-d%C3%A9tail-du-rdv)
-* [\[Metrics\] Changement GGL analytics &gt; Matomo](https://trello.com/c/iULCDVl2/611-metrics-changement-ggl-analytics-matomo)
+* [\[Metrics\] Changement GGL analytics > Matomo](https://trello.com/c/iULCDVl2/611-metrics-changement-ggl-analytics-matomo)
 * [\[File d'attente\] Metrics](https://trello.com/c/gz3o619p/608-file-dattente-metrics)
 * [\[Scalingo\] Migration](https://trello.com/c/1t8AcUyh/605-scalingo-migration)
 
@@ -1052,7 +1059,6 @@ description: >-
 
 ### Vendredi 3 avril 2020
 
-* Feature: Ajout de la visite à domicile dans la configuration du motif \(caché derrière un flipper\)
+* Feature: Ajout de la visite à domicile dans la configuration du motif (caché derrière un flipper)
 * Bug: URL du logo de la page de la maintenance corrigé
 * Bug: Correction d'une faille de sécurité lors du login Agent
-
