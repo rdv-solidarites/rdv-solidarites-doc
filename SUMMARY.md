@@ -4,8 +4,6 @@
 
 ## Les guides d'utilisation <a href="guide-utilisation" id="guide-utilisation"></a>
 
-***
-
 * [Pour les agents](pour-les-agents/README.md)
   * [Comment démarrer sur RDV-solidarités ?](pour-les-agents/tutoriel/README.md)
     * [Etape 0 : Comment se connecter ?](pour-les-agents/tutoriel/comment-se-connecter.md)
