@@ -6,6 +6,12 @@ description: >-
 
 # Dernières nouveautés
 
+## Du Vendredi 24 au lundi 25 octobre
+
+* [Augmenter le nombre d'usager et d'agent dans le fichier de construction #1623](https://github.com/betagouv/rdv-solidarites.fr/issues/1623)
+* [Mettre en place du cache avec Redis #1806](https://github.com/betagouv/rdv-solidarites.fr/issues/1806)
+* [Tracabilité de la fiche usager #1675](https://github.com/betagouv/rdv-solidarites.fr/issues/1675)
+
 ## Du mardi 31 août au jeudi 23 septembre
 
 * [ \[Home\] Affiche les services disponible \#1701 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1701)
