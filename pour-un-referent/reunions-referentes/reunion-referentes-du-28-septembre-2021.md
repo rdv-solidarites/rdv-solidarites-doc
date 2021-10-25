@@ -2,11 +2,11 @@
 
 ### Démo
 
-* [Ajout du nom de la commune dans les exports de RDV \#1638](https://github.com/betagouv/rdv-solidarites.fr/issues/1638)
-* [Trouver un créneau côté agent depuis un smartphone \#1674](https://github.com/betagouv/rdv-solidarites.fr/issues/1674)
-* BUG [Afficher la liste des motifs déjà configuré dans le tunnel de prise de RDV de l'organisation MDPH \#1734](https://github.com/betagouv/rdv-solidarites.fr/issues/1734)
-* [Ajouter une zone de pagination en bas de l'index des motifs \#1726](https://github.com/betagouv/rdv-solidarites.fr/issues/1726)
-* [Lien depuis configuration de motifs vers la sectorisation \#1347](https://github.com/betagouv/rdv-solidarites.fr/issues/1347)
+* [Ajout du nom de la commune dans les exports de RDV #1638](https://github.com/betagouv/rdv-solidarites.fr/issues/1638)
+* [Trouver un créneau côté agent depuis un smartphone #1674](https://github.com/betagouv/rdv-solidarites.fr/issues/1674)
+* BUG [Afficher la liste des motifs déjà configuré dans le tunnel de prise de RDV de l'organisation MDPH #1734](https://github.com/betagouv/rdv-solidarites.fr/issues/1734)
+* [Ajouter une zone de pagination en bas de l'index des motifs #1726](https://github.com/betagouv/rdv-solidarites.fr/issues/1726)
+* [Lien depuis configuration de motifs vers la sectorisation #1347](https://github.com/betagouv/rdv-solidarites.fr/issues/1347)
 
 ### Sectorisation
 
@@ -19,7 +19,7 @@ Christelle rappel qu'il y a des soucis
 
 Sectorisation lié à l'ouverture à l'usager.
 
-Les Côtes-d'Armor \(22\) ont commencés cet été.
+Les Côtes-d'Armor (22) ont commencés cet été.
 
 ### Conseiller numérique
 
@@ -27,11 +27,11 @@ C'est en route. Il y a des réunions mise en place entre les Conseillers numéri
 
 Début d'étude de RDV-Solidarités dans le 64. Réflexion sur le motif.
 
-> Les conseillers numérique sont appelé à faire des rendez-vous collectif. -- Christelle \(64\)
+> Les conseillers numérique sont appelé à faire des rendez-vous collectif. -- Christelle (64)
 
 Nécessaire de travailler sur le sujet dans RDV-Solidarités
 
-Utilisation décentralisé de RDV-Solidarités pour pouvoir prendre rendez-vous sur tout le territoire ? Lié à [https://www.solidarite-numerique.fr/](https://www.solidarite-numerique.fr/). Questionnement en cours. Question du chevauchement de territoire : si les conseillers numériques sont sur un territoire france entière, comment ça se passe dans les départements ? C'est la problématique opposé des territoires plus petit : si Caen souhaite avoir « RDV-Solidarite » pour son territoire, comment se passe l'intéraction avec le Calvados ?
+Utilisation décentralisé de RDV-Solidarités pour pouvoir prendre rendez-vous sur tout le territoire ? Lié à [https://www.solidarite-numerique.fr/](https://www.solidarite-numerique.fr). Questionnement en cours. Question du chevauchement de territoire : si les conseillers numériques sont sur un territoire france entière, comment ça se passe dans les départements ? C'est la problématique opposé des territoires plus petit : si Caen souhaite avoir « RDV-Solidarite » pour son territoire, comment se passe l'intéraction avec le Calvados ?
 
 ### Problème de performance
 
@@ -52,7 +52,7 @@ Nous allons garder une adresse privée pour l'équipe pour les messages contenan
 
 L'équipe utilise toujours l'adresse [contact@rdv-solidarites.fr](mailto:contact@rdv-solidarites.fr).
 
-**Nous vous invitons à utiliser principalement l'adresse** [**equipe@rdv-solidarites.fr**](mailto:equipe@rdv-solidarites.fr) **pour communiquer avec nous, dans la mesure où vous ne transmettez par d'information sensible**. Chaque sujet, question, problème que vous avez pourrait intéresser d'autres territoires. Merci !
+**Nous vous invitons à utiliser principalement l'adresse **[**equipe@rdv-solidarites.fr**](mailto:equipe@rdv-solidarites.fr)** pour communiquer avec nous, dans la mesure où vous ne transmettez par d'information sensible**. Chaque sujet, question, problème que vous avez pourrait intéresser d'autres territoires. Merci !
 
 ### Sujets à venir
 
@@ -66,7 +66,6 @@ Au niveau nationale, il est demandé aux personnes travaillant en PMI de lister 
 
 Ce n'est clairement pas la finalité du service.
 
-Les personnes travaillant en PMI dans les Pyrénées Atlantique et dans la Drôme n'ont pas d'outil métier pour la PMI \(ou ne s'en servent pas ?\).
+Les personnes travaillant en PMI dans les Pyrénées Atlantique et dans la Drôme n'ont pas d'outil métier pour la PMI (ou ne s'en servent pas ?).
 
-Il y a une envie des agents de pouvoir saisir de manière anonyme \(sans mettre les références usagers\), alors que les logiciels métiers demande à saisir le nom d'un bénéficiaire.
-
+Il y a une envie des agents de pouvoir saisir de manière anonyme (sans mettre les références usagers), alors que les logiciels métiers demande à saisir le nom d'un bénéficiaire.

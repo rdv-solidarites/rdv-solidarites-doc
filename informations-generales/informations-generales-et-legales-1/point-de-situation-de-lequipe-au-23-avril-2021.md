@@ -11,7 +11,7 @@ description: >-
 
 * Revoir la liste des 37 référentes à qui nous envoyons les invitations. Il y a sans doute des ratés, des personnes que nous ne devrions pas contacter dans ce cadre-là, et d'autres qui ne sont pas dans la liste.
 * Voir si on peut créer des alertes à partir du forum et cibler les bonnes personnes.
-* Contacter les personnes des départements qui ne viennent pas, ou pas souvent, pour voir si on peut aménager les réunions sur d'autres heures ou une autre journée, pour avoir les bonnes personnes présentes, au bon moment pour elles. 
+* Contacter les personnes des départements qui ne viennent pas, ou pas souvent, pour voir si on peut aménager les réunions sur d'autres heures ou une autre journée, pour avoir les bonnes personnes présentes, au bon moment pour elles.&#x20;
 
 ### Démo et Formation
 
@@ -30,7 +30,7 @@ Nous allons distinguer les démonstrations des formations.
 **Démonstration**
 
 * les démonstrations faites aux territoires intéressées par le service ;
-* l'accompagnement à la configuration \(démo++ à destination des agents administrateurs d'un département\)
+* l'accompagnement à la configuration (démo++ à destination des agents administrateurs d'un département)
 
 **Formation**
 
@@ -43,7 +43,7 @@ En résumé, il y a les **DÉMONSTRATIONS** pour faire découvrir l'outil et les
 
 Une fois vérifié, nous pourrions, par exemple, nous assurer que la plateforme de démonstration est aussi utile pour la formation. Ou bien, prévoir une plateforme de formation.
 
-_Peut-être que la_ [_plateforme de démonstration_](https://demo.rdv-solidarites.fr/) _sert pour la démonstration aux départements qui n'ont pas encore rejoint le consortium et peut_ servir _de plateforme de formation pour les autres. Il faudrait pouvoir remettre les données d'un territoire à zéro, récupérer la configuration depuis la production peut-être… Il y aurait sans doute des choses à faire pour faciliter._
+_Peut-être que la _[_plateforme de démonstration_](https://demo.rdv-solidarites.fr)_ sert pour la démonstration aux départements qui n'ont pas encore rejoint le consortium et peut _servir_ de plateforme de formation pour les autres. Il faudrait pouvoir remettre les données d'un territoire à zéro, récupérer la configuration depuis la production peut-être… Il y aurait sans doute des choses à faire pour faciliter._
 
 ### Produit
 
@@ -53,19 +53,19 @@ Les sous-titres qui suivent sont des thèmes, une sorte de ROADMAP sur laquelle 
 
 **Compte**
 
-Il y a parfois \(?\) un email pour toute une famille, voire un numéro de téléphone seulement. Nous pourrions nous orienter sur une approche, comme sur Netflix, où nous ferions une séparation entre la notion d'un compte RDV, et les profils attachés.
+Il y a parfois (?) un email pour toute une famille, voire un numéro de téléphone seulement. Nous pourrions nous orienter sur une approche, comme sur Netflix, où nous ferions une séparation entre la notion d'un compte RDV, et les profils attachés.
 
 Ce qui serait intéressant, c'est de pouvoir ajouter les personnes à contacter, avec email et tel. Ces personnes ne sont pas des usagers directement.
 
 Cela pourrait ressembler à la cellule familiale ? Ça serait sans doute plus souple et plus large. L'assistante familiale pourrait être là, une voisine, une personne d'une association à prévenir...
 
-> J'ai un compte, j'y ajoute ma fille, sans contact j'y ajoute ma mère, avec info de contact j'y ajoute l'assistante familiale ça me permet de demander à notifier ces personne-là en plus de moi ça me permet de prendre rendez-vous pour ces personneslà \(sans qu'elles aient de compte\)
+> J'ai un compte, j'y ajoute ma fille, sans contact j'y ajoute ma mère, avec info de contact j'y ajoute l'assistante familiale ça me permet de demander à notifier ces personne-là en plus de moi ça me permet de prendre rendez-vous pour ces personneslà (sans qu'elles aient de compte)
 
 _Une fiche usager pourrait être associée à plusieurs comptes._
 
 **Fiche usager**
 
-Faire la distinction personne mineure et majeure. Pour les mineurs, nous ne demandons pas ou peu d'information \(comme aujourd'hui\). Pour les majeurs, on ouvre l'ensemble du formulaire.
+Faire la distinction personne mineure et majeure. Pour les mineurs, nous ne demandons pas ou peu d'information (comme aujourd'hui). Pour les majeurs, on ouvre l'ensemble du formulaire.
 
 Chaque majeur est une fiche usager qui pourrait être ajouté à un compte. Les doublons seront à gérer au niveau de ces fiches usagers.
 
@@ -73,13 +73,13 @@ Préciser le lien entre les profils.
 
 Attention RGPD au moment de l'ajout de profil. Il faudra sans doute envoyer un message à ces personnes pour signaler qu'elles ont été ajouté en tant que contact par tel autre personne. À prendre en compte que pour l'interface usager sans doute ?
 
-Il y aura sans doute à voir aussi sur les contraintes d'unicité \(téléphone et email aujourd'hui\). Un numéro de téléphone ou un email identifie un et un seul compte. Mais ces numéros pourraient être attribués à plusieurs personnes \(fiche usager\) en dessous. Sans doute que ces personnes seraient automatiquement associées au même compte ?
+Il y aura sans doute à voir aussi sur les contraintes d'unicité (téléphone et email aujourd'hui). Un numéro de téléphone ou un email identifie un et un seul compte. Mais ces numéros pourraient être attribués à plusieurs personnes (fiche usager) en dessous. Sans doute que ces personnes seraient automatiquement associées au même compte ?
 
 **Authentification**
 
 Plusieurs étude nous montrent que l'accès à internet se fait de plus en plus sur mobile
 
-* [BAROMÈTRE DU NUMÉRIQUE 2019 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française en 2019](https://www.economie.gouv.fr/files/files/directions_services/cge/barometre-numerique-2019.pdf)
+* [BAROMÈTRE DU NUMÉRIQUE 2019 - Enquête sur la diffusion des technologies de l’information et de la communication dans la société française en 2019](https://www.economie.gouv.fr/files/files/directions\_services/cge/barometre-numerique-2019.pdf)
 * [Les Français privilégient désormais le mobile pour accéder à Internet](https://labo.societenumerique.gouv.fr/2017/07/19/les-francais-privilegient-desormais-le-mobile-pour-acceder-a-internet/)
 * [Démarches administratives en ligne : progression des usages mais persistance des difficultés pour les publics défavorisés](https://labo.societenumerique.gouv.fr/2017/03/15/demarches-administratives-en-ligne-progression-des-usages-mais-persistance-des-difficultes-pour-les-publics-defavorises/)
 
@@ -89,8 +89,8 @@ Ou encore le questionnement sur l'authentification par mot de passe
 
 Ces éléments nous amènent à envisager de :
 
-* permettre l'authentification par le numéro de téléphone \(ou l'email\)
-* utiliser un nombre magique ou un lien magique \(authentification sans mot de passe\)
+* permettre l'authentification par le numéro de téléphone (ou l'email)
+* utiliser un nombre magique ou un lien magique (authentification sans mot de passe)
 
 La connexion par numéro de téléphone nous a été plusieurs fois demandé. Surtout pour le traitement du RSA ou autre volant du social. C'est sans doute une approche à combiner avec le compte multiusager.
 
@@ -104,11 +104,11 @@ Les motifs sont aujourd'hui très nombreux. Et pourtant il n'est pas possible de
 
 Il y a un travail à faire sur le paramétrage d'un motif dans le contexte d'une plage d'ouverture.
 
-Un point basique pourrait être de permettre la création d'un motif avec libellé \(avoir la main sur les libellés\).
+Un point basique pourrait être de permettre la création d'un motif avec libellé (avoir la main sur les libellés).
 
-Attacher les motifs au territoire \(pas de duplication à faire entre les organisations\)
+Attacher les motifs au territoire (pas de duplication à faire entre les organisations)
 
-Arborescence de catégories \(combien de niveau ?\) de motif \(ou utilisation de tag ?\). Proposé par l'équipe ? À la main des départements ?
+Arborescence de catégories (combien de niveau ?) de motif (ou utilisation de tag ?). Proposé par l'équipe ? À la main des départements ?
 
 > se méfier des espaces de libertés -- Voir Dr Design Faire appel à l'UXWriter nouvellement arrivée.
 
@@ -116,13 +116,13 @@ Peut-être que nous devrions proposer un travail, avec le support des UX transve
 
 #### Autorisation
 
-Basculer les agents des organisations au territoire \(et plutôt qu'à une organisation\). Un agenda par agent Autoriser l'agent à accéder à certains agendas \(voir ? Poser un rendez-vous ? CRUD\)
+Basculer les agents des organisations au territoire (et plutôt qu'à une organisation). Un agenda par agent Autoriser l'agent à accéder à certains agendas (voir ? Poser un rendez-vous ? CRUD)
 
 Métier des agents plutôt que service. Peut-être avec arborescence aussi ?
 
 > Mon métier puéricultrice fait partie de la PMI. Qualifier les agents plutôt que les rangers dans des services.
 
-Autoriser l'agent à accéder à certains motifs \(voir ? Poser un rendez-vous ? CRUD\)
+Autoriser l'agent à accéder à certains motifs (voir ? Poser un rendez-vous ? CRUD)
 
 #### Organisation et sectorisation
 
@@ -149,6 +149,4 @@ Recueillir les feedbacks usagers, agents. Pour les agents, avoir un petit cercle
 Mieux analyser le Matomo.
 
 Quelles pages de la documentation sont lues ? Avons-nous des statistiques d'accès à la documentation ? Est-ce que nous devons déplacer les éléments de la documentation dans le forum ?
-
-
 

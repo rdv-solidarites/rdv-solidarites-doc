@@ -1,12 +1,12 @@
 ---
-description: 'Consultation, création et invitation d’usagers via l’API de RDV-Solidarités'
+description: Consultation, création et invitation d’usagers via l’API de RDV-Solidarités
 ---
 
 # Usagers
 
 ### Usagers et Profils
 
-Un Usager désigne le compte unique d'un usager sur la plateforme RDV-Solidarités. Il contient les informations de l'état civil de l'usager \(nom, prénoms, date de naissance...\) ainsi que des informations communes comme les préférences de notifications
+Un Usager désigne le compte unique d'un usager sur la plateforme RDV-Solidarités. Il contient les informations de l'état civil de l'usager (nom, prénoms, date de naissance...) ainsi que des informations communes comme les préférences de notifications
 
 Un Profil Usager lie un Usager à une Organisation. La plupart des usagers n'ont un lien qu'avec une seule Organisation, mais une partie interagit avec plusieurs Organisations. Au sein d'une Organisation, seuls les comptes usagers y ayant un profil sont visibles. Ce profil contient aussi quelques informations sur l'usager, indépendantes et non-partagées entre organisations.
 
@@ -16,11 +16,11 @@ Un Profil Usager lie un Usager à une Organisation. La plupart des usagers n'ont
 
 #### Paramètres de l'URL
 
-* `:ids` ARRAY\[INT\] - _optionnel_ : Liste des identifiants des usagers que l'on souhaite récupérer
+* `:ids` ARRAY\[INT] - _optionnel _: Liste des identifiants des usagers que l'on souhaite récupérer
 
 #### Réponse en cas de succès
 
-* ARRAY\[USER\]
+* ARRAY\[USER]
 
 #### Exemple de requête
 
@@ -89,12 +89,12 @@ curl --verbose \
 
 #### Paramètres de l'URL
 
-* `:organisation_id` INT - _requis_ : Liste de l'organisation pour laquelle on souhaite récupérer les
-* `:ids` ARRAY\[INT\] - _optionnel_ : Liste des identifiants des usagers que l'on souhaite récupérer
+* `:organisation_id` INT - _requis _: Liste de l'organisation pour laquelle on souhaite récupérer les
+* `:ids` ARRAY\[INT] - _optionnel _: Liste des identifiants des usagers que l'on souhaite récupérer
 
 #### Réponse en cas de succès
 
-* ARRAY\[USER\]
+* ARRAY\[USER]
 
 #### Exemple de requête
 
@@ -288,7 +288,7 @@ curl --verbose \
 
 ### Paramètres
 
-* `invite_for` : INT - en secondes, la durée de validité souhaitée du lien d'invitation envoyé à l'usager. \(1 jour = 86 400 secondes\). Si ce paramètre n'est pas renseignée, l'invitation sera valable 4 semaines par défaut.
+* `invite_for` : INT - en secondes, la durée de validité souhaitée du lien d'invitation envoyé à l'usager. (1 jour = 86 400 secondes). Si ce paramètre n'est pas renseignée, l'invitation sera valable 4 semaines par défaut.
 
 ### Réponse
 
@@ -306,15 +306,15 @@ Si l'utilisateur n'a pas d'adresse mail :
 
 #### Paramètres
 
-* `organisation_ids` : \[INT\] - requis: Identifiants des organisations auxquelles rattacher le nouvel usager
-* `first_name`: STRING - requis: Prénom\(s\)
+* `organisation_ids` : \[INT] - requis: Identifiants des organisations auxquelles rattacher le nouvel usager
+* `first_name`: STRING - requis: Prénom(s)
 * `last_name`: STRING - requis: Nom d'usage
-* `email`: STRING - optionnel: Email de contact \(unique par usager\)
+* `email`: STRING - optionnel: Email de contact (unique par usager)
 * `birth_name`: STRING - optionnel: Nom de naissance
 * `birth_date`: STRING ou DATE - optionnel: Date de naissance
 * `address`: STRING - optionnel: Adresse au format texte
 * `phone_number`: STRING - optionnel: Numéro de téléphone français, mobile de préférence
-* `responsible_id`: INT - optionnel: Identifiant de l'usager responsable 
+* `responsible_id`: INT - optionnel: Identifiant de l'usager responsable&#x20;
 * `caisse_affiliation`: STRING - optionnel: Caisse d'affiliation, valeurs possibles : `aucune`, `caf` ou `msa`
 * `affiliation_number`: STRING - optionnel: Numéro d'affiliation à la caisse
 * `family_situation`: STRING - optionnel: Situation familiale, valeurs possibles : `single`, `in_a_relationship` ou `divorced`
@@ -324,7 +324,7 @@ Si l'utilisateur n'a pas d'adresse mail :
 
 Si vous souhaitez créer un usager proche, remplissez le paramètre `responsible_id`, et notez que seuls les champs `organisation_ids`, `first_name`, `last_name`, `birth_date` et `birth_name` seront pris en compte. Les usagers proches n'ont pas tous les champs d'un usager responsable.
 
-#### Réponse en cas de succès 
+#### Réponse en cas de succès&#x20;
 
 * `user` : USER
   * `user_profiles` Profils de l'usager dans les organisations accessibles à l'agent faisant la requête
@@ -404,7 +404,7 @@ curl --verbose --request 'POST' \
 * `logement`: STRING - optionnel : situation de logement, valeurs possibles : `sdf`, `heberge`, `en_accession_propriete`, `proprietaire` ou `autre`
 * `notes` : STRING - optionnel : Notes libres à propos l'usager - ne pas y inclure de donneées sensibles ou confidentielles
 
-#### Réponse en cas de succès 
+#### Réponse en cas de succès&#x20;
 
 * `user_profile` : USER\_PROFILE
   * `user` : USER
@@ -476,4 +476,3 @@ curl --verbose --request 'POST' \
     }
 }
 ```
-

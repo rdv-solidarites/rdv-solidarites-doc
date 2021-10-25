@@ -26,22 +26,22 @@ Les tickets en cours de réalisation ou de test au 4 mai.
 * [Agenda agents inter-organisations](https://github.com/betagouv/rdv-solidarites.fr/issues/1185)
 * [Configuration des envois de SMS par territoire](https://github.com/betagouv/rdv-solidarites.fr/issues/1408)
 
-_Liste sur le_ [_tableau de développement_](https://github.com/betagouv/rdv-solidarites.fr/projects/8?fullscreen=true).
+_Liste sur le _[_tableau de développement_](https://github.com/betagouv/rdv-solidarites.fr/projects/8?fullscreen=true).
 
 ### Priorisées
 
-À ce jour, un ticket \[S\] est traité en moyenne en 1 journée, \[M\] est traité en 8 jours, \[L\] en 18.
+À ce jour, un ticket \[S] est traité en moyenne en 1 journée, \[M] est traité en 8 jours, \[L] en 18.
 
-* \[S\] [Changement de status d'un rendez-vous pour un agent qui n'est plus attaché à l'organisation](https://github.com/betagouv/rdv-solidarites.fr/issues/1413)
-* \[L\] [Envoyer un email avec .ics à l'agent pour chaque RDV](https://github.com/betagouv/rdv-solidarites.fr/issues/1059)
-* \[M\] [Faciliter la recherche d'usager existant](https://github.com/betagouv/rdv-solidarites.fr/issues/1348)
-* \[M\] [Envoyer les notifications d'annulation d'un rendez-vous, même s'il a été supprimer avant l'envoi](https://github.com/betagouv/rdv-solidarites.fr/issues/1361)
-* \[S\] [Retour sur la page de mon secteur dans la liste des secteurs](https://github.com/betagouv/rdv-solidarites.fr/issues/1346)
-* \[M\] [Investiguer le problème synchronisation de mise à jour et suppression de plage d'ouverture et absence](https://github.com/betagouv/rdv-solidarites.fr/issues/1354)
-* \[S\] [Distinguer la démo / formation de la prod](https://github.com/betagouv/rdv-solidarites.fr/issues/1058)
-* \[M\] [Inclure la commune de l'usager responsable dans l'export](https://github.com/betagouv/rdv-solidarites.fr/issues/1187)
-* \[S\] [Modification des référents d'un autre service](https://github.com/betagouv/rdv-solidarites.fr/issues/1405)
-* \[S\] [ Rendre visible les statistiques par organisation \#1404 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1404)
+* \[S] [Changement de status d'un rendez-vous pour un agent qui n'est plus attaché à l'organisation](https://github.com/betagouv/rdv-solidarites.fr/issues/1413)
+* \[L] [Envoyer un email avec .ics à l'agent pour chaque RDV](https://github.com/betagouv/rdv-solidarites.fr/issues/1059)
+* \[M] [Faciliter la recherche d'usager existant](https://github.com/betagouv/rdv-solidarites.fr/issues/1348)
+* \[M] [Envoyer les notifications d'annulation d'un rendez-vous, même s'il a été supprimer avant l'envoi](https://github.com/betagouv/rdv-solidarites.fr/issues/1361)
+* \[S] [Retour sur la page de mon secteur dans la liste des secteurs](https://github.com/betagouv/rdv-solidarites.fr/issues/1346)
+* \[M] [Investiguer le problème synchronisation de mise à jour et suppression de plage d'ouverture et absence](https://github.com/betagouv/rdv-solidarites.fr/issues/1354)
+* \[S] [Distinguer la démo / formation de la prod](https://github.com/betagouv/rdv-solidarites.fr/issues/1058)
+* \[M] [Inclure la commune de l'usager responsable dans l'export](https://github.com/betagouv/rdv-solidarites.fr/issues/1187)
+* \[S] [Modification des référents d'un autre service](https://github.com/betagouv/rdv-solidarites.fr/issues/1405)
+* \[S] [ Rendre visible les statistiques par organisation #1404 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1404)
 
 Pour voir la [liste de tous les tickets](https://github.com/betagouv/rdv-solidarites.fr/issues?q=is%3Aissue+is%3Aopen) ou bien [la colonne backlog sur le tableau du projet](https://github.com/betagouv/rdv-solidarites.fr/projects/8?fullscreen=true).
 
@@ -88,4 +88,3 @@ Attention, les listes d'usagers et d'agents sont trié par ordre alphabétique d
 ### Changement de statut et notification masquée
 
 Quand on annule un RDV via le changement de Statut, RDV-Solidarités envoie une notification sans informer l'agent que la notification va partir. Lorsqu'on appuie sur le bouton annuler le système nous informe qu'une notification va partir. Peut-être faut-il faire la même chose ?
-

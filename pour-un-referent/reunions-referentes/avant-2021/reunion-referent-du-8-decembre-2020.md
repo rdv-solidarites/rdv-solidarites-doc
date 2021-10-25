@@ -5,7 +5,7 @@ Ordre du jour :
 **Point d’étape gouvernance projet**
 
 * Nouvelle convention : Travaux en cours avec l'AND et l'ANCT
-* Vous proposer un espace d'échange et de partage \(outil de communication de type forum\) en plus du webinaire et de la réunion des personnes référentes. 
+* Vous proposer un espace d'échange et de partage (outil de communication de type forum) en plus du webinaire et de la réunion des personnes référentes.&#x20;
 
 **Point d’étape**
 
@@ -14,17 +14,17 @@ Ordre du jour :
 
 ### Participantes
 
-* Vaea \(77\) 
-* V. Legrand \(80\)
-* Élodie \(62\)
-* Clarisse \(92\)
-* Fabienne \(80\)
-* Christelle \(64\)
-* Élise \(14\)
-* Magalie \(22\)
-* Anne-Sophie \(55\)
-* Radia \(Équipe\)
-* Yannick \(Équipe\)
+* Vaea (77)&#x20;
+* V. Legrand (80)
+* Élodie (62)
+* Clarisse (92)
+* Fabienne (80)
+* Christelle (64)
+* Élise (14)
+* Magalie (22)
+* Anne-Sophie (55)
+* Radia (Équipe)
+* Yannick (Équipe)
 
 ### Point d’étape gouvernance projet
 
@@ -38,7 +38,7 @@ Ordre du jour :
 * La partie RGPD et Sécurité serais associé en annexe de la convention, ce qui permettrais de la faire évoluer plus facilement
 * 77 : conseil le 17 décembre aussi
 
-#### Vous proposer un espace d'échange et de partage \(outil de communication de type forum\) en plus du webinaire et de la réunion des personnes référentes.
+#### Vous proposer un espace d'échange et de partage (outil de communication de type forum) en plus du webinaire et de la réunion des personnes référentes.
 
 Question : Est-ce qu'on peut toujours poser des questions spécifiques par mail -→ Oui, les mails sont toujours actifs, cet outil vient en soutien. Mais il peut être intéressant d'avoir l'expérience d'un département qui peut être utile pour d'autres - partager sur cet espace les cas particuliers qui feront peut-être échos à d'autres.
 
@@ -63,7 +63,7 @@ Catégories possibles :
 * expliciter que les usagers peuvent annuler les RDV dans les mails de confirmation et de rappel​
 * Ajouter un lien vers la politique de confidentialité​
 * Mettre à jour les CGU et mentions légales​
-* \[Sectorisation\] désectoriser certains motifs​
+* \[Sectorisation] désectoriser certains motifs​
 * préserver le contexte de l'agent lors de l'édition d'un RDV en provenant du calendrier d'un collègue​
 * Empêcher agents non-admins d'inviter d'autres agents​
 * Déplace l'édition du RDV d'une barre latérale vers une vraie page dédiée​
@@ -81,20 +81,19 @@ Catégories possibles :
 * Ajuster l'heure de début du RDV avec la fin du précédent
 * Traçabilité de la fiche usager
 * Désactiver les notifications pour un usager
-* Problème de contrastes sur l'agenda \(et les couleurs de motifs\)
-* \[RGPD\] Filtrer les champs demandés pour la prise d'un RDV en fonction du service
+* Problème de contrastes sur l'agenda (et les couleurs de motifs)
+* \[RGPD] Filtrer les champs demandés pour la prise d'un RDV en fonction du service
 
 Questionnement autour des bases usagers et des agents multiorganisation.
 
-**-**→ **Vérifier que dans l'export** RDV : ****RDV :
+**-**→** Vérifier que dans l'export **RDV :** **RDV :
 
-**-**→ **Peut-on rendre obligatoire la saisie du téléphone quand il s'agit d'un RDV téléphonique ?** Oui possible, nous devons en discuter.
+**-**→** Peut-on rendre obligatoire la saisie du téléphone quand il s'agit d'un RDV téléphonique ?** Oui possible, nous devons en discuter.
 
-**Vu liste :** Ne réponds pas à la demande -→ Veulent voir les disponibilités des puéricultrices, voir les dispos pour par exemple faire une réunion de service. Yannick : plutôt que d'avoir une vue agenda, possibilité de créer un autre visuel qui réponde à la problématique \(identifier les disponibilités communes à partir de l'agenda de chaque agent du service\)
+**Vu liste :** Ne réponds pas à la demande -→ Veulent voir les disponibilités des puéricultrices, voir les dispos pour par exemple faire une réunion de service. Yannick : plutôt que d'avoir une vue agenda, possibilité de créer un autre visuel qui réponde à la problématique (identifier les disponibilités communes à partir de l'agenda de chaque agent du service)
 
 **Taux d'occupation des plages de RDV :** Aujourd'hui pas afficher. Demande à venir
 
-**Travailler sur les agents** multiorganisation Prévoir un échange sur la question. Au départ un agent qui interviens sur x orga. Mais aussi une personne qui est dans plusieurs services au sein d'une même orga -→ ce dernier cas de figure est-il prit en compte dans ces travaux ? Yannick : Soulève beaucoup de questions, on voudrait pouvoir avancer sur ces sujets importants, mais difficile de trouver une solution acceptable. Devoir échanger avec vous \(notamment grâce au forum\) pour identifier les pistes sur ces deux sujets séparations des bases usagers et agents multiorga.
+**Travailler sur les agents **multiorganisation Prévoir un échange sur la question. Au départ un agent qui interviens sur x orga. Mais aussi une personne qui est dans plusieurs services au sein d'une même orga -→ ce dernier cas de figure est-il prit en compte dans ces travaux ? Yannick : Soulève beaucoup de questions, on voudrait pouvoir avancer sur ces sujets importants, mais difficile de trouver une solution acceptable. Devoir échanger avec vous (notamment grâce au forum) pour identifier les pistes sur ces deux sujets séparations des bases usagers et agents multiorga.
 
 Sur les agents multiorga : Fonction en place -→ plage d'ouverture pour un agent multiorga avec une alerte si le RDV est saisie sur une plage occupée dans une autre orga.
-

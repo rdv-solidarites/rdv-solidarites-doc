@@ -10,11 +10,13 @@ description: >-
 
 La sectorisation permet de définir des secteurs géographiques et de leur attribuer des responsables. Les usagers sont orientés vers les bons responsables selon l'adresse saisie lors de leur prise de RDV en ligne.
 
-![Exemple de carte de sectorisation dans le Pas de Calais](../../.gitbook/assets/screenshot_2020-11-26_at_10.58.08.png)
+![Exemple de carte de sectorisation dans le Pas de Calais](../../.gitbook/assets/screenshot\_2020-11-26\_at\_10.58.08.png)
 
 ### Webinaire
 
-{% embed url="https://peertube.ethibox.fr/videos/watch/7e1926cd-0b0f-4b0a-a109-e5327a8c629c" caption="Webinaire Sectorisation - 01/14/2020" %}
+{% embed url="https://peertube.ethibox.fr/videos/watch/7e1926cd-0b0f-4b0a-a109-e5327a8c629c" %}
+Webinaire Sectorisation - 01/14/2020
+{% endembed %}
 
 Ce webinaire se compose d'une introduction théorique reprenant les concepts introduits dans la documentation ci-dessous, et réalise un exemple de configuration sur un environnement de démonstration.
 
@@ -24,23 +26,23 @@ Chaque secteur est défini comme un ensemble de communes ou de rues.
 
 Chaque secteur est attribué à une ou plusieurs organisations entières ou bien à un ou plusieurs agents spécifiques.
 
-![Exemple de secteurs dans le Pas de Calais](../../.gitbook/assets/screenshot_2020-11-26_at_10.59.39.png)
+![Exemple de secteurs dans le Pas de Calais](../../.gitbook/assets/screenshot\_2020-11-26\_at\_10.59.39.png)
 
 ### Motifs
 
-Chaque motif a un niveau de sectorisation propre parmi les trois possibles : 
+Chaque motif a un niveau de sectorisation propre parmi les trois possibles :&#x20;
 
 * **niveau département** : les créneaux pour ce motif apparaîtront pour les recherches d'usagers depuis l'ensemble du département
 * **niveau organisation** : les créneaux pour ce motif apparaîtront pour les recherches d'usagers couvertes par des secteurs attribués à des organisations entières
 * **niveau agent** : les créneaux pour ce motif apparaîtront pour les recherches d'usagers couvertes par des secteurs attribués à des agents spécifiques
 
-![Exemple de motifs sectoris&#xE9;s &#xE0; des niveaux diff&#xE9;rents](../../.gitbook/assets/screenshot_2020-11-26_at_11.01.36.png)
+![Exemple de motifs sectorisés à des niveaux différents](../../.gitbook/assets/screenshot\_2020-11-26\_at\_11.01.36.png)
 
 ### Possibilités
 
 Ce système de secteurs et de motifs permet de répondre à des cas d'usages variés :
 
-* Définir des groupes de communes dans un département et attribuer chaque groupe à une organisation différente 
+* Définir des groupes de communes dans un département et attribuer chaque groupe à une organisation différente&#x20;
 * Définir certains motifs exceptionnels qui contournent cette sectorisation et peuvent être réservés depuis tout le département
 
 ou encore :
@@ -56,13 +58,17 @@ Les agents avec le rôle Administrateur peuvent configurer les secteurs de leurs
 
 ## Plus en détail
 
-{% page-ref page="logique-detaillee-de-la-sectorisation.md" %}
+{% content-ref url="logique-detaillee-de-la-sectorisation.md" %}
+[logique-detaillee-de-la-sectorisation.md](logique-detaillee-de-la-sectorisation.md)
+{% endcontent-ref %}
 
-{% page-ref page="sectorisation-par-commune-et-par-organisation.md" %}
+{% content-ref url="sectorisation-par-commune-et-par-organisation.md" %}
+[sectorisation-par-commune-et-par-organisation.md](sectorisation-par-commune-et-par-organisation.md)
+{% endcontent-ref %}
 
-{% page-ref page="sectorisation-par-rue.md" %}
-
-
+{% content-ref url="sectorisation-par-rue.md" %}
+[sectorisation-par-rue.md](sectorisation-par-rue.md)
+{% endcontent-ref %}
 
 
 

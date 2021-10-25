@@ -8,40 +8,38 @@ Cet environnement est accessible sur l'URL [https://recette.rdv-solidarites.fr](
 
 La liste des agents disponible sur cette plateforme,  leur service et leur identifiant.
 
-Pour le territoire de Paris \(75\). 1 organisation.
+Pour le territoire de Paris (75). 1 organisation.
 
-| Email | Service | Admin |
-| :--- | :--- | :--- |
-| martine@demo.rdv-solidarites.fr | PMI |  ✔  |
-| polo@demo.rdv-solidarites.fr | Social |  |
-| marco@demo.rdv-solidarites.fr | PMI |  |
+| Email                           | Service | Admin                  |
+| ------------------------------- | ------- | ---------------------- |
+| martine@demo.rdv-solidarites.fr | PMI     |  :heavy\_check\_mark:  |
+| polo@demo.rdv-solidarites.fr    | Social  |                        |
+| marco@demo.rdv-solidarites.fr   | PMI     |                        |
 
-Pour le territoire du Pas-de-Calais \(62\). 25 organisations.
+Pour le territoire du Pas-de-Calais (62). 25 organisations.
 
-| Email | Service | Admin |
-| :--- | :--- | :--- |
-| maya@demo.rdv-solidarites.fr | PMI | ✔  |
+| Email                        | Service | Admin                 |
+| ---------------------------- | ------- | --------------------- |
+| maya@demo.rdv-solidarites.fr | PMI     | :heavy\_check\_mark:  |
 
 
 
 ### Usagers
 
-Aucun usager pour le Pas-de-Calais \(62\)
+Aucun usager pour le Pas-de-Calais (62)
 
 Pour Paris
 
-| Email / Prénom-nom | Date de naissance | Responsable |
-| :--- | :--- | :--- |
-| patricia\_duroy@demo.rdv-solidarites.fr | 20/06/1975 |  |
-| Joséphine-DUROY | 01/03/2018 | Patricia Duroy |
-| lea\_dupont@demo.rdv-solidarites.fr | 01/12/1982 |  |
-| jean\_moustache@demo.rdv-solidarites.fr | 10/01/1973 |  |
+| Email / Prénom-nom                      | Date de naissance | Responsable    |
+| --------------------------------------- | ----------------- | -------------- |
+| patricia\_duroy@demo.rdv-solidarites.fr | 20/06/1975        |                |
+| Joséphine-DUROY                         | 01/03/2018        | Patricia Duroy |
+| lea\_dupont@demo.rdv-solidarites.fr     | 01/12/1982        |                |
+| jean\_moustache@demo.rdv-solidarites.fr | 10/01/1973        |                |
 
 ### Notes
 
 Tous les mots de passe usagers et agents sont 123456
 
 Le contenu de la base de recette est susceptible d'être remis à zéro régulièrement.
-
-
 

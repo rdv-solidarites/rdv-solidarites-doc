@@ -13,7 +13,7 @@ Le site a été très lent dans l’après-midi, puis inaccessible pendant envir
 
 ### Contexte
 
-Nous avons des problèmes de performance depuis quelques semaines ; globalement, pendant les heures de bureau, le temps d’accès au site augmente de façon significative. Nous avons activé l’« autoscale » des instances web chez notre hébergeur Scalingo en début de semaine. L’autoscale est configuré pour passer automatiquement de 2 à 5 instances web. Ce sont des instances L, avec un 1GB de mémoire. En pointe, ces instances consomment beaucoup, et atteignent rapidement la limite \(et donc swappent\). Nous étions depuis le début de la semaine en train de préparer des optimisations de performances.
+Nous avons des problèmes de performance depuis quelques semaines ; globalement, pendant les heures de bureau, le temps d’accès au site augmente de façon significative. Nous avons activé l’« autoscale » des instances web chez notre hébergeur Scalingo en début de semaine. L’autoscale est configuré pour passer automatiquement de 2 à 5 instances web. Ce sont des instances L, avec un 1GB de mémoire. En pointe, ces instances consomment beaucoup, et atteignent rapidement la limite (et donc swappent). Nous étions depuis le début de la semaine en train de préparer des optimisations de performances.
 
 ### Chronologie
 
@@ -58,12 +58,21 @@ La base de données PostgreSQL est actuellement limitée à 30 connections. Nos 
 * Le passage à 5 instances XL a permis de passer la journée de jeudi sans tomber à nouveau.
 * Le déploiement des optimisations vendredi après-midi a fait chuter le temps de réponse médian, qui reste autour de 150ms, alors qu’il était autour de 2-3 secondes.
 
-![Temps de r&#xE9;ponse mercredi, jeudi et vendredi. Le trait rouge indique le d&#xE9;ploiement des optimisations.](../../../.gitbook/assets/image.png)
+![Temps de réponse mercredi, jeudi et vendredi. Le trait rouge indique le déploiement des optimisations.](../../../.gitbook/assets/image.png)
 
 ### Travaux restants
 
 * Le serveur de base de données est lui aussi sous-dimensionné: il atteind ses limites de mémoire.
-* * Nous avons un serveur avec 512Mo; nous pouvons passer soit à un serveur 1Go, soit à un cluster de 2 nodes avec chacun 512Mo. Cette deuxième solution a aussi l’avantage de permettre des montées de version de la base de données sans interruption de service.
-  * Nous avons commencé la procédure mais rencontrons là aussi des erreurs côté scalingo. 
-* La charge CPU reste assez élevée sur les 3 instances XL. On pourrait peut-être mieux servis par une ou deux instances 2XL. 
+*
+  * Nous avons un serveur avec 512Mo; nous pouvons passer soit à un serveur 1Go, soit à un cluster de 2 nodes avec chacun 512Mo. Cette deuxième solution a aussi l’avantage de permettre des montées de version de la base de données sans interruption de service.
+  * Nous avons commencé la procédure mais rencontrons là aussi des erreurs côté scalingo.&#x20;
+* La charge CPU reste assez élevée sur les 3 instances XL. On pourrait peut-être mieux servis par une ou deux instances 2XL.&#x20;
 
+### Point d'étape au 25 octobre 2021
+
+![En haut le nombre de requêtes par minutes, en rouge, les erreurs (requête non aboutie) ; en bas, le temps de réponse](<../../../.gitbook/assets/Screenshot\_2021-10-25 Scalingo – production-rdv-solidarites – Metrics(1).png>)
+
+* L’autoscaler fonctionne pas mal, y compris avec des petits débrayages à midi.
+* Le déploiement de ce midi était à la bonne heure :sweat\_smile:
+* Le temps de réponse médian ne décolle pas, même pendant les pics
+* C’est sur ceux-ci qu’on va se concentrer maintenant

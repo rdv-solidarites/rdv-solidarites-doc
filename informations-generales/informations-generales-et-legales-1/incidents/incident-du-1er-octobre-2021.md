@@ -2,7 +2,7 @@
 
 ### Chronologie
 
-**9 h 28** : le département 64 nous signale l'impossibilité de se connecté à [https://rdv-solidarites.fr](https://rdv-solidarites.fr)  
+**9 h 28** : le département 64 nous signale l'impossibilité de se connecté à [https://rdv-solidarites.fr](https://rdv-solidarites.fr)\
 
 
 ![](../../../.gitbook/assets/image001.png)
@@ -19,21 +19,20 @@
 
 Un morceau de la chaine qui permet de s'assurer que le tuyau entre le navigateur et le serveur de RDV-Solidarités est bien sécurisé n'était plus sûr. Il fallait le renouveler. Ça a été annoncé.
 
-[DST Root CA X3 Expiration \(September 2021\)](https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/)
+[DST Root CA X3 Expiration (September 2021)](https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/)
 
 Ce morceau était utilisé par beaucoup de site ! Ce problème ne concernait pas uniquement RDV-Solidarités.
 
 La chose  à faire consistait à « accepter » la nouvelle chaine, celle avec le nouveau morceau.
 
-[Let's Encrypt DST Root CA X3 expiry Sept 30th 2021 \| Certify The Web Docs](https://docs.certifytheweb.com/docs/kb/kb-202109-letsencrypt/)
+[Let's Encrypt DST Root CA X3 expiry Sept 30th 2021 | Certify The Web Docs](https://docs.certifytheweb.com/docs/kb/kb-202109-letsencrypt/)
 
-Avec des navigateurs récent, mis à jour, il n'y a pas eu de coupure. Ce qui explique pourquoi l'équipe et certains \(beaucoup ?\) de département n'avait pas de problème.
+Avec des navigateurs récent, mis à jour, il n'y a pas eu de coupure. Ce qui explique pourquoi l'équipe et certains (beaucoup ?) de département n'avait pas de problème.
 
-C'est le fait que peu de département semblait avoir de problème et la dimension plus large que RDV-Solidarités qui nous ont amené à repousser le problème vers les DSI de chaque département concerné. 
+C'est le fait que peu de département semblait avoir de problème et la dimension plus large que RDV-Solidarités qui nous ont amené à repousser le problème vers les DSI de chaque département concerné.&#x20;
 
 ### Leçon
 
 Ce que nous aurions pu faire c'est s'assurer que les départements et leur DSI en particulier, avait conscience de cette expiration de certificat. Nous avons les moyens de savoir quels territoires utilise des navigateurs un peu anciens, pas forcément à jour.
 
 Les prévenir en amont aurait peut-être permis à certaines DSI de préparer ces changements.
-

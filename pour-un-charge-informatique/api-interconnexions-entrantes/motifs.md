@@ -10,13 +10,13 @@ description: Lecture de Motifs via l’API de RDV-Solidarités.
 
 **Paramètres**
 
-* `:organisation_id` INT - _requis_ : Liste de l'organisation pour laquelle on souhaite récupérer les motifs
+* `:organisation_id` INT - _requis _: Liste de l'organisation pour laquelle on souhaite récupérer les motifs
 * `:active` BOOL - _optionnel_ : permet de ne retourner que les motifs actifs
 * `:reservable_online` BOOL - _optionnel_ : permet de ne retourner que les motifs réservables en ligne
 
 **Réponse en cas de succès**
 
-* `motifs` : ARRAY\[MOTIF\]
+* `motifs` : ARRAY\[MOTIF]
 
 #### Exemple de requête
 
@@ -74,5 +74,4 @@ HTTP/1.1 200 OK
 }
 ```
 
-### 
-
+###
