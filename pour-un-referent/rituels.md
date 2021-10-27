@@ -8,32 +8,48 @@ description: >-
 
 ### Rétrospective
 
-Pour le moment, c'est uniquement l'équipe qui se retrouve 
+_Équipe_
 
-### Point produit
+Pour le moment, c'est uniquement l'équipe qui se retrouve&#x20;
 
-* Prioriser les tickets \(dans la colonne priorisée, ajouter des tickets dedans, en enlever\)
-* Discuter des orientations du produit \(roadmap\) ?
+### Point Priorisation
+
+_Équipe_
+
+* Prioriser les tickets (dans la colonne priorisée, ajouter des tickets dedans, en enlever)
+* Discuter des orientations du produit (roadmap) ?
 * Faire un tour des sujets sur le forum pour créer des tickets
 
-Un ticket doit commencer par un verbe à l'infinitif. L'idée est de bien comprendre ce que l'on cherche à faire. Clarifier les tickets existants \(dans la colonne priorisée ou dans la colonne backlog\). Peut-être à faire en asynchrone. Avoir un label « à clarifier ».
+Un ticket doit commencer par un verbe à l'infinitif. L'idée est de bien comprendre ce que l'on cherche à faire. Clarifier les tickets existants (dans la colonne priorisée ou dans la colonne backlog). Peut-être à faire en asynchrone. Avoir un label « à clarifier ».
 
-### Réunion référente
+### Réunion Produit
 
-Une fois par semaine, le mardi matin de 9 h 30 à 10 h 30. _Attention, il se peut que parfois les discussions nous entraine jusqu'à 11 h._
+_Équipe + _référentes départementales
+
+Une semaine sur deux, en alternance avec la réunion déploiement, le mardi matin de 9 h 30 à 10 h 30.
 
 Le déroulé :
 
 * Une démonstration des modifications impactantes apportées depuis la dernière fois est réalisée sur l'environnement de recette [https://recete.rdv-solidarites.fr](https://recete.rdv-solidarites.fr)
-* Parcours rapide des modifications en cours de développement avec une indication de la date de livraison en recette \(ou en prod pour le cas de correction de bug et autre urgence\)
-* Parcours du tableau de priorisation pour 
-  * clarifier certains tickets si nécessaires \(un `?` sur une ligne ou une question directe durant la réunion\)
+* Parcours rapide des modifications en cours de développement avec une indication de la date de livraison en recette (ou en prod pour le cas de correction de bug et autre urgence)
+* Parcours du tableau de priorisation pour&#x20;
+  * clarifier certains tickets si nécessaires (un `?` sur une ligne ou une question directe durant la réunion)
   * présentation rapide des tickets ajouté depuis la dernière fois
 * Discussion ouverte. Ce point pourrait être amélioré pour utiliser les éléments de discussion votés dans le deuxième onglet du tableau de priorisation... Ou bien nous pourrions arrêter d'utiliser ce deuxième onglet
 
-Une fois terminé, un compte rendu est réalisé à partir des notes prises durant la réunion \(sur un pad incubateur, souvent le même mis à jour : [https://pad.incubateur.net/cI1-YOhCR2apvjdaKnZLfg?edit](https://pad.incubateur.net/cI1-YOhCR2apvjdaKnZLfg?edit)\).
+Une fois terminé, un compte rendu est réalisé à partir des notes prises durant la réunion (sur un pad incubateur, souvent le même mis à jour : [https://pad.incubateur.net/cI1-YOhCR2apvjdaKnZLfg?edit](https://pad.incubateur.net/cI1-YOhCR2apvjdaKnZLfg?edit)).
 
 Pour le moment, le compte rendu est posté sur le forum, dans la catégorie évènement. Aujourd'hui, il serait intéressant de l'envoyer par email également. Demain, il sera peut-être plus intéressant de le mettre dans la documentation...
+
+### Réunion déploiement
+
+_Équipe + Référentes départementales_
+
+Une semaine sur deux, en alternance avec la réunion produit, le mardi matin de 9 h 30 à 10 h 30.
+
+* Aborder les événements BizDev : embarquement des départements, état des lieux des prospections...
+* Faire un point gouvernance : Action éventuelle, info ANCT, info sur les événements transverses (travaux data.insertion, conseiller numérique etc)
+* Point développements : où en sont les déploiements, besoins d'aide pour déployer etc.
 
 ### Livraison en production
 
@@ -44,6 +60,4 @@ Si nous avons besoin de plus de temps pour tester ces modifications, ou pour ave
 Si nous détectons un problème majeur sur ces modifications entre le mardi et le jeudi, nous pouvons demander à reporter la mise en production.
 
 Il existe une procédure d'urgence permettant de mettre en production rapidement des corrections si nécessaire.
-
-
 
