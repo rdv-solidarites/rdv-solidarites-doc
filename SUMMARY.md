@@ -56,6 +56,7 @@
   * [Data.insertion aka RDV-Insertion](pour-un-referent/data.insertion-aka-rdv-insertion.md)
   * [Gouvernance](pour-un-referent/gouvernance.md)
   * [Réunions Référentes](pour-un-referent/reunions-referentes/README.md)
+    * [Réunion référentes du 2 novembre 2021](guide-utilisation/pour-un-referent/reunions-referentes/reunion-referentes-du-2-novembre-2021.md)
     * [Atelier RDV Collectif du 29 octobre 2021](guide-utilisation/pour-un-referent/reunions-referentes/atelier-rdv-collectif-du-29-octobre-2021.md)
     * [Réunion des référentes du 26 octobre 2021](guide-utilisation/pour-un-referent/reunions-referentes/reunion-des-referentes-du-26-octobre-2021.md)
     * [Réunion référentes du 19 octobre 2021](pour-un-referent/reunions-referentes/reunion-referentes-du-19-octobre-2021.md)
