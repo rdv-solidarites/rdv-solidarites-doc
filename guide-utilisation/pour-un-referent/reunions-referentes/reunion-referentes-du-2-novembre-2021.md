@@ -35,10 +35,6 @@ Nous allons donc fermé ce ticket unique [#1708](https://github.com/betagouv/rdv
 
 Certaines d'entre vous ont récupéré par mal de points du coup. Penser à les redistribuer selon vos priorités.
 
-### RDV en séquences
-
-sujet à ajouter ? Puer puis Médecin : dans ce cas, les départements arrivent à bricoler avec les fonctionnalités actuelles de RDV-Solidarités
-
 ### Changement d'organisation
 
 Principalement de contenu. Nous sommes en train de parler en interne de changer le contenu de la réunion référente.
@@ -50,7 +46,7 @@ L'idée serait d'alterner tout les 15 jours entre
 
 ### Affichage des RDV pour l'accueil
 
-https://forum.rdv-solidarites.fr/t/agenda-multi-agents-par-jour-voire-par-semaine/92
+_Sujet abordé sur le forum _[_Agenda multi-agents par jour pour un lieu_](https://forum.rdv-solidarites.fr/t/agenda-multi-agents-par-jour-voire-par-semaine/92)__
 
 Question de la finalité ? Ce ticket sert la finalité de l'agenda ?
 
@@ -61,12 +57,14 @@ Ajout d'un ticket suite à la découverte de cet usage de RDV-Solidarités pour 
 Afficher plusieurs agendas en même temps, c'est pratique pour :\
 pour :
 
-* trouver des créneaux communs
+* trouver des créneaux communs (voir [recherche de créneaux en binôme et en séquence](reunion-referentes-du-2-novembre-2021.md#undefined))
 * avoir une vision globale de la journée, de la semaine, par mois
 
 Rappel, dans le fichier Excel qui est (était ?) utilisé dans le Calvados pour gérer les RDV, il y a un bloc par jour (créneaux horaires en ligne, professionnels en colonne regroupée par métier), 5 blocs dans un onglet, une semaine un onglet, 4 onglets (ou 5) pour un mois).
 
 _Ajout du ticket _[_Agenda d'une journée / page d'accueil pour un lieu (organisation ?) #1843 _](https://github.com/betagouv/rdv-solidarites.fr/issues/1843)_dans le tableau des prio. Il restera à régler la question du niveau : lieu ou organisation ?_
+
+### _Recherche de créneaux en binôme et en séquence_
 
 Lorsque que nous recherchons un créneau, il faudrait pouvoir préciser si c'est créneau commun ou si ce sont les créneaux individuels des agents sélectionnés qui nous intéresse.
 
