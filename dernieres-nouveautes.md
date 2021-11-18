@@ -6,6 +6,13 @@ description: >-
 
 # Dernières nouveautés
 
+## Du mardi 26 octobre au jeudi 18 novembre
+
+* [ Renommer Absence en Indisponibilité #1516 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1516)
+* [ Mettre à jour la date de fin au moment de la mise à jour d'un RDV en file d'attente #1826 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1826)
+* [ Masquer ce lien que je ne saurais voir derrière un bouton #1827 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1827)
+* [ Permettre aux agents d‘accepter et de transférer les évènements sur Outlook #1662 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1662)
+
 ## Du Vendredi 24 au lundi 25 octobre
 
 * [Augmenter le nombre d'usager et d'agent dans le fichier de construction #1623](https://github.com/betagouv/rdv-solidarites.fr/issues/1623)
