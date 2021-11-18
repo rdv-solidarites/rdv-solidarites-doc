@@ -8,6 +8,8 @@ description: >-
 
 ## Du mardi 26 octobre au jeudi 18 novembre
 
+* [ Amélioration des performances #1754 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1754)
+* [ Afficher une erreur lorsque la fin de répétition et avant la date de début d'une absence et d'une plage d'ouverture #1855 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1855)
 * [ Renommer Absence en Indisponibilité #1516 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1516)
 * [ Mettre à jour la date de fin au moment de la mise à jour d'un RDV en file d'attente #1826 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1826)
 * [ Masquer ce lien que je ne saurais voir derrière un bouton #1827 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1827)
