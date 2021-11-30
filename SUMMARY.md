@@ -2,7 +2,7 @@
 
 * [Guides et ressources de RDV-Solidarités](README.md)
 
-## Les guides d'utilisation <a href="guide-utilisation" id="guide-utilisation"></a>
+## Les guides d'utilisation <a href="#guide-utilisation" id="guide-utilisation"></a>
 
 * [Pour les agents](pour-les-agents/README.md)
   * [Comment démarrer sur RDV-solidarités ?](pour-les-agents/tutoriel/README.md)
@@ -56,6 +56,7 @@
   * [Data.insertion aka RDV-Insertion](pour-un-referent/data.insertion-aka-rdv-insertion.md)
   * [Gouvernance](pour-un-referent/gouvernance.md)
   * [Réunions Référentes](pour-un-referent/reunions-referentes/README.md)
+    * [Réunion référentes du 30 novembre 2021](guide-utilisation/pour-un-referent/reunions-referentes/reunion-referentes-du-30-novembre-2021.md)
     * [Réunion référentes du 16 novembre 2021](guide-utilisation/pour-un-referent/reunions-referentes/reunion-referentes-du-16-novembre-2021.md)
     * [Réunion référentes du 9 novembre 2021](guide-utilisation/pour-un-referent/reunions-referentes/reunion-referentes-du-9-novembre-2021.md)
     * [Réunion référentes du 2 novembre 2021](guide-utilisation/pour-un-referent/reunions-referentes/reunion-referentes-du-2-novembre-2021.md)
