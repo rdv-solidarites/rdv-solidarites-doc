@@ -56,6 +56,7 @@
   * [Data.insertion aka RDV-Insertion](pour-un-referent/data.insertion-aka-rdv-insertion.md)
   * [Gouvernance](pour-un-referent/gouvernance.md)
   * [Réunions Référentes](pour-un-referent/reunions-referentes/README.md)
+    * [Réunion référentes du 7 décembre 2021](guide-utilisation/pour-un-referent/reunions-referentes/reunion-referentes-du-7-decembre-2021.md)
     * [Réunion référentes du 30 novembre 2021](guide-utilisation/pour-un-referent/reunions-referentes/reunion-referentes-du-30-novembre-2021.md)
     * [Réunion référentes du 16 novembre 2021](guide-utilisation/pour-un-referent/reunions-referentes/reunion-referentes-du-16-novembre-2021.md)
     * [Réunion référentes du 9 novembre 2021](guide-utilisation/pour-un-referent/reunions-referentes/reunion-referentes-du-9-novembre-2021.md)

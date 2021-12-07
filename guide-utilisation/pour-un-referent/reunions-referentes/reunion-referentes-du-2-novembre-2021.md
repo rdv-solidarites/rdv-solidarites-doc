@@ -46,7 +46,7 @@ L'idée serait d'alterner tout les 15 jours entre
 
 ### Affichage des RDV pour l'accueil
 
-_Sujet abordé sur le forum _[_Agenda multi-agents par jour pour un lieu_](https://forum.rdv-solidarites.fr/t/agenda-multi-agents-par-jour-voire-par-semaine/92)__
+_Sujet abordé sur le forum_ [_Agenda multi-agents par jour pour un lieu_](https://forum.rdv-solidarites.fr/t/agenda-multi-agents-par-jour-voire-par-semaine/92)__
 
 Question de la finalité ? Ce ticket sert la finalité de l'agenda ?
 
@@ -62,7 +62,7 @@ pour :
 
 Rappel, dans le fichier Excel qui est (était ?) utilisé dans le Calvados pour gérer les RDV, il y a un bloc par jour (créneaux horaires en ligne, professionnels en colonne regroupée par métier), 5 blocs dans un onglet, une semaine un onglet, 4 onglets (ou 5) pour un mois).
 
-_Ajout du ticket _[_Agenda d'une journée / page d'accueil pour un lieu (organisation ?) #1843 _](https://github.com/betagouv/rdv-solidarites.fr/issues/1843)_dans le tableau des prio. Il restera à régler la question du niveau : lieu ou organisation ?_
+_Ajout du ticket_ [_Agenda d'une journée / page d'accueil pour un lieu (organisation ?) #1843_ ](https://github.com/betagouv/rdv-solidarites.fr/issues/1843)_dans le tableau des prio. Il restera à régler la question du niveau : lieu ou organisation ?_
 
 ### _Recherche de créneaux en binôme et en séquence_
 

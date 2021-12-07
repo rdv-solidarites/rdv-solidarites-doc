@@ -20,6 +20,6 @@ La saisie d'un email et d'un mot de passe correct, puis le clique sur le bouton 
 
 Pour les agents qui auraient oublié leur mot de passe, il y a dans cette page un lien « Mot de passe oublié ? » qui amène sur une page où il faut saisir son email.
 
-Un lien permettant la création d'un nouveau mot de passe sera envoyé à l'agent via cette adresse email. **Attention, ce lien n'est valable que **quatre** heures**. Passé ce délai, il faudra renouveler l'opération (saisi de l'émail dans la page mot de passe oublié, clique sur le bouton pour l'envoie du lien permettant de saisir un nouveau mot de passe).
+Un lien permettant la création d'un nouveau mot de passe sera envoyé à l'agent via cette adresse email. **Attention, ce lien n'est valable que** quatre **heures**. Passé ce délai, il faudra renouveler l'opération (saisi de l'émail dans la page mot de passe oublié, clique sur le bouton pour l'envoie du lien permettant de saisir un nouveau mot de passe).
 
 ![](../../.gitbook/assets/screenshot\_2021-06-24-rdv-solidarites-3-.png)
