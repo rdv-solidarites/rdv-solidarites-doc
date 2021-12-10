@@ -36,6 +36,7 @@
     * [Interface Agent](pour-les-agents/guide-dutilisation-pour-les-agents/interface-agent.md)
     * [Status de rendez-vous](pour-les-agents/guide-dutilisation-pour-les-agents/status-de-rendez-vous.md)
     * [File d'attente](pour-les-agents/guide-dutilisation-pour-les-agents/file-dattente.md)
+    * [Fusionner les doublons](guide-utilisation/pour-les-agents/guide-dutilisation-pour-les-agents/fusionner-les-doublons.md)
     * [Annulation de Rendez-vous](pour-les-agents/guide-dutilisation-pour-les-agents/annulation-de-rendez-vous.md)
     * [FAQ](pour-les-agents/guide-dutilisation-pour-les-agents/faq.md)
 * [Pour une organisation](pour-une-organisation/README.md)
