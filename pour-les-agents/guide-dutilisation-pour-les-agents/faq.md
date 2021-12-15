@@ -10,7 +10,7 @@ Nous avons constaté des erreurs de saisie sur certains rendez-vous. Cela les en
 
 Nous avons donc décidé de limiter la saisie dans le passé
 
-**La finalité de RDV-Solidarités, c’est de faire de la prise de rendez-vous et non du suivi.** Nous avons décidé de laisser la possibilité de saisir des rendez-vous jusqu’à 48 h dans le passé. Mais pas plus.\
+**La finalité de RDV-Solidarités, c’est de faire de la prise de rendez-vous et non du suivi. **Nous avons décidé de laisser la possibilité de saisir des rendez-vous jusqu’à 48 h dans le passé. Mais pas plus.\
 
 
 Nous avons conscience que cela pose un problème pour les statistiques, mais cela irait à l'encontre de notre finalité. Nous avons un travail à effectuer, avec vous, sur cet aspect statistique.

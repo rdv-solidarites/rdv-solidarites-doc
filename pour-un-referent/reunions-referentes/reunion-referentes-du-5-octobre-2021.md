@@ -70,7 +70,7 @@ Cet échange à permis de préciser que nous utiliserons 3 niveaux d'accès : le
 
 ### Page d'accueil agent
 
-_Ce ticket n'est pas dans le_ décloisonnement __ [https://github.com/betagouv/rdv-solidarites.fr/issues/1783](https://github.com/betagouv/rdv-solidarites.fr/issues/1783)
+_Ce ticket n'est pas dans le _décloisonnement_ _[https://github.com/betagouv/rdv-solidarites.fr/issues/1783](https://github.com/betagouv/rdv-solidarites.fr/issues/1783)
 
 L'objectif de ce ticket est surtout d'inviter les ~~agents~~ professionnels à renseigner le status des rendez-vous passé. Les référentes ont suggéré qu'il y avait sans doute une approche plus simple et plus direct. C'est très juste.
 

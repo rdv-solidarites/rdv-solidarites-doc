@@ -60,7 +60,7 @@ Ce traitement de données est nécessaire au respect d’une obligation légale 
 L’obligation légale est posée par :
 
 * [la loi LCEN n°2004-575 du 21 juin 2004 pour la confiance dans l’économie numérique](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000801164/2020-10-26/) ;
-* [les articles 1 et 3 du décret n°2011-219 du 25 février 2011](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000023646013/).
+* [les articles 1 et 3 du décret n°2021-1362 du 20 octobre 2021.](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044228912#:\~:text=Dans%20les%20r%C3%A9sum%C3%A9s-,D%C3%A9cret%20n%C2%B0%202021%2D1362%20du%2020%20octobre%202021%20relatif,confiance%20dans%20l'%C3%A9conomie%20num%C3%A9rique)
 
 _g) Cookies_
 

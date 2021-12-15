@@ -6,7 +6,7 @@ description: >-
 
 # API de notifications
 
-RDV-Solidarités peut notifier n'importe quel système d'information accessible en ligne lors de **modifications** (création, modification, suppression) sur les **RDV,** les **plages d'ouvertures** et les **absences.**
+RDV-Solidarités peut notifier n'importe quel système d'information accessible en ligne lors de **modifications **(création, modification, suppression) sur les **RDV,** les **plages d'ouvertures** et les** absences.**
 
 Pour cela, ce système d'informations doit :
 

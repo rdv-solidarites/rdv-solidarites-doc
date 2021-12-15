@@ -24,7 +24,7 @@ Un ticket doit commencer par un verbe à l'infinitif. L'idée est de bien compre
 
 ### Réunion Produit
 
-_Équipe +_ référentes départementales
+_Équipe + _référentes départementales
 
 Une semaine sur deux, en alternance avec la réunion déploiement, le mardi matin de 9 h 30 à 10 h 30.
 

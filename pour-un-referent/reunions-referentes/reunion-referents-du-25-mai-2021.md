@@ -18,7 +18,7 @@ Les tickets en cours de réalisation ou de test au 25 mai.
 * [Rendre visible les statistiques par organisation #1404](https://github.com/betagouv/rdv-solidarites.fr/issues/1404)
 * [Comprendre pourquoi le changement de status d'un RDV échoue #1413](https://github.com/betagouv/rdv-solidarites.fr/issues/1413)
 
-_Liste sur le_ [_tableau de développement_](https://github.com/betagouv/rdv-solidarites.fr/projects/8?fullscreen=true).
+_Liste sur le _[_tableau de développement_](https://github.com/betagouv/rdv-solidarites.fr/projects/8?fullscreen=true).
 
 ### Priorisées
 

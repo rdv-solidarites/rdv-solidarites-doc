@@ -25,10 +25,10 @@ La plage d'ouverture pourrait :
 * devenir un RDV collectif
 * Si la case est cochée, on ne peut sélectionner qu'un type de motif : RDV collectif et un seul motif.
 * S'afficherais, en plus des champs habituels de la plage d'ouverture, la capacité max
-* (option) Il serait chouette de pouvoir ici associer la plage d'ouverture à plusieurs agents ! (**Ticket possible à l'**extérieur **des RDV-Collectifs**)
+* (option) Il serait chouette de pouvoir ici associer la plage d'ouverture à plusieurs agents ! (**Ticket possible à l'**extérieur** des RDV-Collectifs**)
 * modifier la durée ou bien se dire qu'il n'y a pas de durée dans un motif de ce type parce que c'est celle de la plage d'ouverture qui va compter
 * pouvoir surcharger les instructions avant et après dans la plage d'ouverture
-* le motif permet d'ouvrir à la réservation en ligne ou pas. Nous pourrions personnaliser cette information d'ouverture en ligne sur la plage d'ouverture (**Ticket possible à l'**extérieur **des RDV-Collectifs**)
+* le motif permet d'ouvrir à la réservation en ligne ou pas. Nous pourrions personnaliser cette information d'ouverture en ligne sur la plage d'ouverture (**Ticket possible à l'**extérieur** des RDV-Collectifs**)
 
 _Note technique :_ pour le calcule de créneau, on pourrait considérer la `default_duration_in_min` du motif comme étant la durée de la plage d'ouverture dans le cas de motifs de type « collectif »
 
@@ -90,7 +90,7 @@ Notre point de réflexion coince un peu sur le statut de RDV. En plus des petits
 
 Faut-il le déplacer à la relation RDV-Usager ? Faut-il ajouter un sous statut sur la relation RDV-Usager ?
 
-_Ce point est valable pour les rendez-vous_ actuels_, lorsqu'il y a plusieurs bénéficiaires sur un RDV_
+_Ce point est valable pour les rendez-vous _actuels_, lorsqu'il y a plusieurs bénéficiaires sur un RDV_
 
 Peut-être que le mieux c'est d'ajouter une notion : le status de participation d'un usager à un RDV
 

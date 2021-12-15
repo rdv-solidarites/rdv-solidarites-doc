@@ -12,7 +12,7 @@ description: >-
 * [Nettoyer service PMI pour la Somme #1748](https://github.com/betagouv/rdv-solidarites.fr/issues/1748)
 * [Indiquer l’horaire du créneau choisi pendant toutes les étapes du tunnel de création de Rdv #1706](https://github.com/betagouv/rdv-solidarites.fr/issues/1706)
 
-_Nous avons détecté une erreur qui_ rendrait _impossible la prise de rendez-vous. Tout est rentré dans l'ordre en fin de matinée, c'était un problème de déploiement_
+_Nous avons détecté une erreur qui _rendrait_ impossible la prise de rendez-vous. Tout est rentré dans l'ordre en fin de matinée, c'était un problème de déploiement_
 
 Le service PMI reste visible coté usager pour le 80, pourquoi ? Un ticket a été créé pour s'assurer que l'investigation sera faite https://github.com/betagouv/rdv-solidarites.fr/issues/1798
 
@@ -78,7 +78,7 @@ Autre option utilisée : convoquer 10 à 15 personnes à la même heure.
 
 Sandra (80) : test autour des actions collectives sur RDV-Soldiarités.
 
-Pour un forum (60 personnes). Plusieurs personnes convoquées sur une demi-journée. **Sur quel agenda mettre le ou les RDV ?** Un RDV par personne sur le même horaire == 60 petits RDV sur la même période **Comment gérer la liste des RDV non** renseignée **par la suite ?**
+Pour un forum (60 personnes). Plusieurs personnes convoquées sur une demi-journée. **Sur quel agenda mettre le ou les RDV ?** Un RDV par personne sur le même horaire == 60 petits RDV sur la même période **Comment gérer la liste des RDV non **renseignée** par la suite ?**
 
 Pour une semaine avec des partenaires qui reçoivent des personnes sur des créneaux horaires. Sorte de « job dating ». Plusieurs partenaires à la même heure. **Quel agenda utiliser ?**
 

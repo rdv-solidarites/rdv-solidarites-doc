@@ -15,7 +15,7 @@ Les tickets en cours de réalisation ou de test au 4 mai.
 * [ Envoyer un email avec .ics à l'agent pour chaque RDV #1059 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1059)
 * [ Afficher le bloc de statistique des rendez-vous par statuts #1427 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1427)
 
-_Liste sur le_ [_tableau de développement_](https://github.com/betagouv/rdv-solidarites.fr/projects/8?fullscreen=true).
+_Liste sur le _[_tableau de développement_](https://github.com/betagouv/rdv-solidarites.fr/projects/8?fullscreen=true).
 
 ### Priorisées
 

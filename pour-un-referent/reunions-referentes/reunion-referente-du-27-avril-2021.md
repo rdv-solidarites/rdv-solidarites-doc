@@ -27,7 +27,7 @@ Les tickets en cours de réalisation ou de test au 20 avril.
 * [Envoyer des notifications mails avec fichier ICS aux agents pour les absences](https://github.com/betagouv/rdv-solidarites.fr/issues/1051)
 * [Corriger la recherche sectorisée quand un numéro est indiqué](https://github.com/betagouv/rdv-solidarites.fr/issues/1363)
 
-_Liste sur le_ [_tableau de développement_](https://github.com/betagouv/rdv-solidarites.fr/projects/8?fullscreen=true).
+_Liste sur le _[_tableau de développement_](https://github.com/betagouv/rdv-solidarites.fr/projects/8?fullscreen=true).
 
 ### Priorisation
 

@@ -26,7 +26,7 @@ Les tickets en cours de réalisation ou de test au 4 mai.
 * [Agenda agents inter-organisations](https://github.com/betagouv/rdv-solidarites.fr/issues/1185)
 * [Configuration des envois de SMS par territoire](https://github.com/betagouv/rdv-solidarites.fr/issues/1408)
 
-_Liste sur le_ [_tableau de développement_](https://github.com/betagouv/rdv-solidarites.fr/projects/8?fullscreen=true).
+_Liste sur le _[_tableau de développement_](https://github.com/betagouv/rdv-solidarites.fr/projects/8?fullscreen=true).
 
 ### Priorisées
 
