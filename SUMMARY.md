@@ -114,6 +114,7 @@
   * [Liste des champs stockés dans la base de données](informations-generales/informations-generales-et-legales-1/liste-des-champs-stockes-dans-la-base-de-donnees.md)
   * [Point de situation de l'équipe au 23 avril 2021](informations-generales/informations-generales-et-legales-1/point-de-situation-de-lequipe-au-23-avril-2021.md)
   * [Incidents](informations-generales/informations-generales-et-legales-1/incidents/README.md)
+    * [Incident du 17 décembre 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-du-17-decembre-2021.md)
     * [Incident du 1er octobre 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-du-1er-octobre-2021.md)
     * [Incident du 29 septembre 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-du-29-septembre-2021.md)
     * [Incident de septembre 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-de-production-du-22-septembre-2021.md)
