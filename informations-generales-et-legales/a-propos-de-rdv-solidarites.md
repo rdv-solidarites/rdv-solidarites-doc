@@ -44,4 +44,5 @@ En avril 2019, 12 collectivités départementales se sont associées pour former
 * [Thomas Guillet ](https://palya.fr/)Développement
 * [Yannick François ](https://elsif.fr)Développement et Produit
 * Nicolas Bouilleaud Développement
+* Rebecca Dumazert
 
