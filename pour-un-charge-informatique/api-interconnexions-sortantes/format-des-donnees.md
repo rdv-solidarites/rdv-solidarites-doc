@@ -18,6 +18,8 @@ La forme du contenu des requêtes est donnée pour les RDV et les plages d'ouver
       }
     ],
     "duration_in_min": 30,
+    "cancelled_at": "2020-08-04 10:00:00 +0200",
+    "created_by": "user",
     "motif": {
       "id": 1,
       "location_type": "phone",
@@ -95,6 +97,4 @@ La forme du contenu des requêtes est donnée pour les RDV et les plages d'ouver
   }
 }
 ```
-
-
 
