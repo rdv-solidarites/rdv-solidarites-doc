@@ -6,6 +6,47 @@ description: >-
 
 # Dernières nouveautés
 
+## Du vendredi 19 novembre 2021 au jeudi 20 janvier 2022
+
+* [Prendre en compte les jours fériés #2006 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2006)
+* [ Améliorer l'accessibilité de la route contact_path #1993 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1993)
+* [ Améliorer la performance de la recherche de créneaux #1838 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1838)
+* [Améliorer l'accessibilité de la route mds_path #1992 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1992)
+* [ Améliorer l'accessibilité de la route lieux_path #1988 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1988)
+* [Éviter les timeout à l’export des Rdv #1868 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1868)
+* [Créer des équipes de professionnels #1731 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1731)
+* [Améliorer l'accessibilité de la route accessibility_path #1991 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1991)
+* [Améliorer l'accessibilité de la route accueil_mds_path #1990 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1990)
+* [Tests d'accessibilité - Correction root_path #1960 ](https://github.com/betagouv/rdv-solidarites.fr/pull/1960)
+* [ supprime route welcome_motif #1985 ](https://github.com/betagouv/rdv-solidarites.fr/pull/1985)
+* [Indiquer le numéro de téléphone dans les résumés de notification #1978 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1978)
+* [ Ajouter des traces dans l'historique de changement du RDV à propos des notifications #1970 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1970)
+* [ feat(api): Add organisation user api route #1976 ](https://github.com/betagouv/rdv-solidarites.fr/pull/1976)
+* [Corrige des warnings de rake assets:precompile #1984 ](https://github.com/betagouv/rdv-solidarites.fr/pull/1984)
+* [ Nettoyer les specs désactivés #1774 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1774)
+* [Inclure les dates affichées dans le calcul de créneau #1900 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1900)
+* [Naviguer dans les pages de propositions de créneaux #1943 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1943)
+* [Mettre à jour ActiveModel-Caution, et le reste des dépendences #1927 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1927)
+* [Ne pas forcer les majuscules et minuscules dans les prénoms usagers #1811](https://github.com/betagouv/rdv-solidarites.fr/issues/1811)
+* [Débrayer l’envoi de notification au rendez-vous #1617 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1617)
+* [ broom Use Absence.expired_cached #1899 ](https://github.com/betagouv/rdv-solidarites.fr/pull/1899)
+* [ Trouver un créneau à partir d'une fiche usager présélectionne l'usager dans le tunnel de pris de RDV #1942 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1942)
+* [feat(invitations): Add external invitations actions and views #1865 ](https://github.com/betagouv/rdv-solidarites.fr/pull/1865)
+* [Dupliquer un RDV #1944 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1944)
+* [ Améliorer les performances de Rdv#update #1909 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1909)
+* [ Distinguer les agents dans la proposition de créneaux disponible #1848 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1848)
+* [affiche la checklist que pour les agents admin #1922 ](https://github.com/betagouv/rdv-solidarites.fr/pull/1922)
+* [Corriger les erreurs de chargement de l’agenda #1912 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1912)
+* [Mettre à jour le compteur des RDV au moment d'ajouter ou retirer un agent d'un RDV #1895 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1895)
+* [Retirer l'agent supprimé d'une organisation des secteurs où il a été affecté #1893 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1893)
+* [Afficher les RDV à renseigner en prenant en compte les divers organisations #1894 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1894)
+* [Afficher le bandeau pour les RDV à renseigner y compris quand c'est un RDV posé par un autre professionnel #1896](https://github.com/betagouv/rdv-solidarites.fr/issues/1896)
+* [ Libérer le libellé de motifs #1780 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1780)
+* [ Voir l'agent sélectionné dans le filtre de la liste des RDV #1872 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1872)
+* [  Faciliter l'accès aux RDV à renseigner #1788 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1788)
+* [ Changer de statut sur la fiche RDV depuis un smartphone #1823 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1823)
+* [ rocket Correctement afficher les erreurs à l‘étape 2 du AdminRdvWizard #1880 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1880)
+
 ## Du mardi 26 octobre au jeudi 18 novembre
 
 * [ Amélioration des performances #1754 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1754)
