@@ -16,7 +16,7 @@ Un Profil Usager lie un Usager à une Organisation. La plupart des usagers n'ont
 
 #### Paramètres de l'URL
 
-* `:ids` ARRAY\[INT] - _optionnel _: Liste des identifiants des usagers que l'on souhaite récupérer
+* `:ids` ARRAY\[INT] - _optionnel_ : Liste des identifiants des usagers que l'on souhaite récupérer
 
 #### Réponse en cas de succès
 
@@ -89,8 +89,8 @@ curl --verbose \
 
 #### Paramètres de l'URL
 
-* `:organisation_id` INT - _requis _: Liste de l'organisation pour laquelle on souhaite récupérer les
-* `:ids` ARRAY\[INT] - _optionnel _: Liste des identifiants des usagers que l'on souhaite récupérer
+* `:organisation_id` INT - _requis_ : Liste de l'organisation pour laquelle on souhaite récupérer les
+* `:ids` ARRAY\[INT] - _optionnel_ : Liste des identifiants des usagers que l'on souhaite récupérer
 
 #### Réponse en cas de succès
 

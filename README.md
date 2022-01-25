@@ -27,5 +27,5 @@ description: Cette documentation regroupe les informations utiles sur RDV-Solida
 {% endcontent-ref %}
 
 {% hint style="info" %}
-**Découvrir les**[** informations générales et légales.**](informations-generales/informations-generales-et-legales-1/)****
+**Découvrir les**[ **informations générales et légales.**](informations-generales/informations-generales-et-legales-1/)****
 {% endhint %}

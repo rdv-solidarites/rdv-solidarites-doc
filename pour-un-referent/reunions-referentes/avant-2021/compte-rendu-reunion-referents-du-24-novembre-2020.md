@@ -26,7 +26,7 @@ Il y a des discussions à mettre en place en interne. L'équipe va faire un emai
 
 Il a été également partagé la possibilité de reprendre le texte de la notification pour favoriser l'autonomie de l'usager pour l'annulation. C'est un point en cours de réflexion du côté de l'équipe.
 
-Les_ autres demandes _évoquées_ durant la discussion ont été transformé en ticket dans le _Trello_ brouillon_
+Les _autres demandes_ évoquées _durant la discussion ont été transformé en ticket dans le_ Trello _brouillon_
 
 #### Les nouveautés
 

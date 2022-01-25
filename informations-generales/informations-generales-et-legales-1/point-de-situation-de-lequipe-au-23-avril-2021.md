@@ -43,7 +43,7 @@ En résumé, il y a les **DÉMONSTRATIONS** pour faire découvrir l'outil et les
 
 Une fois vérifié, nous pourrions, par exemple, nous assurer que la plateforme de démonstration est aussi utile pour la formation. Ou bien, prévoir une plateforme de formation.
 
-_Peut-être que la _[_plateforme de démonstration_](https://demo.rdv-solidarites.fr)_ sert pour la démonstration aux départements qui n'ont pas encore rejoint le consortium et peut _servir_ de plateforme de formation pour les autres. Il faudrait pouvoir remettre les données d'un territoire à zéro, récupérer la configuration depuis la production peut-être… Il y aurait sans doute des choses à faire pour faciliter._
+_Peut-être que la_ [_plateforme de démonstration_](https://demo.rdv-solidarites.fr) _sert pour la démonstration aux départements qui n'ont pas encore rejoint le consortium et peut_ servir _de plateforme de formation pour les autres. Il faudrait pouvoir remettre les données d'un territoire à zéro, récupérer la configuration depuis la production peut-être… Il y aurait sans doute des choses à faire pour faciliter._
 
 ### Produit
 

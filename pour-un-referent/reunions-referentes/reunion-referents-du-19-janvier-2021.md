@@ -25,6 +25,6 @@ Voici le Compte-Rendu de la réunion du 19-01-2021
 
 Majoritairement, pas d'information concrète sur le sujet. Les référent-e-s se renseigneront à ce sujet. Toute l'équipe de RDV-Solidarités se tient à votre disposition pour évoquer ce cas d'usage. Pour le département de la Meuse : L'équipe se tient à votre disposition pour répondre à vos questions quant à la gestion de la vaccination COVID qui semble être un sujet dont vous pourriez être saisie. (Proposition d'échange envoyer par mail)
 
-_Prochaine réunion Référent-e-s : Le 2 février 2021 _
+_Prochaine réunion Référent-e-s : Le 2 février 2021_&#x20;
 
 _Mardi prochain, 26-01, Démonstration Produit : N'hésitez-pas à relayer l'invitation à vos utilisateurs locaux :)_
