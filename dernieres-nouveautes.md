@@ -6,6 +6,12 @@ description: >-
 
 # Dernières nouveautés
 
+## Du vendredi 21 janvier au lundi 7 février 2022
+
+* [ Renouveler les invitations agents #2019 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2019)
+* [ Dupliquer aussi le contexte d'un RDV à l'autre #2020 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2020)
+* [ Ne pas ajouter les usagers en double quand on modifie un Rdv #2028 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2028)
+
 ## Du vendredi 19 novembre 2021 au jeudi 20 janvier 2022
 
 * [Prendre en compte les jours fériés #2006 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2006)
