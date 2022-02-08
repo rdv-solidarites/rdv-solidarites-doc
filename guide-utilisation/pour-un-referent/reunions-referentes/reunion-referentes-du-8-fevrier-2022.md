@@ -47,7 +47,7 @@ Peut-être que dans certains cas, cela ne fonctionne pas ? L'équipe va faire un
 
 ### Droits d'accès
 
-Nous avons agrégé (un onglet par département pour le moment). L'idée sera ensuite de chercher les écarts et les points communs pour appuyer notre décision.
+Nous avons agrégé [vos retours dans un tableau](https://docs.google.com/spreadsheets/d/1eT1M7N4nHDS8a11Q0ZKpUMqcPZ2K-AgabLJ3kUA6PeQ/edit?usp=drive\_web\&ouid=105077925985295860964) (un onglet par département pour le moment). L'idée sera ensuite de chercher les écarts et les points communs pour appuyer notre décision.
 
 Pour rappel, nous envisageons deux options pour la gestion des droits d'accès :
 
