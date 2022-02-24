@@ -57,6 +57,7 @@
   * [Data.insertion aka RDV-Insertion](pour-un-referent/data.insertion-aka-rdv-insertion.md)
   * [Gouvernance](pour-un-referent/gouvernance.md)
   * [Réunions Référentes](pour-un-referent/reunions-referentes/README.md)
+    * [Atelier RGPD du 24 février 2022](guide-utilisation/pour-un-referent/reunions-referentes/atelier-rgpd-du-24-fevrier-2022.md)
     * [Réunion référentes du 22 février 2022](guide-utilisation/pour-un-referent/reunions-referentes/reunion-referentes-du-22-fevrier-2022.md)
     * [Réunion référentes du 15 février 2022](guide-utilisation/pour-un-referent/reunions-referentes/reunion-referentes-du-15-fevrier-2022.md)
     * [Réunion référentes du 8 février 2022](guide-utilisation/pour-un-referent/reunions-referentes/reunion-referentes-du-8-fevrier-2022.md)
