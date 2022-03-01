@@ -6,6 +6,12 @@ description: >-
 
 # Dernières nouveautés
 
+## Du 21 février au 28 février 
+
+* [ RDV Collectifs v0 #2163 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2163)
+* [ Considérer les délais min et max des motifs #2005 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2005#)
+* [ Nouvelle interface configuration #2151 ](https://github.com/betagouv/rdv-solidarites.fr/pull/2151#)
+
 ## Du vendredi 21 janvier au lundi 7 février 2022
 
 * [ Renouveler les invitations agents #2019 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2019)
