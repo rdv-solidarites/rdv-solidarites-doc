@@ -15,6 +15,7 @@ description: >-
 * [ Simplification des premiers pas pour les cnfs #2205 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2205)
 * [ Modifier la couleur des boutons oranges de l'accueil #2191 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2191)
 
+Voir la [milestone 2022-S09](https://github.com/betagouv/rdv-solidarites.fr/milestone/12?closed=1)
 
 ## Du 21 février au 25 février 
 
