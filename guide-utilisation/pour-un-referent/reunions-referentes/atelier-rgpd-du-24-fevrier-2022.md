@@ -14,8 +14,6 @@ Afin de créer les demandes de modification adéquate, nous proposons de faire u
 
 Ces tickets seront ensuite présentés sous forme d'un compte rendu d'atelier à une réunion référente ultérieur. Ainsi, si vous ne pouvez pas être disponible aux dates proposées, nous pourront malgré tout discuter de vos attentes sur ces points-là.
 
-
-
 Le contexte de cet ordre du jour et lié à une demande de la Somme, qui fait suite à la rédaction de la fiche du logiciel dans le cadre du RGPD
 
 ### Mails des usagers reçus par l'équipe
@@ -62,15 +60,9 @@ Ajouter la durée de conservation des RDV dans [la page des politiques de confid
 
 Ajouter une mention sur la durée de conservation des données de RDV (2 ans).
 
-Les points ci-dessous ne sont pas nécessaire avec suppression à 2 ans, mais nous en avons parlé.
-
-Anonymiser les RDV au bout d'un certain temps ? Annonymisation en supprimant le nom/prénom, modification du jour et du mois de naissance, supprimer le détail de la rue pour n'avoir que la commune.
-
-Comment transférer l'usager « suivi » qui est fait de RDV-Solidarités ? Quel département on un usage de ce type de RDV-Solidarités (en dehors du 62) ?
-
 ### Zones de commentaires
 
-Zone de remarque de la fiche usger, zone de contexte dans le RDV et champs sociaux de la fiche usager.
+Zone de remarque de la fiche usager, zone de contexte dans le RDV et champs sociaux de la fiche usager.
 
 Mettre en place des champs personnalisés sur les fiches usagers pour que chaque département puisse faire à sa guise. Ne pas mettre de zone de saisie libre (remarque). Laisser uniquement un champ court libre. Avoir également au maximum des champs personnalisé sous forme de liste déroulante.
 
