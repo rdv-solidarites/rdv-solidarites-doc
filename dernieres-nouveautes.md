@@ -6,7 +6,17 @@ description: >-
 
 # Dernières nouveautés
 
-## Du 21 février au 28 février 
+## Du 28 février au 7 mars
+
+* [ Limiter les référents possibles aux professionnels de l'organisation #2214 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2214)
+* [ Masquer les champs sociaux et le champ remarques de la fiche usager #2192 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2192)
+* [ Faciliter la recherche d'une plage d'ouverture en particulier dans la liste des plages d'ouvertures #1918 ](https://github.com/betagouv/rdv-solidarites.fr/issues/1918)
+* [ Afficher le samedi dans les agendas de certains conseillers #2145 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2145)
+* [ Simplification des premiers pas pour les cnfs #2205 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2205)
+* [ Modifier la couleur des boutons oranges de l'accueil #2191 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2191)
+
+
+## Du 21 février au 25 février 
 
 * [ RDV Collectifs v0 #2163 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2163)
 * [ Considérer les délais min et max des motifs #2005 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2005#)
