@@ -7,7 +7,6 @@
 Afin de créer les demandes de modification adéquate, nous proposons de faire un atelier pour aborder les points suivant :
 
 * La durée de conservation des données indiquée sur le site, mais avec des infos incohérentes et non appliquée réellement (sauf erreur de ma part)
-* La référence à "privacy".. qqchose sur le site
 * les exports de documents nominatifs
 * les zones de commentaires
 * le contenu des SMS et mail
