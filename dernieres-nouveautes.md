@@ -6,6 +6,16 @@ description: >-
 
 # Dernières nouveautés
 
+## Du 8 au 14 mars
+
+* [ Améliorer la performance des envois de webhooks #2154 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2154)
+* [ Améliorer l'accessibilité de la route users_rdvs_path #2097 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2097)
+* [ Supprimer le lien cassé de téléchargement de mes statistiques #2218 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2218)
+* [ Supprimer le lien cassé de téléchargement de mes statistiques #2218 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2218)
+* [ Améliorer l'accessibilité de la route admin_organisation_agent_agenda_path #2189 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2189)
+* [ Ne pas demander aux CNFS de renseigner les RDV #2245 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2245)
+* [ Cacher les options de réservation en ligne pour les CNFS #2243 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2243)
+
 ## Du 28 février au 7 mars
 
 * [ Limiter les référents possibles aux professionnels de l'organisation #2214 ](https://github.com/betagouv/rdv-solidarites.fr/issues/2214)
