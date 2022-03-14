@@ -1,4 +1,9 @@
+---
+description: >-
+  Liste des fonctionnalités et correctifs déployés en 2020
+---
 
+# Livraison de 2020
 
 ## Mercredi 30 décembre 2020
 
