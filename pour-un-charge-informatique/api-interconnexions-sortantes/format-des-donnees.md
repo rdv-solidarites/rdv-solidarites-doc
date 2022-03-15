@@ -1,7 +1,5 @@
 # Format des données
 
-La forme du contenu des requêtes est donnée pour les RDV et les plages d'ouvertures :
-
 ### RDV
 
 ```javascript
@@ -98,3 +96,84 @@ La forme du contenu des requêtes est donnée pour les RDV et les plages d'ouver
 }
 ```
 
+### Indisponibilité
+
+```json
+{
+    "data":{
+        "id":2,
+        "agent":{
+            "id":1,
+            "email":"martine@demo.rdv-solidarites.fr",
+            "first_name":"Martine",
+            "last_name":"Validay"
+        },
+        "end_day":"2022-03-25",
+        "end_time":"18:00:00",
+        "first_day":"2022-03-24",
+        "ical":"BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:RDV Solidarités\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nBEGIN:VTIMEZONE\r\nTZID:Europe/Paris\r\nBEGIN:DAYLIGHT\r\nDTSTART:20220327T030000\r\nTZOFFSETFROM:+0100\r\nTZOFFSETTO:+0200\r\nRRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3\r\nTZNAME:CEST\r\nEND:DAYLIGHT\r\nBEGIN:STANDARD\r\nDTSTART:20211031T020000\r\nTZOFFSETFROM:+0200\r\nTZOFFSETTO:+0100\r\nRRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10\r\nTZNAME:CET\r\nEND:STANDARD\r\nEND:VTIMEZONE\r\nBEGIN:VEVENT\r\nDTSTAMP:20220315T204727Z\r\nUID:absence_2@RDV Solidarités\r\nDTSTART;TZID=Europe/Paris:20220324T090000\r\nDTEND;TZID=Europe/Paris:20220325T180000\r\nORGANIZER:mailto:secretariat-auto@rdv-solidarites.fr\r\nSUMMARY:RDV Solidarités Formation\r\nEND:VEVENT\r\nEND:VCALENDAR\r\n",
+        "ical_uid":"absence_2@RDV Solidarités",
+        "organisation":{
+            "id":1,
+            "email":null,
+            "name":"MDS Paris Nord",
+            "phone_number":"0123456789"
+        },
+        "rrule":null,
+        "start_time":"09:00:00",
+        "title":"Formation"
+    },
+    "meta":{
+        "model":"Absence",
+        "event":"created",
+        "timestamp":"2022-03-15 21:47:27 +0100"
+    }
+}
+```
+
+### Usager
+
+```json
+{
+    "data": {
+            "logement":"locataire",
+            "notes":"Une remarque pour l'exemple",
+            "organisation":{
+                    "id":1,
+                    "email":null,
+                    "name":"MDS Paris Nord",
+                    "phone_number":"0123456789"
+            },
+            "user":{
+                    "id":10007,
+                    "address":"2 La Place, Éperlecques, 62910, 62, Pas-de-Calais, Hauts-de-France",
+                    "address_details":"appartement 31234",
+                    "affiliation_number":"123456789",
+                    "birth_date":"1970-03-12",
+                    "birth_name":null,
+                    "caisse_affiliation":"caf",
+                    "case_number":"5498465789",
+                    "created_at":"2022-03-15 21:27:58 +0100",
+                    "email":"louis@yahoo.fr",
+                    "family_situation":"divorced",
+                    "first_name":"Louis",
+                    "invitation_accepted_at":null,
+                    "invitation_created_at":null,
+                    "last_name":"Amstrong",
+                    "notify_by_email":true,
+                    "notify_by_sms":true,
+                    "number_of_children":6,
+                    "phone_number":"0699999999",
+                    "phone_number_formatted":"+33699999999",
+                    "responsible":null,
+                    "responsible_id":null,
+                    "user_profiles":null
+            }
+    },
+    "meta":{
+            "model":"UserProfile",
+            "event":"updated",
+            "timestmp":"2022-03-15 21:42:33 +0100"
+    }
+}
+```

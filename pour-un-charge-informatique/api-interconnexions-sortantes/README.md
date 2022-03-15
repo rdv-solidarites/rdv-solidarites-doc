@@ -6,7 +6,7 @@ description: >-
 
 # API de notifications
 
-RDV-Solidarités peut notifier n'importe quel système d'information accessible en ligne lors de **modifications** (création, modification, suppression) sur les **RDV,** les **plages d'ouvertures** et les **absences.**
+RDV-Solidarités peut notifier n'importe quel système d'information accessible en ligne lors de **modifications** (création, modification, suppression) sur les **RDV,** les **plages d'ouvertures**, les **absences** et les **usagers.**
 
 Pour cela, ce système d'informations doit :
 
@@ -30,7 +30,7 @@ Un secret partagé est associé à chacune de ces URLs pour vous permettre de v�
 
 ### Format des données
 
-Les RDV, plages d’ouvertures et absences sont envoyées en json, une requête par évènement de création, modification ou suppression. [Format des données](format-des-donnees.md).
+Les RDV, les plages d’ouvertures, les absences et les usagers sont envoyés en json, une requête par évènement de création, modification ou suppression. [Format des données](format-des-donnees.md).
 
 ### Tests
 
