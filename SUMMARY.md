@@ -134,4 +134,6 @@
     * [Incident du 7 septembre 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-de-production-du-7-septembre-2021.md)
     * [Incident du 29 avril 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-de-production-du-29-avril-2021.md)
     * [Incident du 17 mars 2021](informations-generales/informations-generales-et-legales-1/incidents/difficulte-sur-la-plateforme-le-mercredi-17-mars-2021.md)
-* [Dernières nouveautés](informations-generales/dernieres-nouveautes.md)
+* [Dernières nouveautés](informations-generales/dernieres-nouveautes/README.md)
+  * [Modifications de 2021](informations-generales/dernieres-nouveautes/modifications-de-2021.md)
+  * [Modifications de 2020](informations-generales/dernieres-nouveautes/modifications-de-2020.md)
