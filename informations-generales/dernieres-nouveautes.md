@@ -4,6 +4,14 @@ description: Liste des fonctionnalités et correctifs déployés
 
 # Dernières nouveautés
 
+### Du 15 au 21 mars 2022
+
+* [Déplacer les contrôles de créneau (TimeSlot) au moment de l'écriture du RDV, pas de son affichage #2105](https://github.com/betagouv/rdv-solidarites.fr/issues/2105)
+* [Empeche acces file attente pour motif non reservable en ligne #2253](https://github.com/betagouv/rdv-solidarites.fr/pull/2253)
+* [Ne pas préciser l'adresse du domicile d'un usager dans le cadre d'un RDV à domicile #2222](https://github.com/betagouv/rdv-solidarites.fr/issues/2222)
+* [Ajouter d'un complément d'adresse et de numeros de dossiers pour l'usager #1815](https://github.com/betagouv/rdv-solidarites.fr/issues/1815)
+* [Améliorer l'accessibilité de la route `admin_organisation_user_path` #2190](https://github.com/betagouv/rdv-solidarites.fr/issues/2190)
+
 ### Du 8 au 14 mars 2022
 
 * [Améliorer la performance des envois de webhooks #2154](https://github.com/betagouv/rdv-solidarites.fr/issues/2154)
