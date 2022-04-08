@@ -75,10 +75,12 @@ Les données à caractère personnel sont conservées :
 | Données relatives au compte Agent                          | Les données sont conservées jusqu'à la suppression du compte professionnel, ou 2 ans après l’inactivité du compte.                       |
 | Données relatives au compte Usager                         | Les données sont conservées jusqu'à la suppression du compte usager, ou 2 ans après l’inactivité du compte.                              |
 | Données relatives à la fiche "Nouvel Usager" - Responsable | Les données sont conservées jusqu'à la création d'un compte usager, dans un délai maximum de 2 ans à compter de la création de la fiche. |
-| Données relatives à la fiche "Nouvel Usager" - Proche      | Les données sont conservées jusqu'à la création d'un compte usager, dans un délai de 3 ans à compter de la création de la fiche.         |
+| Données relatives à la fiche "Nouvel Usager" - Proche      | Les données sont conservées jusqu'à la création d'un compte usager, dans un délai de 2 ans à compter de la création de la fiche.         |
 | Données de localisation                                    | Les données sont supprimées à compter de la prise de rendez-vous.                                                                        |
 | Données d'hébergeur                                        | 1 an.                                                                                                                                    |
 | Cookies                                                    | 13 mois.                                                                                                                                 |
+
+L'inactivité d'un usager se mesure sur la date du dernier RDV pris.
 
 **Droit des personnes concernées**
 
