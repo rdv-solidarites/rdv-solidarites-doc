@@ -52,7 +52,6 @@
     * [Exemple 2 : Sectorisation par rue et par agent](pour-un-territoire/sectorisation-geographique/sectorisation-par-rue.md)
 * [Pour un référent](pour-un-referent/README.md)
   * [Le rôle de la personne référente](pour-un-referent/le-role-de-la-personne-referente.md)
-  * [Environnement de recette](pour-un-referent/environnement-de-recette.md)
   * [Estimations](pour-un-referent/estimations.md)
   * [Rituels](pour-un-referent/rituels.md)
   * [Data.insertion aka RDV-Insertion](pour-un-referent/data.insertion-aka-rdv-insertion.md)

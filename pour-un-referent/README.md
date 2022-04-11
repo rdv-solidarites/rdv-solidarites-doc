@@ -4,23 +4,40 @@
 Un référent est ...
 {% endhint %}
 
-## Consultez la ressource qui vous intéresse : 
+## Consultez la ressource qui vous intéresse :&#x20;
 
-{% page-ref page="../pour-un-charge-informatique/hebergement-and-securite.md" %}
+{% content-ref url="../pour-un-charge-informatique/hebergement-and-securite.md" %}
+[hebergement-and-securite.md](../pour-un-charge-informatique/hebergement-and-securite.md)
+{% endcontent-ref %}
 
-{% page-ref page="./" %}
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
 
-{% page-ref page="le-role-de-la-personne-referente.md" %}
+{% content-ref url="le-role-de-la-personne-referente.md" %}
+[le-role-de-la-personne-referente.md](le-role-de-la-personne-referente.md)
+{% endcontent-ref %}
 
-{% page-ref page="environnement-de-recette.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="estimations.md" %}
+{% content-ref url="estimations.md" %}
+[estimations.md](estimations.md)
+{% endcontent-ref %}
 
-{% page-ref page="rituels.md" %}
+{% content-ref url="rituels.md" %}
+[rituels.md](rituels.md)
+{% endcontent-ref %}
 
-{% page-ref page="data.insertion-aka-rdv-insertion.md" %}
+{% content-ref url="data.insertion-aka-rdv-insertion.md" %}
+[data.insertion-aka-rdv-insertion.md](data.insertion-aka-rdv-insertion.md)
+{% endcontent-ref %}
 
-{% page-ref page="gouvernance.md" %}
+{% content-ref url="gouvernance.md" %}
+[gouvernance.md](gouvernance.md)
+{% endcontent-ref %}
 
-{% page-ref page="reunions-referentes/" %}
-
+{% content-ref url="reunions-referentes/" %}
+[reunions-referentes](reunions-referentes/)
+{% endcontent-ref %}
