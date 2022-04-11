@@ -2,7 +2,7 @@
 
 ### Coût
 
-Il faut compter en général deux notifications par RDV. Chaque notification envoie un message trop long pour un seul SMS. C'est donc deux SMS qui sont envoyé à chaque notification. **Cela fait un total de quatre SMS envoyés par RDV**
+Il faut compter en général deux notifications par RDV. Chaque notification envoie un message trop long pour un seul SMS. C'est donc deux SMS qui sont envoyés à chaque notification. **Cela fait un total de quatre SMS envoyés par RDV**
 
 Le coût peut varier selon les fournisseurs.&#x20;
 
