@@ -4,15 +4,21 @@
 Un territoire est...
 {% endhint %}
 
-## Consultez la ressource qui vous intéresse : 
+## Consultez la ressource qui vous intéresse :&#x20;
 
-{% page-ref page="../pour-un-charge-informatique/hebergement-and-securite.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="creer-une-organisation.md" %}
+{% content-ref url="creer-une-organisation.md" %}
+[creer-une-organisation.md](creer-une-organisation.md)
+{% endcontent-ref %}
 
-{% page-ref page="configuration-territoire.md" %}
+{% content-ref url="configuration-territoire.md" %}
+[configuration-territoire.md](configuration-territoire.md)
+{% endcontent-ref %}
 
-{% page-ref page="sectorisation-geographique/" %}
-
-
+{% content-ref url="sectorisation-geographique/" %}
+[sectorisation-geographique](sectorisation-geographique/)
+{% endcontent-ref %}
 

@@ -18,12 +18,12 @@ description: Cette documentation regroupe les informations utiles sur RDV-Solida
 [pour-un-territoire](pour-un-territoire/)
 {% endcontent-ref %}
 
-{% content-ref url="pour-un-referent/" %}
-[pour-un-referent](pour-un-referent/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="pour-un-charge-informatique/" %}
-[pour-un-charge-informatique](pour-un-charge-informatique/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}

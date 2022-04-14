@@ -108,12 +108,12 @@ Dernière mise à jour : 07/12/2020
 * Date et heure de début
 * dates et heures de création et de dernière modification
 * Date et heure d'annulation
-* Statut \(cf [États de rendez-vous](../../pour-un-charge-informatique/statut-de-rendez-vous.md#status-en-base-et-dans-les-apis)\)
+* Statut (cf [États de rendez-vous](broken-reference))
 * Adresse
 * Créé par : agent / usager
 * Notes libres de contexte
-* Lien avec le\(s\) agent\(s\)
-* Lien avec le\(s\) usager\(s\)
+* Lien avec le(s) agent(s)
+* Lien avec le(s) usager(s)
 * Lien avec le motif
 * Lien avec l'organisation associée
 * Lien avec le lieu
@@ -123,7 +123,7 @@ Dernière mise à jour : 07/12/2020
 * Lien avec le secteur
 * Lien avec l'organisation associée
 * Niveau d'attribution : à l'organisation / à l'agent
-* Lien avec l'agent associé \(optionnel\)
+* Lien avec l'agent associé (optionnel)
 
 ## Table `sectors`
 
@@ -143,7 +143,7 @@ Dernière mise à jour : 07/12/2020
 * Email
 * Dates et heures de création et de dernière modification
 
-## Table `user_profiles` \(infos sur les usagers séparées par organisation\)
+## Table `user_profiles` (infos sur les usagers séparées par organisation)
 
 * Type de logement : Sans domicile fixe / Hébergé / Locataire / En accession à la propriété / Propriétaire / Autre
 * Notes libres des agents
@@ -195,4 +195,3 @@ Dernière mise à jour : 07/12/2020
 * Nom de la rue
 * Code BAN de la rue
 * Dates et heure de création et de dernière modification
-

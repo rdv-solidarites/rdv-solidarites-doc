@@ -10,13 +10,17 @@ description: >-
 Les agents sont les utilisateurs principaux de la plateforme.
 {% endhint %}
 
-## Consultez la ressource qui vous intéresse : 
+## Consultez la ressource qui vous intéresse :&#x20;
 
-{% page-ref page="../pour-un-charge-informatique/hebergement-and-securite.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="tutoriel/" %}
+{% content-ref url="tutoriel/" %}
+[tutoriel](tutoriel/)
+{% endcontent-ref %}
 
-{% page-ref page="guide-dutilisation-pour-les-agents/" %}
-
-
+{% content-ref url="guide-dutilisation-pour-les-agents/" %}
+[guide-dutilisation-pour-les-agents](guide-dutilisation-pour-les-agents/)
+{% endcontent-ref %}
 

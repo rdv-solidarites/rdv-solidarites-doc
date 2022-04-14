@@ -4,13 +4,17 @@
 Une organisation est ...
 {% endhint %}
 
-## Consultez la ressource qui vous intéresse : 
+## Consultez la ressource qui vous intéresse :&#x20;
 
-{% page-ref page="../pour-un-charge-informatique/hebergement-and-securite.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="permissions-agents.md" %}
+{% content-ref url="permissions-agents.md" %}
+[permissions-agents.md](permissions-agents.md)
+{% endcontent-ref %}
 
-{% page-ref page="suppression-dagent.md" %}
-
-
+{% content-ref url="suppression-dagent.md" %}
+[suppression-dagent.md](suppression-dagent.md)
+{% endcontent-ref %}
 
