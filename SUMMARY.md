@@ -101,7 +101,7 @@
       * [Réunion référentes du 8 décembre 2020](pour-un-referent/reunions-referentes/avant-2021/reunion-referent-du-8-decembre-2020.md)
 * [Pour un chargé informatique](pour-un-charge-informatique/README.md)
   * [Hébergement & sécurité](pour-un-charge-informatique/hebergement-and-securite.md)
-  * [Interconnexions aperçu](pour-un-charge-informatique/interconnexions-apercu.md)
+  * [Interconnexions aperçues](pour-un-charge-informatique/interconnexions-apercu.md)
   * [API de requêtes](pour-un-charge-informatique/api-interconnexions-entrantes/README.md)
     * [Généralités](pour-un-charge-informatique/api-interconnexions-entrantes/details-techniques.md)
     * [Authentification](pour-un-charge-informatique/api-interconnexions-entrantes/authentification-and-permissions.md)
