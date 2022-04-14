@@ -2,6 +2,8 @@
 
 ### RDV
 
+_note : le format contient maintenant des champs optionnels : numéro de dossier, complément d'adresse, ...._
+
 ```javascript
 {
   "data": {
