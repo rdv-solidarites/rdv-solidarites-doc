@@ -18,6 +18,14 @@ description: Cette documentation regroupe les informations utiles sur RDV-Solida
 [pour-un-territoire](pour-un-territoire/)
 {% endcontent-ref %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 {% hint style="info" %}
 **Découvrir les**[ **informations générales et légales.**](informations-generales/informations-generales-et-legales-1/)****
 {% endhint %}
