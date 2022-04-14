@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Guides et ressources de RDV-Solidarités](README.md)
-* [Test](test.md)
 
 ## Les guides d'utilisation <a href="#guide-utilisation" id="guide-utilisation"></a>
 
