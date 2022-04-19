@@ -2,54 +2,83 @@
 
 ### RDV
 
-_note : le format contient maintenant des champs optionnels : numéro de dossier, complément d'adresse, ...._
-
-```javascript
+```json
 {
   "data": {
-    "id": 1,
-    "address": "",
-    "agents": [
+    "id":2989,
+    "address":"Avenue de Ségur, Paris, 75015",
+    "agents":[
       {
-        "id": 1,
-        "email": "martine@demo.rdv-solidarites.fr",
-        "first_name": "Martine",
-        "last_name": "VALIDAY"
+        "id":368,
+        "email":"difallahradia@gmail.com",
+        "first_name":"Radia",
+        "last_name":"DIFALLAH"
       }
     ],
-    "duration_in_min": 30,
-    "cancelled_at": "2020-08-04 10:00:00 +0200",
-    "created_by": "user",
+    "cancelled_at":null,
+    "collectif":false,
+    "context":"",
+    "created_by":"agent",
+    "duration_in_min":30,
+    "ends_at":"2022-04-21 11:00:00 +0200",
+    "lieu": {
+      "id":190,
+      "address":"Avenue de Ségur, Paris, 75015",
+      "name":"MDS Lapin75"
+    },
+    "max_participants_count":null,
     "motif": {
-      "id": 1,
-      "location_type": "phone",
-      "name": "Être rappelé par la PMI"
+      "id":370,
+      "category":null,
+      "deleted_at":null,
+      "location_type":"public_office",
+      "name":"Consultation BCG",
+      "reservable_online":true,
+      "service_id":1
     },
+    "name":null,
     "organisation": {
-      "id": 1,
-      "departement": "75",
-      "name": "MDS Paris Nord"
+      "id":141,
+      "email":null,
+      "name":"HOCHE",
+      "phone_number":"0143765489"
     },
-    "starts_at": "2020-08-07 10:00:00 +0200",
-    "status": "noshow",
+    "starts_at":"2022-04-21 10:30:00 +0200",
+    "status":"unknown",
     "users": [
       {
-        "id": 1,
-        "address": null,
-        "birth_date": "1975-06-20",
-        "email": "patricia_duroy@demo.rdv-solidarites.fr",
-        "first_name": "Patricia",
-        "last_name": "DUROY",
-        "phone_number": "01 23 45 67 89",
-        "responsible": null
+        "id":1464,
+        "address":"3 Rue de la rue, la Ville, 13007",
+        "address_details":null,
+        "affiliation_number":"",
+        "birth_date":null,
+        "birth_name":null,
+        "caisse_affiliation":null,
+        "case_number":null,
+        "created_at":"2022-02-28 22:19:35 +0100",
+        "email":"bob@example.com",
+        "family_situation":null,
+        "first_name":"Bob",
+        "invitation_accepted_at":null,
+        "invitation_created_at":"2022-02-28 22:19:35 +0100",
+        "last_name":"Example",
+        "notify_by_email":true,
+        "notify_by_sms":true,
+        "number_of_children":null,
+        "phone_number":"0699999999",
+        "phone_number_formatted":"+33699999999",
+        "responsible":null,
+        "responsible_id":null,
+        "user_profiles":null
       }
     ],
-    "uuid": "966f9fb3-3d9d-4548-b1b8-feaf08548d9e"
+    "users_count":1,
+    "uuid":"47216715-675e-4728-b22a-5079d14f0b8b"
   },
   "meta": {
-    "model": "Rdv",
-    "event": "updated",
-    "timestamp": "2020-08-04 10:46:03 +0200"
+    "model":"Rdv",
+    "event":"created",
+    "timestamp":"2022-04-19 21:32:32 +0200"
   }
 }
 ```
