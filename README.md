@@ -6,18 +6,18 @@ description: Cette documentation regroupe les informations utiles sur RDV-Solida
 
 ## Débutez avec le guide qui vous correspond :
 
-{% content-ref url="pour-les-agents/" %}
-[pour-les-agents](pour-les-agents/)
+{% content-ref url="guide-utilisation/pour-les-agents/" %}
+[pour-les-agents](guide-utilisation/pour-les-agents/)
 {% endcontent-ref %}
 
-{% content-ref url="pour-une-organisation/" %}
-[pour-une-organisation](pour-une-organisation/)
+{% content-ref url="guide-utilisation/pour-une-organisation/" %}
+[pour-une-organisation](guide-utilisation/pour-une-organisation/)
 {% endcontent-ref %}
 
-{% content-ref url="pour-un-territoire/" %}
-[pour-un-territoire](pour-un-territoire/)
+{% content-ref url="guide-utilisation/pour-un-territoire/" %}
+[pour-un-territoire](guide-utilisation/pour-un-territoire/)
 {% endcontent-ref %}
 
 {% hint style="info" %}
-**Découvrir les**[ **informations générales et légales.**](informations-generales/informations-generales-et-legales-1/)****
+**Découvrir les**[ **informations générales et légales.**](informations-generales/informations-generales-et-legales-1/)\*\*\*\*
 {% endhint %}
