@@ -40,6 +40,7 @@
       * [Comment consulter et modifier le résumé d’un rendez-vous ?](guide-utilisation/pour-les-agents/tutoriel/etape-4-comment-gerer-ses-rendez-vous/comment-consulter-et-modifier-le-resume-dun-rendez-vous.md)
     * [RDV Collectifs](guide-utilisation/pour-les-agents/tutoriel/rdv-collectifs.md)
     * [Comment se déconnecter ?](guide-utilisation/pour-les-agents/tutoriel/etape-5-comment-se-deconnecter.md)
+* [Pour les Conseillers Numériques](guide-utilisation/pour-les-conseillers-numeriques.md)
 * [Pour une organisation](guide-utilisation/pour-une-organisation/README.md)
   * [Permissions des agents](guide-utilisation/pour-une-organisation/permissions-agents.md)
   * [Suppression d'agent](guide-utilisation/pour-une-organisation/suppression-dagent.md)
