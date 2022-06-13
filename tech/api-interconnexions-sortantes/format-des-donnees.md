@@ -25,7 +25,7 @@
       "id":190,
       "address":"Avenue de Ségur, Paris, 75015",
       "name":"MDS Lapin75",
-      "single_use":false
+      "single_user":false
     },
     "max_participants_count":null,
     "motif": {
