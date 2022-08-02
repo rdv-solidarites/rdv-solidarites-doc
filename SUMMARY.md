@@ -124,9 +124,3 @@
     * [Réunion Référents du 24 novembre 2020](organisation-dequipe/reunions-referentes/avant-2021/compte-rendu-reunion-referents-du-24-novembre-2020.md)
     * [Réunion référentes 3 décembre 2019](organisation-dequipe/reunions-referentes/avant-2021/reunion-referents-n-12-03-decembre-2019.md)
     * [Réunion référentes du 8 décembre 2020](organisation-dequipe/reunions-referentes/avant-2021/reunion-referent-du-8-decembre-2020.md)
-
-## Informations générales
-
-* [Dernières nouveautés](informations-generales/dernieres-nouveautes/README.md)
-  * [Modifications de 2021](informations-generales/dernieres-nouveautes/modifications-de-2021.md)
-  * [Modifications de 2020](informations-generales/dernieres-nouveautes/modifications-de-2020.md)
