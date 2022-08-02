@@ -128,11 +128,7 @@
 ## Informations générales
 
 * [Informations générales et légales](informations-generales/informations-generales-et-legales-1/README.md)
-  * [Conditions d’utilisation de la plateforme RDV-Solidarités](informations-generales/informations-generales-et-legales-1/conditions-dutilisation-de-la-plateforme-rdv-solidarites.md)
-  * [Mentions Légales](informations-generales/informations-generales-et-legales-1/mentions-legales.md)
-  * [Politique de confidentialité](informations-generales/informations-generales-et-legales-1/politique-de-confidentialite.md)
   * [À propos de RDV-Solidarités](informations-generales/informations-generales-et-legales-1/a-propos-de-rdv-solidarites.md)
-  * [Outils de prise de rendez-vous](informations-generales/informations-generales-et-legales-1/outils-de-prise-de-rendez-vous.md)
   * [Liste des champs stockés dans la base de données](informations-generales/informations-generales-et-legales-1/liste-des-champs-stockes-dans-la-base-de-donnees.md)
   * [Point de situation de l'équipe au 23 avril 2021](informations-generales/informations-generales-et-legales-1/point-de-situation-de-lequipe-au-23-avril-2021.md)
   * [Incidents](informations-generales/informations-generales-et-legales-1/incidents/README.md)
