@@ -129,8 +129,6 @@
 
 * [Informations générales et légales](informations-generales/informations-generales-et-legales-1/README.md)
   * [À propos de RDV-Solidarités](informations-generales/informations-generales-et-legales-1/a-propos-de-rdv-solidarites.md)
-  * [Liste des champs stockés dans la base de données](informations-generales/informations-generales-et-legales-1/liste-des-champs-stockes-dans-la-base-de-donnees.md)
-  * [Point de situation de l'équipe au 23 avril 2021](informations-generales/informations-generales-et-legales-1/point-de-situation-de-lequipe-au-23-avril-2021.md)
   * [Incidents](informations-generales/informations-generales-et-legales-1/incidents/README.md)
     * [Incident du 9 juin 2022](informations-generales/informations-generales-et-legales-1/incidents/incident-du-9-juin-2022.md)
     * [Incident du 30 mai 2022](informations-generales/informations-generales-et-legales-1/incidents/incident-du-30-mai-2022.md)
