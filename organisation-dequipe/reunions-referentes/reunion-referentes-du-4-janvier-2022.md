@@ -24,7 +24,7 @@ _Nous n'avons pas eu l'occasion d'en parler durant la réunion, mais voici ce qu
 
 ### Sécurisation des mises en production
 
-Il y a eu plusieurs problèmes suite aux mises en production à l'automne. Le dernier en date du [17 décembre 2021](../../informations-generales/informations-generales-et-legales-1/incidents/incident-du-17-decembre-2021.md) est principalement lié à un manque de test en recette.
+Il y a eu plusieurs problèmes suite aux mises en production à l'automne. Le dernier en date du [17 décembre 2021](broken-reference) est principalement lié à un manque de test en recette.
 
 L'augmentation du nombre d'utilisateurs du service nécessite une amélioration de la qualité du processus de mise en production.
 
@@ -44,7 +44,7 @@ L'équipe doit discuter un peu de ces propositions pour peser le pour et le cont
 
 Au dernier COPIL il a été acté que l'ANCT proposerait une roadmap pour orienter le service en donnant un cap sur un horizon de 6 mois avec un point trimestriel (à minima) pour rediscuter de cette roadmap.
 
-Une première version à été discuté à la réunion aujourd'hui, et voici ce qu'il en ressort :\
+Une première version à été discuté à la réunion aujourd'hui, et voici ce qu'il en ressort :\
 ressort :
 
 _Retiré_ **Flux ical** _(pour agent, pour lieux accueil, ...)_

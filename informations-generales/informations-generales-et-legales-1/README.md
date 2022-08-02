@@ -1,2 +1,0 @@
-# Informations générales et légales
-

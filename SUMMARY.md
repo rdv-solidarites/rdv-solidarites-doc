@@ -127,18 +127,6 @@
 
 ## Informations générales
 
-* [Informations générales et légales](informations-generales/informations-generales-et-legales-1/README.md)
-  * [À propos de RDV-Solidarités](informations-generales/informations-generales-et-legales-1/a-propos-de-rdv-solidarites.md)
-  * [Incidents](informations-generales/informations-generales-et-legales-1/incidents/README.md)
-    * [Incident du 9 juin 2022](informations-generales/informations-generales-et-legales-1/incidents/incident-du-9-juin-2022.md)
-    * [Incident du 30 mai 2022](informations-generales/informations-generales-et-legales-1/incidents/incident-du-30-mai-2022.md)
-    * [Incident du 17 décembre 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-du-17-decembre-2021.md)
-    * [Incident du 1er octobre 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-du-1er-octobre-2021.md)
-    * [Incident du 29 septembre 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-du-29-septembre-2021.md)
-    * [Incident de septembre 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-de-production-du-22-septembre-2021.md)
-    * [Incident du 7 septembre 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-de-production-du-7-septembre-2021.md)
-    * [Incident du 29 avril 2021](informations-generales/informations-generales-et-legales-1/incidents/incident-de-production-du-29-avril-2021.md)
-    * [Incident du 17 mars 2021](informations-generales/informations-generales-et-legales-1/incidents/difficulte-sur-la-plateforme-le-mercredi-17-mars-2021.md)
 * [Dernières nouveautés](informations-generales/dernieres-nouveautes/README.md)
   * [Modifications de 2021](informations-generales/dernieres-nouveautes/modifications-de-2021.md)
   * [Modifications de 2020](informations-generales/dernieres-nouveautes/modifications-de-2020.md)
