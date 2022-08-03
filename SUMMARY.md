@@ -76,10 +76,6 @@
 
 ## Organisation d'équipe
 
-* [Le rôle de la personne référente](organisation-dequipe/le-role-de-la-personne-referente.md)
-* [Estimations](organisation-dequipe/estimations.md)
-* [Data.insertion aka RDV-Insertion](organisation-dequipe/data.insertion-aka-rdv-insertion.md)
-* [Gouvernance](organisation-dequipe/gouvernance.md)
 * [Réunions Référentes](organisation-dequipe/reunions-referentes/README.md)
   * [Réunion référentes du 19 avril 2022](organisation-dequipe/reunions-referentes/reunion-referentes-du-19-avril-2022.md)
   * [Réunion référentes du 12 avril 2022](organisation-dequipe/reunions-referentes/reunion-referentes-du-12-avril-2022.md)
