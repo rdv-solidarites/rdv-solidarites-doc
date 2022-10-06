@@ -5,81 +5,109 @@
 ```json
 {
   "data": {
-    "id":2989,
-    "address":"Avenue de Ségur, Paris, 75015",
-    "agents":[
+    "id": 8025,
+    "address": "",
+    "agents": [
       {
-        "id":368,
-        "email":"difallahradia@gmail.com",
-        "first_name":"Radia",
-        "last_name":"DIFALLAH"
+        "id": 1,
+        "email": "martine@demo.rdv-solidarites.fr",
+        "first_name": "Martine",
+        "last_name": "Validay"
       }
     ],
-    "cancelled_at":null,
-    "collectif":false,
-    "context":"",
-    "created_by":"agent",
-    "duration_in_min":30,
-    "ends_at":"2022-04-21 11:00:00 +0200",
-    "lieu": {
-      "id":190,
-      "address":"Avenue de Ségur, Paris, 75015",
-      "name":"MDS Lapin75",
-      "single_use":false
-    },
-    "max_participants_count":null,
+    "cancelled_at": null,
+    "collectif": false,
+    "context": "",
+    "created_by": "agent",
+    "duration_in_min": 30,
+    "ends_at": "2022-10-07 11:00:00 +0200",
+    "lieu": null,
+    "max_participants_count": null,
     "motif": {
-      "id":370,
-      "category":null,
-      "deleted_at":null,
-      "location_type":"public_office",
-      "name":"Consultation BCG",
-      "reservable_online":true,
-      "service_id":1
+      "id": 2,
+      "category": null,
+      "deleted_at": null,
+      "location_type": "phone",
+      "name": "Consultation gynécologie / contraception",
+      "organisation_id": 1,
+      "reservable_online": false,
+      "service_id": 1
     },
-    "name":null,
+    "name": null,
     "organisation": {
-      "id":141,
-      "email":null,
-      "name":"HOCHE",
-      "phone_number":"0143765489"
+      "id": 1,
+      "email": null,
+      "name": "MDS Paris Nord",
+      "phone_number": "0123456789"
     },
-    "starts_at":"2022-04-21 10:30:00 +0200",
-    "status":"unknown",
+    "rdvs_users": [
+      {
+        "send_lifecycle_notifications": true,
+        "send_reminder_notification": true,
+        "status": "unknown",
+        "user": {
+          "id": 3,
+          "address": null,
+          "address_details": null,
+          "affiliation_number": null,
+          "birth_date": "1982-12-01",
+          "birth_name": null,
+          "caisse_affiliation": null,
+          "case_number": null,
+          "created_at": "2022-10-06 10:37:12 +0200",
+          "email": "lea_dupont@demo.rdv-solidarites.fr",
+          "family_situation": null,
+          "first_name": "Léa",
+          "invitation_accepted_at": null,
+          "invitation_created_at": null,
+          "last_name": "Dupont",
+          "notify_by_email": true,
+          "notify_by_sms": true,
+          "number_of_children": null,
+          "phone_number": "0101010102",
+          "phone_number_formatted": "+33101010102",
+          "responsible": null,
+          "responsible_id": null,
+          "user_profiles": null
+        }
+      }
+    ],
+    "starts_at": "2022-10-07 10:30:00 +0200",
+    "status": "unknown",
     "users": [
       {
-        "id":1464,
-        "address":"3 Rue de la rue, la Ville, 13007",
-        "address_details":null,
-        "affiliation_number":"",
-        "birth_date":null,
-        "birth_name":null,
-        "caisse_affiliation":null,
-        "case_number":null,
-        "created_at":"2022-02-28 22:19:35 +0100",
-        "email":"bob@example.com",
-        "family_situation":null,
-        "first_name":"Bob",
-        "invitation_accepted_at":null,
-        "invitation_created_at":"2022-02-28 22:19:35 +0100",
-        "last_name":"Example",
-        "notify_by_email":true,
-        "notify_by_sms":true,
-        "number_of_children":null,
-        "phone_number":"0699999999",
-        "phone_number_formatted":"+33699999999",
-        "responsible":null,
-        "responsible_id":null,
-        "user_profiles":null
+        "id": 3,
+        "address": null,
+        "address_details": null,
+        "affiliation_number": null,
+        "birth_date": "1982-12-01",
+        "birth_name": null,
+        "caisse_affiliation": null,
+        "case_number": null,
+        "created_at": "2022-10-06 10:37:12 +0200",
+        "email": "lea_dupont@demo.rdv-solidarites.fr",
+        "family_situation": null,
+        "first_name": "Léa",
+        "invitation_accepted_at": null,
+        "invitation_created_at": null,
+        "last_name": "Dupont",
+        "notify_by_email": true,
+        "notify_by_sms": true,
+        "number_of_children": null,
+        "phone_number": "0101010102",
+        "phone_number_formatted": "+33101010102",
+        "responsible": null,
+        "responsible_id": null,
+        "user_profiles": null
       }
     ],
-    "users_count":1,
-    "uuid":"47216715-675e-4728-b22a-5079d14f0b8b"
+    "users_count": 1,
+    "uuid": "10af380f-13e2-4d44-9f60-47f8f381a7d7"
   },
   "meta": {
-    "model":"Rdv",
-    "event":"created",
-    "timestamp":"2022-04-19 21:32:32 +0200"
+    "model": "Rdv",
+    "event": "created",
+    "timestamp": "2022-10-06 15:53:57 +0200"
   }
 }
 ```
